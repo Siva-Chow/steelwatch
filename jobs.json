@@ -1,30 +1,91 @@
 {
- "generated": "2026-07-09 10:28 UTC",
- "count": 16,
+ "generated": "2026-07-09 14:00 UTC",
+ "count": 29,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: no APIFY_TOKEN set",
-   "query 'Werkstoffingenieur Stahl' failed: no APIFY_TOKEN set",
-   "query 'Prozessingenieur Stahl' failed: no APIFY_TOKEN set",
-   "query 'Qualitätsingenieur Metall' failed: no APIFY_TOKEN set",
-   "query 'Werkstoff Ingenieur Stahl' failed: no APIFY_TOKEN set",
-   "query 'Prozessingenieur Metallurgie' failed: no APIFY_TOKEN set",
-   "query 'Werkstoff Ingenieur Stahl' failed: no APIFY_TOKEN set",
-   "query 'materials engineer steel' failed: no APIFY_TOKEN set",
-   "query 'process engineer metallurgy' failed: no APIFY_TOKEN set",
-   "query 'process engineer steel' failed: no APIFY_TOKEN set",
-   "query 'ingénieur matériaux sidérurgie' failed: no APIFY_TOKEN set",
-   "query 'ingénieur procédés métallurgie' failed: no APIFY_TOKEN set"
+   "query 'Metallurgie Ingenieur' failed: 'dict' object has no attribute 'strip'",
+   "query 'Werkstoffingenieur Stahl' failed: 'dict' object has no attribute 'strip'",
+   "query 'Qualitätsingenieur Metall' failed: 'dict' object has no attribute 'strip'",
+   "query 'materials engineer steel' failed: 'dict' object has no attribute 'strip'",
+   "query 'process engineer metallurgy' failed: 'dict' object has no attribute 'strip'",
+   "query 'ingénieur procédés métallurgie' failed: 'dict' object has no attribute 'strip'"
   ],
   "Google Jobs": [
-   "query 'Stahl Metallurgie Ingenieur Deutschland' failed: no APIFY_TOKEN set",
-   "query 'steel metallurgy engineer Austria' failed: no APIFY_TOKEN set",
-   "query 'steel process engineer Sweden' failed: no APIFY_TOKEN set"
+   "query 'steel metallurgy engineer Austria' failed: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/johnvc~Google-Jobs-Scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'steel process engineer Sweden' failed: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/johnvc~Google-Jobs-Scraper/run-sync-get-dataset-items?token=[redacted]"
   ],
-  "thyssenkrupp Steel Europe": "error: 403 Client Error: Forbidden for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs"
+  "thyssenkrupp Steel Europe": "ok (11)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur Fachrichtung Metallurgie",
+   "co": "Aktien-Geselllschaft der Dillinger Hüttenwerke",
+   "loc": "Germany",
+   "country": "DE",
+   "url": "https://www.google.com/search?ibp=htl;jobs&q=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=_uastJYzIOvLWFnNAAAAAA%3D%3D&hl=de-DE&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2OMUpDQRRFsc0SrF4d8H8RbGIhgpiksHIBYf54nXnJy5vPvDeY0j24gSzEylRuw5WYELC5zTkc7uTnYnK_1ARltEpPIebKMXvTRM_wINJqYnzvfz8-6cUhArUWM2gA07yUJLi8y-6jzfreTLpkHpxjF8u2L4qh7Pp1Gew0K8uhYpTgWN3cXu-6UdN0-bBxhl7NYce6WMzhzekVlR5ZhI_XKi0OX-7Qd9QNiPWfKAU9q0VD-wP9BLVCzAAAAA&shmds=v1_ARwrE22qRdywjFnPGcBdCed8EEIq5cTD2iT3yKuv-12PEnBM8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=_uastJYzIOvLWFnNAAAAAA%3D%3D",
+   "posted": "2026-06-19",
+   "source": "Google Jobs",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "92a41f0e069d",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingenieur*in Qualitätsverbesserung (m/w/d)",
+   "co": "Lech-Stahlwerke GmbH",
+   "loc": "Germany",
+   "country": "DE",
+   "url": "https://www.google.com/search?ibp=htl;jobs&q=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=jSF0p5WvMJM0iDBgAAAAAA%3D%3D&hl=de-DE&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOQQ4BMRQG4NjOEaxqh8RUJDYcwEhYiANIO_60pdNO-t6YWbqDC1hYOQY3cRJsvvWXPXtZsQ4GwaFJYxfErlHe8fvBdEHSIEJqghHDSrbyOHrdP9eb2DO8R6CmtBAaTqxiNB79pWWuaSElkc8NsWJX5mWsZAzQsZOnqOnPgaxKqL1iHGbzaZfXwYwHG5R2smdlfYt0hlhVuhC_0RaO3b_4BZ0AM5OtAAAA&shmds=v1_ARwrE231VPj1klBUZaDaVQCR_pYia8-Bw1IzjPGsM1kFtbFudw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=jSF0p5WvMJM0iDBgAAAAAA%3D%3D",
+   "posted": "2026-07-09",
+   "source": "Google Jobs",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "id": "ec83af23fc21",
+   "firstSeen": "2026-07-09"
+  },
   {
    "t": "Werkstoffingenieur / Physiker – Entwicklung neuer Stahlwerkstoffe (w/m/d)",
    "co": "Salzgitter AG",
@@ -279,6 +340,31 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingenieur:in für Level 2 Prozessautomation im Team Automatisierungstechnik im Warmbandwerk 2 (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-fr-Level-2-Prozessautomation-im-Team-Automatisierungstechnik-im-Warmbandwerk-2--m-w-d-_JR0000013903-1",
+   "posted": "2026-07-02",
+   "source": "Career page",
+   "fit": 73,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Plant data / Level-2 analysis",
+     1
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "id": "3786642f90e3",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Engineer Process – Germany",
    "co": "Kennametal",
    "loc": "Mistelgau",
@@ -354,6 +440,27 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
+   "posted": "2026-06-11",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "id": "11d6b30428c6",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Trainee Engineering (m/w/d)",
    "co": "HME Brass Germany",
    "loc": "Berlin",
@@ -404,6 +511,27 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Studierende (m/w/d) zur Mithilfe bei der Implementierung eines CAFM-Systems (Computer-Aided Facility Management) im Bereich Property Management",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Andernach",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Andernach/Student-in--m-w-d--Implementierung-eines-CAFM-Systems-im-Bereich-Property-Management_JR0000013436-1",
+   "posted": "2026-07-09",
+   "source": "Career page",
+   "fit": 58,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "id": "01f8c8410c6b",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Risk Engineer",
    "co": "Höganäs AB",
    "loc": "Höganäs",
@@ -422,6 +550,214 @@
    "id": "ece6bbfe04bd",
    "note": [],
    "offtype": false,
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in im Bereich Digitalisierung und Automatisierung (m/w/divers)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Digitalisierung-und-Automatisierung--m-w-divers-_JR0000011002",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 51,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "3d6af2a80fdb",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in im Bereich Produktions- bzw. Instandhaltungsmanagement (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Produktions--bzw-Instandhaltungsmanagement--m-w-d-_JR0000011003",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 51,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": true,
+   "id": "82916276ec99",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Duales Studium Bachelor of Engineering Informationstechnik (m/w/d) 2026",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Andernach",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Andernach/Duales-Studium-Bachelor-of-Engineering-Informationstechnik--m-w-d--2026_JR0000013563",
+   "posted": "2026-07-09",
+   "source": "Career page",
+   "fit": 49,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "009f13b7ef8d",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in für Zustandsüberwachung & Zuverlässigkeitsmanagement (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-Zustandsberwachung---Zuverlssigkeitsmanagement--m-w-d-_JR0000011067",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 43,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "caca658133a5",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in für die Analyse und Optimierung von technischen Prozessen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-die-Analyse-und-Optimierung-von-technischen-Prozessen--m-w-d-_JR0000011007",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 43,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": true,
+   "id": "24b96cfd5f4f",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in für das Zuverlässigkeitsmanagement im Bereich strategische Instandhaltung (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-das-Zuverlssigkeitsmanagement-im-Bereich-strategische-Instandhaltung--m-w-d-_JR0000011006",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 43,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "33cd4c2d2df5",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikant:in im Bereich Wertmanagement und Performance Management (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Wertmanagement-und-Performance-Management--m-w-d-_JR0000011004",
+   "posted": "2026-06-15",
+   "source": "Career page",
+   "fit": 43,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "6ab6133ea087",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Praktikum/Bachelor-/Masterarbeit im Bereich Moderner IT-Anwendungen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "2 Locations",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Moderner-IT-Anwendungen--m-w-d-_JR0000013893-1",
+   "posted": "2026-07-09",
+   "source": "Career page",
+   "fit": 43,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": true,
+   "id": "5639369a8b8f",
    "firstSeen": "2026-07-09"
   },
   {
