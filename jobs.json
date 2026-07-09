@@ -1,10 +1,11 @@
 {
- "generated": "2026-07-09 21:20 UTC",
- "count": 44,
+ "generated": "2026-07-09 22:01 UTC",
+ "count": 42,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (47)",
   "SuccessFactors": "ok (92)",
+  "Company feeds": "error: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-feed/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (11)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (99)"
@@ -1247,28 +1248,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Development engineer – Digital Technology & Systems",
-   "co": "SSAB",
-   "loc": "Raahe, Finland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1788",
-   "posted": "2026-06-11",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Development",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "348880f55bd8",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Laboratorieingenjör våtkemi",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -1288,28 +1267,6 @@
    "offtype": false,
    "french": false,
    "id": "292738ddc027",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "IT - Data Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Budapest, Hungary",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4286",
-   "posted": "2026-06-01",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "c6107ea62d16",
    "firstSeen": "2026-07-09"
   },
   {
