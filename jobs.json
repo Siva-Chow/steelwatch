@@ -1,23 +1,430 @@
 {
- "generated": "2026-07-09 14:08 UTC",
- "count": 29,
+ "generated": "2026-07-09 14:20 UTC",
+ "count": 68,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: 'dict' object has no attribute 'strip'",
-   "query 'Werkstoffingenieur Stahl' failed: 'dict' object has no attribute 'strip'",
-   "query 'Qualitätsingenieur Metall' failed: 'dict' object has no attribute 'strip'",
-   "query 'materials engineer steel' failed: 'dict' object has no attribute 'strip'",
-   "query 'process engineer metallurgy' failed: 'dict' object has no attribute 'strip'",
-   "query 'ingénieur procédés métallurgie' failed: 'dict' object has no attribute 'strip'"
-  ],
-  "Google Jobs": [
-   "query 'steel metallurgy engineer Austria' failed: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/johnvc~Google-Jobs-Scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'steel process engineer Sweden' failed: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/johnvc~Google-Jobs-Scraper/run-sync-get-dataset-items?token=[redacted]"
-  ],
+  "Indeed": "ok (45)",
   "thyssenkrupp Steel Europe": "ok (11)"
  },
  "jobs": [
+  {
+   "t": "Kalibrations- / Applikationsingenieur:in (m/w/d)",
+   "co": "",
+   "loc": "Kleve",
+   "country": "DE",
+   "url": "https://join.com/companies/quantoluxde/16394416-kalibrations-applikationsingenieur-in-m-w-d?pid=a13795120131dbe48464",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "id": "b2b37141cc26",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Senior Werkstoffingenieur Metallurgie (m/w/d)",
+   "co": "Meleghy Automotive",
+   "loc": "Gera",
+   "country": "DE",
+   "url": "https://meleghy.pi-asp.de/bewerber-web?company=MGYG-FIRMA-ID&tenant=&lang=D&canShare=true&Uid=#position,id=d4f4dc5b-7458-4301-a2b1-5c4d3b7b9deb,popup=y",
+   "posted": "2026-07-01",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "88738abda4e1",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
+   "co": "ASML Deutschland",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
+   "posted": "2026-07-09",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "7b7f8dfe6ac4",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Laboratory Engineer – Materials Characterisation & R&D",
+   "co": "AxÖ Consulting",
+   "loc": "Hofors",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31247667",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "49000bfaecca",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Laboratory Engineer – Materials Characterisation & R&D",
+   "co": "Ovako Group",
+   "loc": "Hofors",
+   "country": "SE",
+   "url": "https://ovako.varbi.com/en/what:job/jobID:953521/type:job/where:62/apply:1",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "1858e684757c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Mechanical Site Engineer (Mechanical Engineer)",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31221732",
+   "posted": "2026-06-26",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "ee15b9336d77",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur qualité H/F",
+   "co": "L'industrie recrute",
+   "loc": "Roques",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819687?utm_source=Mg==",
+   "posted": "2026-07-08",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "9eec879676c3",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Conception & Industrialisation",
+   "co": "REF Bikes",
+   "loc": "Montpellier",
+   "country": "FR",
+   "url": "http://fr.indeed.com/job/ing%C3%A9nieur-conception-industrialisation-e97c22457aa3ac8a",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "e825a85356ba",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "CDI - Chef de projet qualité marchés Bijoux Fantaisie & Ceintures Cuir (H/F/X)",
+   "co": "CHANEL",
+   "loc": "Paris",
+   "country": "FR",
+   "url": "https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Paris/CDI---Chef-de-projet-qualit-marchs-Bijoux-Fantaisie---Ceintures-Cuir--H-F-X-_JOBREQ00114350-1",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "4385c4fb5fc7",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Automaticien H/F",
+   "co": "ERASTEEL",
+   "loc": "Champagnole",
+   "country": "FR",
+   "url": "http://fr.indeed.com/job/automaticien-hf-4009a12571feeaf3",
+   "posted": "2026-07-01",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "c9ca91448f5f",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Qualité Fournisseurs - H/F",
+   "co": "NEO2",
+   "loc": "Saint-Nazaire",
+   "country": "FR",
+   "url": "https://neo2consultant.teamtailor.com/jobs/7980689-ingenieur-qualite-fournisseurs-h-f",
+   "posted": "2026-06-26",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "dd896d9bafb0",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Projets Industriels - Nucléaire F/H",
+   "co": "Groupe ADF",
+   "loc": "Aix-en-Provence",
+   "country": "FR",
+   "url": "https://careers.groupeadf.com/jobs/7910282-ingenieur-projets-industriels-nucleaire-f-h",
+   "posted": "2026-06-25",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "aab34d5fdae4",
+   "firstSeen": "2026-07-09"
+  },
   {
    "t": "Ingenieur Fachrichtung Metallurgie",
    "co": "Aktien-Geselllschaft der Dillinger Hüttenwerke",
@@ -87,6 +494,148 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingénieur(e) Qualité",
+   "co": "Constellium",
+   "loc": "Neuf-Brisach",
+   "country": "FR",
+   "url": "https://www.constellium.com/careers/job-search/49823/ing%C3%A9nieur(e)-qualit%C3%A9",
+   "posted": "2026-06-25",
+   "source": "Indeed",
+   "fit": 96,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "6715505485c4",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur qualité et amélioration continue H/F",
+   "co": "L'industrie recrute",
+   "loc": "Andrézieux-Bouthéon",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819683?utm_source=Mg==",
+   "posted": "2026-07-08",
+   "source": "Indeed",
+   "fit": 95,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "4b6c3d4715f6",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Essais H/F",
+   "co": "L'industrie recrute",
+   "loc": "Veurey-Voroize",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819246?utm_source=Mg==",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 95,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "cec5d8c27c95",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur méthodes métallurgiste H/F",
+   "co": "L'industrie recrute",
+   "loc": "Andrézieux-Bouthéon",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819100?utm_source=Mg==",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 95,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "72248499ce95",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Werkstoffingenieur / Physiker – Entwicklung neuer Stahlwerkstoffe (w/m/d)",
    "co": "Salzgitter AG",
    "loc": "Salzgitter",
@@ -120,6 +669,109 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Mitarbeiter Labor (m/w/d)",
+   "co": "OETINGER ALUMINIUM",
+   "loc": "Neu-Ulm",
+   "country": "DE",
+   "url": "https://www.oetinger.net/job/stellenangebot-laborleiter-m-w-d/",
+   "posted": "2026-07-05",
+   "source": "Indeed",
+   "fit": 92,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "0d18b3daec94",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Commercial H/F",
+   "co": "L'UNION DES FORGERONS",
+   "loc": "Méréville",
+   "country": "FR",
+   "url": "http://fr.indeed.com/job/ing%C3%A9nieur-commercial-hf-1af09dc55756223e",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "019759beb4d2",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur / Technicien Méthodes Industrialisation (H/F) – Ferroviaire",
+   "co": "B-Hive Engineering",
+   "loc": "Thionville",
+   "country": "FR",
+   "url": "https://www.jobposting.pro/emploi-2632977-109",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "32a33a925f6d",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Werkstoffingenieur:in Stahl / Stahltechnologie / Umformtechnik (w/m/d)",
    "co": "GMH Gruppe",
    "loc": "Gröditz",
@@ -146,6 +798,80 @@
    "id": "c0f31d255ead",
    "note": [],
    "offtype": false,
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
+   "co": "L'industrie recrute",
+   "loc": "Cherbourg-Octeville",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819390?utm_source=Mg==",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "7b2e054d1462",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
+   "co": "Simon Frères",
+   "loc": "Cherbourg-Octeville",
+   "country": "FR",
+   "url": "https://recrutement.simon-sas.com/jobs/8019820-ingenieur-d-etudes-en-conception-machines-speciales-h-f",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "ff4871031d1b",
    "firstSeen": "2026-07-09"
   },
   {
@@ -178,6 +904,105 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
+   "co": "ASML",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
+   "posted": "2026-07-09",
+   "source": "Indeed",
+   "fit": 88,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "a0fc4141833c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur référent analyses chimiques – H/F",
+   "co": "Cetim",
+   "loc": "Saint-Didier-au-Mont-d'Or",
+   "country": "FR",
+   "url": "https://recrutement.cetim.fr/o/ingenieur-referent-analyses-chimiques-hf?source=Indeed",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 88,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "586c4080ef64",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Responsable technique & Performance énergétique et écoconception F/H",
+   "co": "Orano",
+   "loc": "Bagnols-sur-Cèze",
+   "country": "FR",
+   "url": "https://jobs.orano.group/fr_FR/jobs/JobDetail/Responsable-technique-Performance-nerg-tique-et-coconception-F-H/14923?source=External%2BCareers%2BMarketplace",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 88,
+   "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "b0b6b5da3705",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Produktionsingenieur – Metallurge (m/w/d)",
    "co": "DK Recycling und Roheisen",
    "loc": "Duisburg",
@@ -204,6 +1029,80 @@
    "id": "4f01dfdb8191",
    "note": [],
    "offtype": false,
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Électrique – Équipements de Levage H/F",
+   "co": "ASTRIDSEN",
+   "loc": "Fos-sur-Mer",
+   "country": "FR",
+   "url": "https://astridsen.recrutement-talents.fr/offre/br1pj6lv2y",
+   "posted": "2026-07-08",
+   "source": "Indeed",
+   "fit": 86,
+   "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Quality",
+   "note": [],
+   "offtype": false,
+   "id": "5cc15f86c0b2",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur Méthodes procédé Forge F/H",
+   "co": "Framatome",
+   "loc": "Ugine",
+   "country": "FR",
+   "url": "https://framatome-career.talent-soft.com/job/ingenieur-methodes-procede-forge-f-h_26864.aspx",
+   "posted": "2026-06-26",
+   "source": "Indeed",
+   "fit": 86,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "e610f39231e1",
    "firstSeen": "2026-07-09"
   },
   {
@@ -236,6 +1135,82 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Mechanical Design Engineer",
+   "co": "Sulzer",
+   "loc": "Mariestad",
+   "country": "SE",
+   "url": "https://sulzer.wd502.myworkdayjobs.com/en-US/SulzerJobs/job/Mariestad/Mechanical-Design-Engineer_JR103689",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 84,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "id": "ada942e290a7",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "SAE-DI-IX Ingénieur·e Méthodes Forge Expérimenté·e F-H",
+   "co": "Safran",
+   "loc": "Colombes",
+   "country": "FR",
+   "url": "https://www.safran-group.com/jobs/france/colombes/sae-di-ix-ingenieure-methodes-forge-experimentee-fh-181578",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 81,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "3ea3908d9561",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
    "co": "GMH Gruppe",
    "loc": "Gröditz",
@@ -265,6 +1240,45 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Qualitätsingenieur Wareneingang (m/w/d)",
+   "co": "FINOW",
+   "loc": "Eberswalde",
+   "country": "DE",
+   "url": "https://t.gohiring.com/h/8bdb875e69528fea2319fbaf88c038bde821b0b3d5f49bade77a0590ce75c528?source=Indeed",
+   "posted": "2026-07-09",
+   "source": "Indeed",
+   "fit": 80,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "id": "c7e9fa41970d",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Prozessingenieur:in Materialrecycling",
    "co": "Plansee Group",
    "loc": "Reutte",
@@ -287,6 +1301,119 @@
    "id": "51519e1aaa47",
    "note": [],
    "offtype": false,
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "INGENIEUR DEVELOPPEMENT FOURNISSEURS H/F",
+   "co": "L'industrie recrute",
+   "loc": "Ormes",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819797?utm_source=Mg==",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 76,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "10ce2211753b",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Expert Fromager / Ingénieur R&D H/F",
+   "co": "L'industrie recrute",
+   "loc": "Niort",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819398?utm_source=Mg==",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 76,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "babb356a1aec",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Technicien Méthodes industrialisation/ Assemblage F/H",
+   "co": "Groupe eXcent",
+   "loc": "Mont-de-Marsan",
+   "country": "FR",
+   "url": "https://recrutement.excent.fr/front-jobs-detail.html?id_job=6656&id_origin=0",
+   "posted": "2026-06-26",
+   "source": "Indeed",
+   "fit": 76,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "80d4580ab0c9",
    "firstSeen": "2026-07-09"
   },
   {
@@ -340,6 +1467,41 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingénieur commercial H/F",
+   "co": "L'industrie recrute",
+   "loc": "Toulouse",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819324?utm_source=Mg==",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 73,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "bf305f958517",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Ingenieur:in für Level 2 Prozessautomation im Team Automatisierungstechnik im Warmbandwerk 2 (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
@@ -387,6 +1549,80 @@
    "id": "7d16c4896f61",
    "note": [],
    "offtype": false,
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur/Qualitätstechniker (m/w/d)",
+   "co": "KOEPFER Group",
+   "loc": "Ludwigsburg",
+   "country": "DE",
+   "url": "http://de.indeed.com/job/qualit%C3%A4tsingenieurqualit%C3%A4tstechniker-mwd-f7cf5f97d10dcba9",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 72,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "cec705babe19",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "BORBET",
+   "loc": "Hallenberg",
+   "country": "DE",
+   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/65749771/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 72,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "5a76d2f68d3c",
    "firstSeen": "2026-07-09"
   },
   {
@@ -440,6 +1676,117 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Manager de proximité – Industrialisation Externe Matières & Forgés F-H",
+   "co": "Safran",
+   "loc": "Oloron-Sainte-Marie",
+   "country": "FR",
+   "url": "https://www.safran-group.com/jobs/france/oloron-sainte-marie/manager-proximite-industrialisation-externe-matieres-forges-fh-183516",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 66,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "5820e99974f2",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur/Qualitätstechniker (m/w/d)",
+   "co": "KOEPFER Zahnrad- und Getriebetechnik GmbH",
+   "loc": "Ludwigsburg",
+   "country": "DE",
+   "url": "https://www.koepfer.com/karriere/stellenangebote/qualitaetsingenieur-qualitaetstechniker-m-w-d/",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 65,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "9c331cbdfbe9",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Sales Specialist",
+   "co": "ABB",
+   "loc": "Västerås",
+   "country": "SE",
+   "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/Sales-Specialist_JR00038677-1",
+   "posted": "2026-07-01",
+   "source": "Indeed",
+   "fit": 65,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "50c968e36f1e",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
@@ -458,6 +1805,43 @@
    "note": [],
    "offtype": false,
    "id": "11d6b30428c6",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Chef(fe) atelier Fabrication R&T F-H",
+   "co": "Safran",
+   "loc": "Colombes",
+   "country": "FR",
+   "url": "https://www.safran-group.com/jobs/france/colombes/cheffe-atelier-fabrication-rt-fh-182780",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 61,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "b5ab54002746",
    "firstSeen": "2026-07-09"
   },
   {
