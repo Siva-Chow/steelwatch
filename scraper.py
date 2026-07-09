@@ -187,8 +187,9 @@ def make_job(title, co, loc, country, url, posted, source, desc=""):
 def apify_run(actor, payload, timeout=280):
     if not APIFY_TOKEN:
         raise RuntimeError("no APIFY_TOKEN set")
-    url = f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items?token={APIFY_TOKEN}"
-    r = requests.post(url, json=payload, timeout=timeout)
+    url = f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items"
+    r = requests.post(url, json=payload, timeout=timeout,
+                      headers={"Authorization": f"Bearer {APIFY_TOKEN}"})
     r.raise_for_status()
     return r.json()
 
@@ -336,11 +337,20 @@ def main():
 
     out = {"generated": NOW.strftime("%Y-%m-%d %H:%M UTC"),
            "count": len(fresh), "status": status, "jobs": fresh}
-    with open(JOBS_PATH, "w") as f: json.dump(out, f, ensure_ascii=False, indent=1)
+
+    # Safety net: never allow a token-like string into the committed file, whatever a source returned.
+    def scrub(text):
+        text = re.sub(r"apify_api_[A-Za-z0-9]{20,}", "[redacted]", text)
+        if APIFY_TOKEN:
+            text = text.replace(APIFY_TOKEN, "[redacted]")
+        return text
+
+    with open(JOBS_PATH, "w") as f:
+        f.write(scrub(json.dumps(out, ensure_ascii=False, indent=1)))
     os.makedirs(os.path.dirname(SEEN_PATH), exist_ok=True)
     with open(SEEN_PATH, "w") as f: json.dump(seen, f, indent=1)
 
-    print(f"Steelwatch: wrote {len(fresh)} jobs. Sources: {json.dumps(status)}")
+    print(scrub(f"Steelwatch: wrote {len(fresh)} jobs. Sources: {json.dumps(status)}"))
 
 if __name__ == "__main__":
     try:
