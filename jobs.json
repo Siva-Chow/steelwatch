@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-09 15:06 UTC",
- "count": 248,
+ "generated": "2026-07-09 20:54 UTC",
+ "count": 56,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (45)",
@@ -49,76 +49,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Senior Werkstoffingenieur Metallurgie (m/w/d)",
-   "co": "Meleghy Automotive",
-   "loc": "Gera",
-   "country": "DE",
-   "url": "https://meleghy.pi-asp.de/bewerber-web?company=MGYG-FIRMA-ID&tenant=&lang=D&canShare=true&Uid=#position,id=d4f4dc5b-7458-4301-a2b1-5c4d3b7b9deb,popup=y",
-   "posted": "2026-07-01",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "88738abda4e1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
-   "co": "ASML Deutschland",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "7b7f8dfe6ac4",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Laboratory Engineer – Materials Characterisation & R&D",
    "co": "AxÖ Consulting",
    "loc": "Hofors",
@@ -145,7 +75,7 @@
      1
     ],
     [
-     "Senior / management (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
@@ -193,45 +123,12 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Mechanical Site Engineer (Mechanical Engineer)",
-   "co": "Gemkom Engineering and Machinery Filial",
-   "loc": "Boden",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31221732",
-   "posted": "2026-06-26",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "ee15b9336d77",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur qualité H/F",
+   "t": "INGENIEUR PRODUIT - PROCESS H/F",
    "co": "L'industrie recrute",
-   "loc": "Roques",
+   "loc": "Saint-Jacques-de-la-Lande",
    "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819687?utm_source=Mg==",
-   "posted": "2026-07-08",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/820170?utm_source=Mg==",
+   "posted": "2026-07-09",
    "source": "Indeed",
    "fit": 100,
    "tags": [
@@ -255,7 +152,7 @@
    "cat": "Materials",
    "note": [],
    "offtype": false,
-   "id": "9eec879676c3",
+   "id": "cafc563c3f09",
    "firstSeen": "2026-07-09"
   },
   {
@@ -289,74 +186,6 @@
    "note": [],
    "offtype": false,
    "id": "e825a85356ba",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "CDI - Chef de projet qualité marchés Bijoux Fantaisie & Ceintures Cuir (H/F/X)",
-   "co": "CHANEL",
-   "loc": "Paris",
-   "country": "FR",
-   "url": "https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Paris/CDI---Chef-de-projet-qualit-marchs-Bijoux-Fantaisie---Ceintures-Cuir--H-F-X-_JOBREQ00114350-1",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for French"
-   ],
-   "offtype": false,
-   "id": "4385c4fb5fc7",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Automaticien H/F",
-   "co": "ERASTEEL",
-   "loc": "Champagnole",
-   "country": "FR",
-   "url": "http://fr.indeed.com/job/automaticien-hf-4009a12571feeaf3",
-   "posted": "2026-07-01",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "c9ca91448f5f",
    "firstSeen": "2026-07-09"
   },
   {
@@ -566,17 +395,17 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Ingénieur qualité et amélioration continue H/F",
-   "co": "L'industrie recrute",
-   "loc": "Andrézieux-Bouthéon",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819683?utm_source=Mg==",
-   "posted": "2026-07-08",
+   "t": "Mechanical Site Engineer (Mechanical Engineer)",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31221732",
+   "posted": "2026-06-26",
    "source": "Indeed",
-   "fit": 95,
+   "fit": 93,
    "tags": [
     [
-     "Metallurgy",
+     "Steel",
      1
     ],
     [
@@ -588,86 +417,18 @@
      1
     ],
     [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for French"
-   ],
-   "offtype": false,
-   "id": "4b6c3d4715f6",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur Essais H/F",
-   "co": "L'industrie recrute",
-   "loc": "Veurey-Voroize",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819246?utm_source=Mg==",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 95,
-   "tags": [
-    [
-     "Metallurgy",
+     "Rolling / forming",
      1
     ],
     [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "cec5d8c27c95",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur méthodes métallurgiste H/F",
-   "co": "L'industrie recrute",
-   "loc": "Andrézieux-Bouthéon",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819100?utm_source=Mg==",
-   "posted": "2026-07-02",
-   "source": "Indeed",
-   "fit": 95,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ]
-   ],
    "cat": "Materials",
    "note": [],
    "offtype": false,
-   "id": "72248499ce95",
+   "id": "ee15b9336d77",
    "firstSeen": "2026-07-09"
   },
   {
@@ -704,49 +465,12 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Mitarbeiter Labor (m/w/d)",
-   "co": "OETINGER ALUMINIUM",
-   "loc": "Neu-Ulm",
-   "country": "DE",
-   "url": "https://www.oetinger.net/job/stellenangebot-laborleiter-m-w-d/",
-   "posted": "2026-07-05",
-   "source": "Indeed",
-   "fit": 92,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "0d18b3daec94",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur Commercial H/F",
-   "co": "L'UNION DES FORGERONS",
-   "loc": "Méréville",
+   "t": "INGENIEUR METHODES SOUDAGE H/F",
+   "co": "L'industrie recrute",
+   "loc": "Lyon",
    "country": "FR",
-   "url": "http://fr.indeed.com/job/ing%C3%A9nieur-commercial-hf-1af09dc55756223e",
-   "posted": "2026-07-07",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819740?utm_source=Mg==",
+   "posted": "2026-07-09",
    "source": "Indeed",
    "fit": 91,
    "tags": [
@@ -770,7 +494,7 @@
    "cat": "R&D",
    "note": [],
    "offtype": false,
-   "id": "019759beb4d2",
+   "id": "db9511ab606d",
    "firstSeen": "2026-07-09"
   },
   {
@@ -836,80 +560,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
-   "co": "L'industrie recrute",
-   "loc": "Cherbourg-Octeville",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819390?utm_source=Mg==",
-   "posted": "2026-07-06",
-   "source": "Indeed",
-   "fit": 90,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "7b2e054d1462",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
-   "co": "Simon Frères",
-   "loc": "Cherbourg-Octeville",
-   "country": "FR",
-   "url": "https://recrutement.simon-sas.com/jobs/8019820-ingenieur-d-etudes-en-conception-machines-speciales-h-f",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 90,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "ff4871031d1b",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Entwicklungsingenieur Werkstoffentwicklung (m/w/d)",
    "co": "Eisenwerk Sulzau-Werfen",
    "loc": "Sulzau",
@@ -936,105 +586,6 @@
    "id": "1fc8c2d9d911",
    "note": [],
    "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
-   "co": "ASML",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 88,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "a0fc4141833c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur référent analyses chimiques – H/F",
-   "co": "Cetim",
-   "loc": "Saint-Didier-au-Mont-d'Or",
-   "country": "FR",
-   "url": "https://recrutement.cetim.fr/o/ingenieur-referent-analyses-chimiques-hf?source=Indeed",
-   "posted": "2026-07-06",
-   "source": "Indeed",
-   "fit": 88,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "586c4080ef64",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Responsable technique & Performance énergétique et écoconception F/H",
-   "co": "Orano",
-   "loc": "Bagnols-sur-Cèze",
-   "country": "FR",
-   "url": "https://jobs.orano.group/fr_FR/jobs/JobDetail/Responsable-technique-Performance-nerg-tique-et-coconception-F-H/14923?source=External%2BCareers%2BMarketplace",
-   "posted": "2026-07-02",
-   "source": "Indeed",
-   "fit": 88,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "b0b6b5da3705",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1067,21 +618,21 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Ingénieur Électrique – Équipements de Levage H/F",
-   "co": "ASTRIDSEN",
-   "loc": "Fos-sur-Mer",
-   "country": "FR",
-   "url": "https://astridsen.recrutement-talents.fr/offre/br1pj6lv2y",
-   "posted": "2026-07-08",
+   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
+   "co": "ASML Deutschland",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
+   "posted": "2026-07-09",
    "source": "Indeed",
-   "fit": 86,
+   "fit": 87,
    "tags": [
     [
-     "Secondary metallurgy / ladle",
+     "Materials",
      1
     ],
     [
-     "Metallurgy",
+     "R&D / development",
      1
     ],
     [
@@ -1089,18 +640,18 @@
      1
     ],
     [
-     "Production",
+     "Rolling / forming",
      1
     ],
     [
-     "Sales / trading (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
-   "cat": "Quality",
+   "cat": "Materials",
    "note": [],
    "offtype": false,
-   "id": "5cc15f86c0b2",
+   "id": "7b7f8dfe6ac4",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1170,56 +721,21 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Mechanical Design Engineer",
-   "co": "Sulzer",
-   "loc": "Mariestad",
-   "country": "SE",
-   "url": "https://sulzer.wd502.myworkdayjobs.com/en-US/SulzerJobs/job/Mariestad/Mechanical-Design-Engineer_JR103689",
-   "posted": "2026-07-06",
+   "t": "Ingénieur qualité H/F",
+   "co": "L'industrie recrute",
+   "loc": "Roques",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819687?utm_source=Mg==",
+   "posted": "2026-07-08",
    "source": "Indeed",
-   "fit": 84,
+   "fit": 83,
    "tags": [
     [
-     "Steel",
+     "Metallurgy",
      1
     ],
     [
      "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "id": "ada942e290a7",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "SAE-DI-IX Ingénieur·e Méthodes Forge Expérimenté·e F-H",
-   "co": "Safran",
-   "loc": "Colombes",
-   "country": "FR",
-   "url": "https://www.safran-group.com/jobs/france/colombes/sae-di-ix-ingenieure-methodes-forge-experimentee-fh-181578",
-   "posted": "2026-07-07",
-   "source": "Indeed",
-   "fit": 81,
-   "tags": [
-    [
-     "Metallurgy",
      1
     ],
     [
@@ -1231,18 +747,127 @@
      1
     ],
     [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
-   "cat": "Development",
+   "cat": "Materials",
    "note": [],
    "offtype": false,
-   "id": "3ea3908d9561",
+   "id": "9eec879676c3",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
+   "co": "L'industrie recrute",
+   "loc": "Cherbourg-Octeville",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819390?utm_source=Mg==",
+   "posted": "2026-07-06",
+   "source": "Indeed",
+   "fit": 83,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "7b2e054d1462",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur d'Études en Conception - Machines Spéciales H/F",
+   "co": "Simon Frères",
+   "loc": "Cherbourg-Octeville",
+   "country": "FR",
+   "url": "https://recrutement.simon-sas.com/jobs/8019820-ingenieur-d-etudes-en-conception-machines-speciales-h-f",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 83,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "ff4871031d1b",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "CDI - Chef de projet qualité marchés Bijoux Fantaisie & Ceintures Cuir (H/F/X)",
+   "co": "CHANEL",
+   "loc": "Paris",
+   "country": "FR",
+   "url": "https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Paris/CDI---Chef-de-projet-qualit-marchs-Bijoux-Fantaisie---Ceintures-Cuir--H-F-X-_JOBREQ00114350-1",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 83,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
+   ],
+   "offtype": false,
+   "id": "4385c4fb5fc7",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1275,45 +900,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Qualitätsingenieur Wareneingang (m/w/d)",
-   "co": "FINOW",
-   "loc": "Eberswalde",
-   "country": "DE",
-   "url": "https://t.gohiring.com/h/8bdb875e69528fea2319fbaf88c038bde821b0b3d5f49bade77a0590ce75c528?source=Indeed",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 80,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "id": "c7e9fa41970d",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Prozessingenieur:in Materialrecycling",
    "co": "Plansee Group",
    "loc": "Reutte",
@@ -1339,97 +925,21 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "INGENIEUR DEVELOPPEMENT FOURNISSEURS H/F",
-   "co": "L'industrie recrute",
-   "loc": "Ormes",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819797?utm_source=Mg==",
-   "posted": "2026-07-07",
-   "source": "Indeed",
-   "fit": 76,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "10ce2211753b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Expert Fromager / Ingénieur R&D H/F",
-   "co": "L'industrie recrute",
-   "loc": "Niort",
-   "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819398?utm_source=Mg==",
+   "t": "Mechanical Design Engineer",
+   "co": "Sulzer",
+   "loc": "Mariestad",
+   "country": "SE",
+   "url": "https://sulzer.wd502.myworkdayjobs.com/en-US/SulzerJobs/job/Mariestad/Mechanical-Design-Engineer_JR103689",
    "posted": "2026-07-06",
    "source": "Indeed",
    "fit": 76,
    "tags": [
     [
-     "Metallurgy",
+     "Steel",
      1
     ],
     [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [
-    "Asks for French"
-   ],
-   "offtype": false,
-   "id": "babb356a1aec",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technicien Méthodes industrialisation/ Assemblage F/H",
-   "co": "Groupe eXcent",
-   "loc": "Mont-de-Marsan",
-   "country": "FR",
-   "url": "https://recrutement.excent.fr/front-jobs-detail.html?id_job=6656&id_origin=0",
-   "posted": "2026-06-26",
-   "source": "Indeed",
-   "fit": 76,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
+     "Materials",
      1
     ],
     [
@@ -1445,10 +955,12 @@
      0
     ]
    ],
-   "cat": "R&D",
-   "note": [],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
    "offtype": false,
-   "id": "80d4580ab0c9",
+   "id": "ada942e290a7",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1477,6 +989,43 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "SAE-DI-IX Ingénieur·e Méthodes Forge Expérimenté·e F-H",
+   "co": "Safran",
+   "loc": "Colombes",
+   "country": "FR",
+   "url": "https://www.safran-group.com/jobs/france/colombes/sae-di-ix-ingenieure-methodes-forge-experimentee-fh-181578",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 74,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "3ea3908d9561",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Qualitätsingenieur Schmiede Unna (m|w|d)",
    "co": "VDM Metals International",
    "loc": "Unna",
@@ -1502,12 +1051,12 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Ingénieur commercial H/F",
+   "t": "Ingénieur qualité et amélioration continue H/F",
    "co": "L'industrie recrute",
-   "loc": "Toulouse",
+   "loc": "Andrézieux-Bouthéon",
    "country": "FR",
-   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819324?utm_source=Mg==",
-   "posted": "2026-07-06",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819683?utm_source=Mg==",
+   "posted": "2026-07-08",
    "source": "Indeed",
    "fit": 73,
    "tags": [
@@ -1520,11 +1069,15 @@
      1
     ],
     [
-     "R&D / development",
+     "Quality engineering",
      1
     ],
     [
-     "Sales / trading (off-target)",
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
@@ -1533,7 +1086,44 @@
     "Asks for French"
    ],
    "offtype": false,
-   "id": "bf305f958517",
+   "id": "4b6c3d4715f6",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur méthodes métallurgiste H/F",
+   "co": "L'industrie recrute",
+   "loc": "Andrézieux-Bouthéon",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819100?utm_source=Mg==",
+   "posted": "2026-07-02",
+   "source": "Indeed",
+   "fit": 73,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "id": "72248499ce95",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1587,15 +1177,23 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Qualitätsingenieur/Qualitätstechniker (m/w/d)",
-   "co": "KOEPFER Group",
-   "loc": "Ludwigsburg",
-   "country": "DE",
-   "url": "http://de.indeed.com/job/qualit%C3%A4tsingenieurqualit%C3%A4tstechniker-mwd-f7cf5f97d10dcba9",
-   "posted": "2026-07-06",
+   "t": "Ingénieur Essais H/F",
+   "co": "L'industrie recrute",
+   "loc": "Veurey-Voroize",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819246?utm_source=Mg==",
+   "posted": "2026-07-03",
    "source": "Indeed",
    "fit": 72,
    "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
     [
      "R&D / development",
      1
@@ -1605,36 +1203,36 @@
      1
     ],
     [
-     "Production",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
+     "Sales / trading (off-target)",
      0
     ]
    ],
    "cat": "Development",
    "note": [],
    "offtype": false,
-   "id": "cec705babe19",
+   "id": "cec5d8c27c95",
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Qualitätsingenieur (m/w/d)",
-   "co": "BORBET",
-   "loc": "Hallenberg",
-   "country": "DE",
-   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/65749771/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
-   "posted": "2026-07-02",
+   "t": "Spécialiste en matériel de tuyauterie / Piping material engineer F/H",
+   "co": "Groupe ADF",
+   "loc": "Aix-en-Provence",
+   "country": "FR",
+   "url": "https://careers.groupeadf.com/jobs/8047700-specialiste-en-materiel-de-tuyauterie-piping-material-engineer-f-h",
+   "posted": "2026-07-09",
    "source": "Indeed",
-   "fit": 72,
+   "fit": 69,
    "tags": [
     [
-     "R&D / development",
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
      1
     ],
     [
@@ -1642,47 +1240,16 @@
      1
     ],
     [
-     "Production",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
+     "Sales / trading (off-target)",
      0
     ]
    ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "5a76d2f68d3c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Trainee Qualitätssicherung / Technische Klärung (m|w|d)",
-   "co": "VDM Metals International",
-   "loc": "Altena",
-   "country": "DE",
-   "cat": "Quality",
-   "fit": 70,
-   "posted": "2026-06-05",
-   "url": "https://to.indeed.com/aakgxn7ztdt8",
-   "tags": [
-    [
-     "Entry level",
-     1
-    ],
-    [
-     "Quality",
-     1
-    ]
+   "cat": "Materials",
+   "note": [
+    "Asks for French"
    ],
-   "source": "Seed",
-   "id": "aa17584cd8ca",
-   "note": [],
-   "offtype": true,
+   "offtype": false,
+   "id": "faa17977eda1",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1711,12 +1278,49 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Manager de proximité – Industrialisation Externe Matières & Forgés F-H",
-   "co": "Safran",
-   "loc": "Oloron-Sainte-Marie",
+   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
+   "co": "ASML",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
+   "posted": "2026-07-09",
+   "source": "Indeed",
+   "fit": 66,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "id": "a0fc4141833c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingénieur référent analyses chimiques – H/F",
+   "co": "Cetim",
+   "loc": "Saint-Didier-au-Mont-d'Or",
    "country": "FR",
-   "url": "https://www.safran-group.com/jobs/france/oloron-sainte-marie/manager-proximite-industrialisation-externe-matieres-forges-fh-183516",
-   "posted": "2026-07-07",
+   "url": "https://recrutement.cetim.fr/o/ingenieur-referent-analyses-chimiques-hf?source=Indeed",
+   "posted": "2026-07-06",
    "source": "Indeed",
    "fit": 66,
    "tags": [
@@ -1725,100 +1329,22 @@
      1
     ],
     [
-     "R&D / development",
+     "Materials",
      1
     ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "5820e99974f2",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Qualitätsingenieur/Qualitätstechniker (m/w/d)",
-   "co": "KOEPFER Zahnrad- und Getriebetechnik GmbH",
-   "loc": "Ludwigsburg",
-   "country": "DE",
-   "url": "https://www.koepfer.com/karriere/stellenangebote/qualitaetsingenieur-qualitaetstechniker-m-w-d/",
-   "posted": "2026-07-06",
-   "source": "Indeed",
-   "fit": 65,
-   "tags": [
     [
      "R&D / development",
      1
     ],
     [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
-   "cat": "Development",
+   "cat": "Materials",
    "note": [],
    "offtype": false,
-   "id": "9c331cbdfbe9",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sales Specialist",
-   "co": "ABB",
-   "loc": "Västerås",
-   "country": "SE",
-   "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Vaesteras-Vastmanland-County-Sweden/Sales-Specialist_JR00038677-1",
-   "posted": "2026-07-01",
-   "source": "Indeed",
-   "fit": 65,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "50c968e36f1e",
+   "id": "586c4080ef64",
    "firstSeen": "2026-07-09"
   },
   {
@@ -1885,71 +1411,21 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Design Engineer - Iron & Steel Bricks Expert",
-   "co": "Calderys (Imerys)",
-   "loc": "Budapest, Hungary",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4329",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "3b29fb649d41",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Sales Engineer – Steel Refractories",
-   "co": "Calderys (Imerys)",
-   "loc": "Jamshedpur, Jharkhand, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4099",
-   "posted": "2026-04-27",
-   "source": "Career page",
+   "t": "Ingénieur Électrique – Équipements de Levage H/F",
+   "co": "ASTRIDSEN",
+   "loc": "Fos-sur-Mer",
+   "country": "FR",
+   "url": "https://astridsen.recrutement-talents.fr/offre/br1pj6lv2y",
+   "posted": "2026-07-08",
+   "source": "Indeed",
    "fit": 63,
    "tags": [
     [
-     "Steel",
+     "Secondary metallurgy / ladle",
      1
     ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "a81cc5c6ecaf",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Chef(fe) atelier Fabrication R&T F-H",
-   "co": "Safran",
-   "loc": "Colombes",
-   "country": "FR",
-   "url": "https://www.safran-group.com/jobs/france/colombes/cheffe-atelier-fabrication-rt-fh-182780",
-   "posted": "2026-07-02",
-   "source": "Indeed",
-   "fit": 61,
-   "tags": [
     [
      "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
      1
     ],
     [
@@ -1965,56 +1441,49 @@
      0
     ]
    ],
-   "cat": "R&D",
+   "cat": "Quality",
    "note": [],
    "offtype": false,
-   "id": "b5ab54002746",
+   "id": "5cc15f86c0b2",
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Trainee Engineering (m/w/d)",
-   "co": "HME Brass Germany",
-   "loc": "Berlin",
+   "t": "Qualitätsingenieur Wareneingang (m/w/d)",
+   "co": "FINOW",
+   "loc": "Eberswalde",
    "country": "DE",
-   "cat": "Other",
-   "fit": 60,
-   "posted": "2026-04-14",
-   "url": "https://to.indeed.com/aahns9dwl6wy",
+   "url": "https://t.gohiring.com/h/8bdb875e69528fea2319fbaf88c038bde821b0b3d5f49bade77a0590ce75c528?source=Indeed",
+   "posted": "2026-07-09",
+   "source": "Indeed",
+   "fit": 61,
    "tags": [
     [
-     "Entry level",
+     "Steel",
      1
     ],
     [
-     "Metals",
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
      0
     ]
    ],
-   "source": "Seed",
-   "id": "634b5aecb568",
-   "note": [],
-   "offtype": true,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Process Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Pingtung County, Taiwan",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3528",
-   "posted": "2025-08-21",
-   "source": "Career page",
-   "fit": 60,
-   "tags": [
-    [
-     "Process engineering",
-     1
-    ]
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
    ],
-   "cat": "Process",
-   "note": [],
    "offtype": false,
-   "id": "d6b3b65654a1",
+   "id": "c7e9fa41970d",
    "firstSeen": "2026-07-09"
   },
   {
@@ -2043,132 +1512,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Studierende (m/w/d) zur Mithilfe bei der Implementierung eines CAFM-Systems (Computer-Aided Facility Management) im Bereich Property Management",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Andernach",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Andernach/Student-in--m-w-d--Implementierung-eines-CAFM-Systems-im-Bereich-Property-Management_JR0000013436-1",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "01f8c8410c6b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Underhållsplanerare Stålverk",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1676",
-   "posted": "2026-07-01",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c1a75df58cfc",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Product Development Metallurgist",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2051",
-   "posted": "2026-06-29",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "6d366b1a5c82",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lagermedarbetare Norrbotten Stål",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1899",
-   "posted": "2026-06-03",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "d8f467156151",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Innesäljare Skåne Stål",
-   "co": "SSAB",
-   "loc": "Anderslöv, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1854",
-   "posted": "2026-06-01",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "9ce7f878a3e1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Research Engineer",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1450",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "040cf4b5913f",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Research Engineer (m/f/d)",
    "co": "Calderys (Imerys)",
    "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
@@ -2190,129 +1533,77 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Material Handler MOD",
-   "co": "SSAB",
-   "loc": "Houston, TX, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2054",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 56,
-   "tags": [
-    [
-     "Materials",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "id": "23da587f7809",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Project Engineer - Rolling Mill & Finishing",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1617",
-   "posted": "2026-05-08",
-   "source": "Career page",
-   "fit": 56,
-   "tags": [
-    [
-     "Rolling / forming",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "2165105b2c0a",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "BORBET",
+   "loc": "Hallenberg",
    "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3881",
-   "posted": "2026-01-27",
-   "source": "Career page",
-   "fit": 56,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "30f7ab5cb6d0",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Engineer, BRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3720",
-   "posted": "2025-11-10",
-   "source": "Career page",
-   "fit": 56,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "c1e5424c6e35",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Engineer Production, KRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Katni, Madhya Pradesh, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3153",
-   "posted": "2025-03-07",
-   "source": "Career page",
-   "fit": 56,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "b308047b4b97",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO Team Leader-Metallography Lab",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2192",
-   "posted": "2026-07-08",
-   "source": "Career page",
+   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/65749771/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
+   "posted": "2026-07-02",
+   "source": "Indeed",
    "fit": 54,
    "tags": [
     [
-     "SEM / EDX characterization",
+     "R&D / development",
      1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
     ]
    ],
-   "cat": "Other",
+   "cat": "Development",
    "note": [],
    "offtype": false,
-   "id": "92086e823a54",
+   "id": "5a76d2f68d3c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "INGENIEUR DEVELOPPEMENT FOURNISSEURS H/F",
+   "co": "L'industrie recrute",
+   "loc": "Ormes",
+   "country": "FR",
+   "url": "https://www.lindustrie-recrute.fr/candidat/offre/819797?utm_source=Mg==",
+   "posted": "2026-07-07",
+   "source": "Indeed",
+   "fit": 53,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "id": "10ce2211753b",
    "firstSeen": "2026-07-09"
   },
   {
@@ -2334,320 +1625,6 @@
    "id": "ece6bbfe04bd",
    "note": [],
    "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Research Analyst",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1453",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 52,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "97fcad7ff097",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Research Lab Technician (m/w/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Marl, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4339",
-   "posted": "2026-06-23",
-   "source": "Career page",
-   "fit": 52,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "8349d54de974",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in im Bereich Digitalisierung und Automatisierung (m/w/divers)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Digitalisierung-und-Automatisierung--m-w-divers-_JR0000011002",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 51,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "3d6af2a80fdb",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in im Bereich Produktions- bzw. Instandhaltungsmanagement (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Produktions--bzw-Instandhaltungsmanagement--m-w-d-_JR0000011003",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 51,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": true,
-   "id": "82916276ec99",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab Chemist - Quality Assurance",
-   "co": "Calderys (Imerys)",
-   "loc": "Butibori, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3551",
-   "posted": "2025-07-29",
-   "source": "Career page",
-   "fit": 51,
-   "tags": [
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Quality",
-   "note": [],
-   "offtype": false,
-   "id": "90088b9b3b9d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Smörjare/Tribolog till produktionsenhet plåt på SSAB",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1979",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "3025216c1767",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production/Operations Laboratory Technical Specialty",
-   "co": "SSAB",
-   "loc": "Northport, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2090",
-   "posted": "2026-06-19",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "5377da38df83",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Operator - Lab",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1977",
-   "posted": "2026-06-09",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "0a101c189bc4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Produktionsmedarbetare Norsa",
-   "co": "SSAB",
-   "loc": "Köping, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1921",
-   "posted": "2026-06-08",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "9c23e4c50715",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Produktionsmedarbetare maskinlinan Norsa",
-   "co": "SSAB",
-   "loc": "Köping, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1936",
-   "posted": "2026-06-08",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "292e4a98e628",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Operator - Melting",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1426",
-   "posted": "2026-05-12",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "b65c06d1d2b8",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Manufacturing Production Technician (Operator)",
-   "co": "Calderys (Imerys)",
-   "loc": "Aamaal, Vaestra Goetaland, Sweden",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4343",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "56c1152e8c53",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Operator",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3832",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 50,
-   "tags": [
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "3a213589fd24",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Duales Studium Bachelor of Engineering Informationstechnik (m/w/d) 2026",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Andernach",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Andernach/Duales-Studium-Bachelor-of-Engineering-Informationstechnik--m-w-d--2026_JR0000013563",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 49,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "009f13b7ef8d",
    "firstSeen": "2026-07-09"
   },
   {
@@ -2756,90 +1733,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Facilities Electrical Engineer",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1464",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0f8e65709326",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Project Engineer - Facilities",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1465",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "a834daf6de06",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Project Engineer - Level 1 Automation",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1618",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b603b8486e2b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Product Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "China",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4228",
-   "posted": "2026-06-04",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Product",
-     1
-    ]
-   ],
-   "cat": "Product",
-   "note": [],
-   "offtype": false,
-   "id": "66c4222095ee",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "IT - Data Engineer",
    "co": "Calderys (Imerys)",
    "loc": "Budapest, Hungary",
@@ -2858,3133 +1751,6 @@
    "note": [],
    "offtype": false,
    "id": "c6107ea62d16",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Service Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4088",
-   "posted": "2026-04-27",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "329cc8e7f233",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Engineer - QPC",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4120",
-   "posted": "2026-04-22",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "affae224974f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Engineer- Mechanical Maintenance",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3910",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "03d4c80dfcbd",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Engineer- Electrical Maintenance",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3911",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "bd4528f7978e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "QPC Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3914",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "9b939cdebc6e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "R&D Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Pingtung County, Taiwan",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3303",
-   "posted": "2026-01-07",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "R&D",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "c78e7138c73f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Aichi, Japan",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3545",
-   "posted": "2025-08-26",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "5a8d3be0c92f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in für Zustandsüberwachung & Zuverlässigkeitsmanagement (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-Zustandsberwachung---Zuverlssigkeitsmanagement--m-w-d-_JR0000011067",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 43,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "caca658133a5",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in für die Analyse und Optimierung von technischen Prozessen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-die-Analyse-und-Optimierung-von-technischen-Prozessen--m-w-d-_JR0000011007",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 43,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": true,
-   "id": "24b96cfd5f4f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in für das Zuverlässigkeitsmanagement im Bereich strategische Instandhaltung (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-fr-das-Zuverlssigkeitsmanagement-im-Bereich-strategische-Instandhaltung--m-w-d-_JR0000011006",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 43,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "33cd4c2d2df5",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikant:in im Bereich Wertmanagement und Performance Management (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikant-in-im-Bereich-Wertmanagement-und-Performance-Management--m-w-d-_JR0000011004",
-   "posted": "2026-06-15",
-   "source": "Career page",
-   "fit": 43,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "6ab6133ea087",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Praktikum/Bachelor-/Masterarbeit im Bereich Moderner IT-Anwendungen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "2 Locations",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Moderner-IT-Anwendungen--m-w-d-_JR0000013893-1",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 43,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "5639369a8b8f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Elektriker Traverser",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2112",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "e215b9828bf7",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Office Assistant",
-   "co": "SSAB",
-   "loc": "Stockholm, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2172",
-   "posted": "2026-07-08",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ab3d7df72751",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab Operator",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2191",
-   "posted": "2026-07-08",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "59792366d15f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Samordnare",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1637",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "5da887e9f5c4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Projektassistent",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1682",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "eb1d548c537b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Administrative Assistant Tech Services",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1842",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "033742cdb6cd",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Specjalista ds. finansowo‑księgowych - Zorawina",
-   "co": "SSAB",
-   "loc": "Zorawina, Poland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2113",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "46127c65ddc4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO -Machine Operator",
-   "co": "SSAB",
-   "loc": "Sharon, PA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2210",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "eed4abc13bbc",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Skiftgående Fordonsmekaniker",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1648",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "4df6df084e9d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Transportation Assistant",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2125",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "9cddee9cbcd4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Fallskyddskoordinator – Fallskydd & Utbildning",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2135",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c264ca506174",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Logistic Specialist",
-   "co": "SSAB",
-   "loc": "Kazakhstan",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2189",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "46f57876bd33",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Utbildare inom truck och kran",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2229",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "bf4972d03589",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Support Specialist",
-   "co": "SSAB",
-   "loc": "Zyrardow, Poland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1604",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b6bbd5e38501",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Projektledare",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2070",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "81847bd5883e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sektionschef Coilpack",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2150",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b07617e886ab",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Eltekniker",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2170",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "9efda5ecce04",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Kuljetustensuunnittelija",
-   "co": "SSAB",
-   "loc": "Hämeenlinna, Finland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1742",
-   "posted": "2026-07-01",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "3bd1672b3ee9",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Onsite IT Support Specialist",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1998",
-   "posted": "2026-07-01",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "161fe51cd3b2",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO-Team Leader",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2193",
-   "posted": "2026-07-01",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "fa87442c3659",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maskin- och Mekanikkonstruktör - QT Center",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2027",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "5dc854b13d8b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingeniero de Soporte Terreno",
-   "co": "SSAB",
-   "loc": "Chile",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2046",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "4aa85d320fbd",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Innesäljare Norr Köping",
-   "co": "SSAB",
-   "loc": "Köping, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2063",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "cbfbdb1b113f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Process Specialist",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2145",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Process",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "9effb8e7c53e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Superintendent Facilities Electrical & High Voltage",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2161",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "dc0b1c542161",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "CAD Operator",
-   "co": "SSAB",
-   "loc": "Sharon, PA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2179",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "1289cc09b493",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Konstruktör automation",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1749",
-   "posted": "2026-06-29",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "70ee597aa9ae",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maskinförare - Dagtid",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2000",
-   "posted": "2026-06-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "025b1e7f63b1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maskinförare - Skift",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2088",
-   "posted": "2026-06-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c8de10e2550e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "EMO Shift Coordinator",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2096",
-   "posted": "2026-06-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "7a3fd240de38",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Afdelingsleder til Tibnors centrallager i Taulov",
-   "co": "SSAB",
-   "loc": "Taulov, Denmark",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2134",
-   "posted": "2026-06-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "cf1e7963164e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "CNC Operatör",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1571",
-   "posted": "2026-06-24",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "e6cca9f2a71c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Strategic Buyer",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2073",
-   "posted": "2026-06-24",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "4d158c262be2",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO",
-   "co": "SSAB",
-   "loc": "Northport, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2091",
-   "posted": "2026-06-24",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "6e13d9392fd4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sr. IT Analyst",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1551",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "361d60f774b2",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Elektriker",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1882",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "725aae9f14da",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Eltekniker/Planerare Koksverk",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1890",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b6bf1c2e5e0d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sektionschef Underhåll Varmvals Mek",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1957",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "8df31423fb83",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Automationstekniker",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1596",
-   "posted": "2026-06-21",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "9fde6f66aba9",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Team Lead - EMO",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1734",
-   "posted": "2026-06-19",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "d42b6acd6b8a",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO HVAC Technician",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2077",
-   "posted": "2026-06-18",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "03e433acdbee",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sektionschef Formatsträcka 1",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1886",
-   "posted": "2026-06-17",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "32fed6325fc0",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Driftansvarig Valsslip Kallvals",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1876",
-   "posted": "2026-06-16",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "03b523b2103e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Operator, Electrical - Primary Operations",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1441",
-   "posted": "2026-06-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "3f3b9cda06a8",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Warehouse operator",
-   "co": "SSAB",
-   "loc": "Zyrardow, Poland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1980",
-   "posted": "2026-06-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "6518d0dffc82",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Operator, Mechanical - Primary Operations",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2020",
-   "posted": "2026-06-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "079fde88d0cb",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Chem Lab Operator",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1813",
-   "posted": "2026-06-08",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "73c5751bd5c4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MOD",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1951",
-   "posted": "2026-06-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "3eeca2587342",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "CMMS Administrator/Budget Specialist",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1711",
-   "posted": "2026-05-29",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "80ccf9700824",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Operator",
-   "co": "SSAB",
-   "loc": "Zyrardow, Poland",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1827",
-   "posted": "2026-05-28",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "7e0232c61b9c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Mechanical Maintenance MO",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1866",
-   "posted": "2026-05-28",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "f49cf1c1d925",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MO Maintenance Finishing",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1780",
-   "posted": "2026-05-26",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "fd6f68a5ad9f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "MOD Caster",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1769",
-   "posted": "2026-05-21",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "2067b463e9ac",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Temporary assignment - HT Blast & Paint",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1527",
-   "posted": "2026-05-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "2e39a50e435a",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Planner - EMO - Primary Operations",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1619",
-   "posted": "2026-05-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "1ce28493a47d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Safety Specialist",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1461",
-   "posted": "2026-05-11",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "229af7e0d102",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "HVAC Chiller Technician",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1552",
-   "posted": "2026-05-08",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "d1871587822d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Operator - Baghouse",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1430",
-   "posted": "2026-05-04",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "7eaf20348c5d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Operator - Electrical",
-   "co": "SSAB",
-   "loc": "Mobile, AL, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1446",
-   "posted": "2026-05-04",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "7b75a0cce2c9",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Warehouse Clerk",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1447",
-   "posted": "2026-05-04",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "12b314324593",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Operator, Mechanical - Auxiliary Services",
-   "co": "SSAB",
-   "loc": "Montpelier, IA, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1443",
-   "posted": "2026-05-04",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "78b45bab8b17",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Finance Analyst - Balance Sheet Reconciliation",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4298",
-   "posted": "2026-06-29",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c67b8d033cbc",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "IT - Applications Specialist (SAP SD MM)",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4327",
-   "posted": "2026-06-24",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "aa3d2a15c245",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Financial Controller (Month End)",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3775",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "68255afbe351",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Customer Master Data Analyst",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3791",
-   "posted": "2026-06-19",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "4f01c5f1b1a0",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "QPC Head, BRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4018",
-   "posted": "2026-06-18",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "1d691ddbad3d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Operator",
-   "co": "Calderys (Imerys)",
-   "loc": "Pingtung County, Taiwan",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3901",
-   "posted": "2026-06-05",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "a1ff31da6c61",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Product Stewardship Specialist (Temp)",
-   "co": "Calderys (Imerys)",
-   "loc": "PARIS, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4215",
-   "posted": "2026-05-28",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Product",
-     1
-    ]
-   ],
-   "cat": "Product",
-   "note": [],
-   "offtype": false,
-   "id": "feca6ea8d20b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Installation Supervisor Academy (Italy)",
-   "co": "Calderys (Imerys)",
-   "loc": "Fiorano Modenese, Emilia Romagna, Italy",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4245",
-   "posted": "2026-05-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "6226a721b249",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "EHS PMO",
-   "co": "Calderys (Imerys)",
-   "loc": "India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4242",
-   "posted": "2026-05-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "47c1f5274981",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Site In-charge - Cast House Services",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4117",
-   "posted": "2026-04-27",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "29e07d3bd972",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab Supervisor - QPC",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3916",
-   "posted": "2026-04-08",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "acd926fecb34",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Oracle EPM Support Analyst",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3259",
-   "posted": "2026-03-18",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ebdbe72d1154",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Entity/Cluster Controller (Western Cluster)",
-   "co": "Calderys (Imerys)",
-   "loc": "PARIS, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3985",
-   "posted": "2026-03-17",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ce044d85c31f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Plant Associate - Oven Operator",
-   "co": "Calderys (Imerys)",
-   "loc": "Dharuhera, Haryana, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4098",
-   "posted": "2026-03-16",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "d311a3ec8e90",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Regional Cluster Accountant (Western Cluster)",
-   "co": "Calderys (Imerys)",
-   "loc": "Netherlands",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3986",
-   "posted": "2026-03-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "2c50c48a81b1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab. Supervisor/Chemist, BRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3915",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b348f779cf02",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab Assistant - QPC (Tap Hole Clay)",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4021",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0e61ed5f0b80",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Operator- PAS",
-   "co": "Calderys (Imerys)",
-   "loc": "Butibori, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3800",
-   "posted": "2026-01-19",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b119125f47d0",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Staff Associate- Electrician",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3887",
-   "posted": "2026-01-06",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "23024b6a0045",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Fitter",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3885",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0c61232cf527",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical staff Associate- Instrumentation",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3888",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "667f08886bf4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "SCM Outbound Asst",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3890",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0fcd413906b1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "SCM Inbound Asst",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3889",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "42791fc1cb10",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Lab Assistant -QPC",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3896",
-   "posted": "2025-12-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "224ecfebfd8a",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Financial Controller (Intercompany)",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3774",
-   "posted": "2025-11-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b6f4be1a8d9a",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Accounting Analyst",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3771",
-   "posted": "2025-11-07",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0d58900d13cb",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Application Expert/Specialist (PB&I)",
-   "co": "Calderys (Imerys)",
-   "loc": "Ahmedabad, Gujarat, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3644",
-   "posted": "2025-09-25",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "f86adb51e816",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Product Specialist - Mg Spinel Bricks",
-   "co": "Calderys (Imerys)",
-   "loc": "Kolkata, West Bengal, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3591",
-   "posted": "2025-09-05",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Product",
-     1
-    ]
-   ],
-   "cat": "Product",
-   "note": [],
-   "offtype": false,
-   "id": "f1669103853b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Staff Associate - Fitter",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3465",
-   "posted": "2025-06-12",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "339c103151be",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Staff Associate - Operator",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3398",
-   "posted": "2025-06-02",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "40c072b09a0d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technicien d’application/Chef de chantier",
-   "co": "Calderys (Imerys)",
-   "loc": "France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3410",
-   "posted": "2025-05-29",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "69eb02e2951c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Technical Staff Associate - Instrumentation Technician",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3400",
-   "posted": "2025-05-22",
-   "source": "Career page",
-   "fit": 42,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "42ecc8ee2e6c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Trader Pulvermetallurgie (m/w/d)",
-   "co": "thyssenkrupp",
-   "loc": "Essen",
-   "country": "DE",
-   "cat": "Process",
-   "fit": 38,
-   "posted": "2026-06-22",
-   "url": "https://to.indeed.com/aahdxcfzgbx6",
-   "tags": [
-    [
-     "Steel major",
-     1
-    ],
-    [
-     "Sales / trading",
-     0
-    ]
-   ],
-   "source": "Seed",
-   "id": "b3ab348e8d18",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Manager, BRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3879",
-   "posted": "2026-02-15",
-   "source": "Career page",
-   "fit": 35,
-   "tags": [
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "61be8f43a36b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Line Manager - Basic Brick",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3976",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 35,
-   "tags": [
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "e16b94e5dd87",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Production Line Manager - Tap Hole Clay",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3977",
-   "posted": "2026-02-10",
-   "source": "Career page",
-   "fit": 35,
-   "tags": [
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "497d224d5d28",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Manager - Production, KRW",
-   "co": "Calderys (Imerys)",
-   "loc": "India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2881",
-   "posted": "2024-10-09",
-   "source": "Career page",
-   "fit": 35,
-   "tags": [
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "id": "5748f94b9cb8",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Service Engineer - I&S Sales",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4134",
-   "posted": "2026-06-02",
-   "source": "Career page",
-   "fit": 33,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ae57f57b5465",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sales & Service Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "China",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3802",
-   "posted": "2026-05-13",
-   "source": "Career page",
-   "fit": 33,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "4c42762d6c75",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Diploma Engineer Trainee",
-   "co": "Calderys (Imerys)",
-   "loc": "Butibori, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3963",
-   "posted": "2026-03-07",
-   "source": "Career page",
-   "fit": 33,
-   "tags": [
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "100117ce7db9",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Senior Cast House Service Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "Mumbai, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3664",
-   "posted": "2026-01-30",
-   "source": "Career page",
-   "fit": 33,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "03a090f26e0e",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sales Engineer",
-   "co": "Calderys (Imerys)",
-   "loc": "China",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2394",
-   "posted": "2024-04-10",
-   "source": "Career page",
-   "fit": 33,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "fd5c98384d0f",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Accounting and Reporting Manager",
-   "co": "SSAB",
-   "loc": "Mumbai, India",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2227",
-   "posted": "2026-07-07",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "328ec11c7f23",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Elektriker till SSAB:s traineeprogram",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2024",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "48628d8be4b7",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Value Plus Outside Sales Representative",
-   "co": "SSAB",
-   "loc": "United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1478",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "0ac030f6dede",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Value Plus Inside Sales Representative",
-   "co": "SSAB",
-   "loc": "Houston, TX, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1766",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c582e6dd09ee",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Head of Construction Management",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1589",
-   "posted": "2026-06-26",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "25b2d94996b4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "CTL Procurement Manager",
-   "co": "SSAB",
-   "loc": "Saint Paul, MN, United States",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1795",
-   "posted": "2026-05-26",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "f9b7a778c4ec",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Commercial Excellence Manager - EMEA",
-   "co": "Calderys (Imerys)",
-   "loc": "PARIS, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4156",
-   "posted": "2026-06-18",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c15ae3022161",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - APAC Treasury Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4037",
-   "posted": "2026-06-17",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b356d69f83fa",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - APAC - Receivables and Credit Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3806",
-   "posted": "2026-06-11",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "872b9f143586",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Account Manager (Projects, UK)",
-   "co": "Calderys (Imerys)",
-   "loc": "United Kingdom",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4284",
-   "posted": "2026-06-11",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "1ea8a7a84681",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "IT - Salesforce Developer",
-   "co": "Calderys (Imerys)",
-   "loc": "Pune, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4291",
-   "posted": "2026-06-09",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "78afd2fdb974",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Account Manager - Thermal (m/w/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Wiener Neudorf, Moedling, Austria",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4207",
-   "posted": "2026-06-05",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "1924ae53641d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sales Administrator",
-   "co": "Calderys (Imerys)",
-   "loc": "Korea, Republic of",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4255",
-   "posted": "2026-06-05",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "b984f1442afa",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Global Treasury Systems and Operations Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "PARIS, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4276",
-   "posted": "2026-05-27",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "27e447c11dff",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Tax Manager (EMEA)",
-   "co": "Calderys (Imerys)",
-   "loc": "PARIS, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4105",
-   "posted": "2026-05-06",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "45d8bb3b89f7",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ausbildung zum Maschinen- und Anlagenfahrer (m/f/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4206",
-   "posted": "2026-04-28",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "81cdb38e36cf",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "FI - Manager - Accounts",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4013",
-   "posted": "2026-04-22",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "6be65c6d4270",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ausbildung Industriemechaniker oder Mechatroniker (w/m/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Neuwied, Rheinland-Pfalz, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4064",
-   "posted": "2026-03-02",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": true,
-   "id": "15928a1e0f09",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Manager-Electrical (Tap Hole Clay)",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3912",
-   "posted": "2026-02-17",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "54074ea6ff73",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Assistant Procurement Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3907",
-   "posted": "2026-01-19",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "cf84e06651da",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Account Manager - Thermal",
-   "co": "Calderys (Imerys)",
-   "loc": "SEZANNE, France",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3871",
-   "posted": "2026-01-13",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "aaa58ac24996",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Senior Manager QPC",
-   "co": "Calderys (Imerys)",
-   "loc": "Butibori, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3750",
-   "posted": "2025-11-04",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "7b8ab8de68fc",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Assistant Manager PAS",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3686",
-   "posted": "2025-10-10",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "e06546384401",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Deputy Manager / Manager (QPC), NRW",
-   "co": "Calderys (Imerys)",
-   "loc": "India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2656",
-   "posted": "2025-09-10",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "17f6a213ba55",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Business Development Manager Glass Segment",
-   "co": "Calderys (Imerys)",
-   "loc": "New Delhi, Delhi, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3571",
-   "posted": "2025-09-05",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "e0d5bd996d85",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Opex Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3464",
-   "posted": "2025-07-22",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "c8dda9b80566",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Senior QPC Manager",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3441",
-   "posted": "2025-05-31",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "af201414d501",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Maintenance Manager, BRW",
-   "co": "Calderys (Imerys)",
-   "loc": "Bhubaneswar, Odisha, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3147",
-   "posted": "2025-04-04",
-   "source": "Career page",
-   "fit": 27,
-   "tags": [
-    [
-     "Senior / management (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "8eee39d73b43",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Regional Sales Manager",
-   "co": "SSAB",
-   "loc": "Uzbekistan",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2002",
-   "posted": "2026-07-06",
-   "source": "Career page",
-   "fit": 12,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "f0a6f881651b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Deputy General Manager - Thermal Sales (Cement, Central India)",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4281",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 12,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "517cb9bda910",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Deputy Sales Manager - I&S Sales",
-   "co": "Calderys (Imerys)",
-   "loc": "Nagpur, Maharashtra, India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4091",
-   "posted": "2026-04-14",
-   "source": "Career page",
-   "fit": 12,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ac77bf99a649",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Sales Manager-  I&S (Central & South)",
-   "co": "Calderys (Imerys)",
-   "loc": "India",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3700",
-   "posted": "2025-10-10",
-   "source": "Career page",
-   "fit": 12,
-   "tags": [
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "id": "ca46582b4e41",
    "firstSeen": "2026-07-09"
   }
  ]
