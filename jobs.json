@@ -1,0 +1,437 @@
+{
+ "generated": "2026-07-09 09:17 UTC",
+ "count": 16,
+ "status": {
+  "Seed": "ok (16)",
+  "Indeed": [
+   "query 'Metallurgie Ingenieur' failed: no APIFY_TOKEN set",
+   "query 'Werkstoffingenieur Stahl' failed: no APIFY_TOKEN set",
+   "query 'Prozessingenieur Stahl' failed: no APIFY_TOKEN set",
+   "query 'Qualitätsingenieur Metall' failed: no APIFY_TOKEN set",
+   "query 'Werkstoff Ingenieur Stahl' failed: no APIFY_TOKEN set",
+   "query 'Prozessingenieur Metallurgie' failed: no APIFY_TOKEN set",
+   "query 'Werkstoff Ingenieur Stahl' failed: no APIFY_TOKEN set",
+   "query 'materials engineer steel' failed: no APIFY_TOKEN set",
+   "query 'process engineer metallurgy' failed: no APIFY_TOKEN set",
+   "query 'process engineer steel' failed: no APIFY_TOKEN set",
+   "query 'ingénieur matériaux sidérurgie' failed: no APIFY_TOKEN set",
+   "query 'ingénieur procédés métallurgie' failed: no APIFY_TOKEN set"
+  ],
+  "Google Jobs": [
+   "query 'Stahl Ingenieur Metallurgie' failed: no APIFY_TOKEN set",
+   "query 'steel metallurgy engineer' failed: no APIFY_TOKEN set",
+   "query 'steel process engineer' failed: no APIFY_TOKEN set"
+  ],
+  "thyssenkrupp Steel Europe": "error: 403 Client Error: Forbidden for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs"
+ },
+ "jobs": [
+  {
+   "t": "Werkstoffingenieur / Physiker – Entwicklung neuer Stahlwerkstoffe (w/m/d)",
+   "co": "Salzgitter AG",
+   "loc": "Salzgitter",
+   "country": "DE",
+   "cat": "Materials",
+   "fit": 92,
+   "posted": "2026-02-28",
+   "url": "https://to.indeed.com/aajbmdbckwyj",
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials R&D",
+     1
+    ],
+    [
+     "New alloys",
+     1
+    ],
+    [
+     "Development",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "91b12d4ecda8",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Werkstoffingenieur:in Stahl / Stahltechnologie / Umformtechnik (w/m/d)",
+   "co": "GMH Gruppe",
+   "loc": "Gröditz",
+   "country": "DE",
+   "cat": "Materials",
+   "fit": 90,
+   "posted": "2026-04-13",
+   "url": "https://to.indeed.com/aaby8kwz6x2g",
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Steel technology",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "c0f31d255ead",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Entwicklungsingenieur Werkstoffentwicklung (m/w/d)",
+   "co": "Eisenwerk Sulzau-Werfen",
+   "loc": "Sulzau",
+   "country": "AT",
+   "cat": "Materials",
+   "fit": 88,
+   "posted": "2026-02-27",
+   "url": "https://to.indeed.com/aafsbt4xcvps",
+   "tags": [
+    [
+     "Steel castings",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Development",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "1fc8c2d9d911",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Produktionsingenieur – Metallurge (m/w/d)",
+   "co": "DK Recycling und Roheisen",
+   "loc": "Duisburg",
+   "country": "DE",
+   "cat": "Process",
+   "fit": 87,
+   "posted": "2026-05-20",
+   "url": "https://to.indeed.com/aajwp6glntmf",
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Iron",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "4f01dfdb8191",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Research Engineer – Refractories (m/f/d)",
+   "co": "Calderys",
+   "loc": "Oberhausen",
+   "country": "DE",
+   "cat": "R&D",
+   "fit": 84,
+   "posted": "2026-02-28",
+   "url": "https://to.indeed.com/aasht7lbgks2",
+   "tags": [
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "R&D",
+     1
+    ],
+    [
+     "Tundish / ladle",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "49a8c159f419",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
+   "co": "GMH Gruppe",
+   "loc": "Gröditz",
+   "country": "DE",
+   "cat": "Product",
+   "fit": 80,
+   "posted": "2026-04-13",
+   "url": "https://to.indeed.com/aa26l6plf6v4",
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Product",
+     0
+    ],
+    [
+     "Forging",
+     0
+    ]
+   ],
+   "source": "Seed",
+   "id": "631278207257",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Prozessingenieur:in Materialrecycling",
+   "co": "Plansee Group",
+   "loc": "Reutte",
+   "country": "AT",
+   "cat": "Materials",
+   "fit": 76,
+   "posted": "2026-06-09",
+   "url": "https://to.indeed.com/aawqyvqn2l9s",
+   "tags": [
+    [
+     "Process",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "51519e1aaa47",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur:in – Reduktion / Sinterei",
+   "co": "Plansee Group",
+   "loc": "Reutte",
+   "country": "AT",
+   "cat": "Quality",
+   "fit": 74,
+   "posted": "2026-05-13",
+   "url": "https://to.indeed.com/aarf7ws4yhy4",
+   "tags": [
+    [
+     "Quality",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "ef218046e369",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur Schmiede Unna (m|w|d)",
+   "co": "VDM Metals International",
+   "loc": "Unna",
+   "country": "DE",
+   "cat": "Quality",
+   "fit": 73,
+   "posted": "2026-06-10",
+   "url": "https://to.indeed.com/aactz28zsdf2",
+   "tags": [
+    [
+     "Quality",
+     1
+    ],
+    [
+     "Special alloys",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "1b0b8d425345",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Engineer Process – Germany",
+   "co": "Kennametal",
+   "loc": "Mistelgau",
+   "country": "DE",
+   "cat": "Process",
+   "fit": 72,
+   "posted": "2026-05-28",
+   "url": "https://to.indeed.com/aasysmqcmgrr",
+   "tags": [
+    [
+     "Process",
+     1
+    ],
+    [
+     "Metals",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "7d16c4896f61",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Trainee Qualitätssicherung / Technische Klärung (m|w|d)",
+   "co": "VDM Metals International",
+   "loc": "Altena",
+   "country": "DE",
+   "cat": "Quality",
+   "fit": 70,
+   "posted": "2026-06-05",
+   "url": "https://to.indeed.com/aakgxn7ztdt8",
+   "tags": [
+    [
+     "Entry level",
+     1
+    ],
+    [
+     "Quality",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "aa17584cd8ca",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Materials Engineer",
+   "co": "Element Materials Technology",
+   "loc": "Linköping",
+   "country": "SE",
+   "cat": "Materials",
+   "fit": 66,
+   "posted": "2026-06-16",
+   "url": "https://to.indeed.com/aajmpp7r4qx9",
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "English-speaking",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "305a17b314b7",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Trainee Engineering (m/w/d)",
+   "co": "HME Brass Germany",
+   "loc": "Berlin",
+   "country": "DE",
+   "cat": "Other",
+   "fit": 60,
+   "posted": "2026-04-14",
+   "url": "https://to.indeed.com/aahns9dwl6wy",
+   "tags": [
+    [
+     "Entry level",
+     1
+    ],
+    [
+     "Metals",
+     0
+    ]
+   ],
+   "source": "Seed",
+   "id": "634b5aecb568",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Kalibrations- / Applikationsingenieur (m/w/d)",
+   "co": "Quantolux Innovation",
+   "loc": "Kleve",
+   "country": "DE",
+   "cat": "Other",
+   "fit": 58,
+   "posted": "2026-07-03",
+   "url": "https://to.indeed.com/aa996rdbs4tb",
+   "tags": [
+    [
+     "Measurement / sensing",
+     1
+    ],
+    [
+     "Adjacent to LiDAR work",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "efbc2ca9dfbf",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Risk Engineer",
+   "co": "Höganäs AB",
+   "loc": "Höganäs",
+   "country": "SE",
+   "cat": "Other",
+   "fit": 52,
+   "posted": "2026-04-24",
+   "url": "https://to.indeed.com/aarqcdyrxpjf",
+   "tags": [
+    [
+     "Steel / powder co.",
+     1
+    ]
+   ],
+   "source": "Seed",
+   "id": "ece6bbfe04bd",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Trader Pulvermetallurgie (m/w/d)",
+   "co": "thyssenkrupp",
+   "loc": "Essen",
+   "country": "DE",
+   "cat": "Process",
+   "fit": 38,
+   "posted": "2026-06-22",
+   "url": "https://to.indeed.com/aahdxcfzgbx6",
+   "tags": [
+    [
+     "Steel major",
+     1
+    ],
+    [
+     "Sales / trading",
+     0
+    ]
+   ],
+   "source": "Seed",
+   "id": "b3ab348e8d18",
+   "note": [],
+   "firstSeen": "2026-07-09"
+  }
+ ]
+}
