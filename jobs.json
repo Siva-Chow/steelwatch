@@ -1,12 +1,12 @@
 {
- "generated": "2026-07-10 09:48 UTC",
- "count": 44,
+ "generated": "2026-07-10 13:27 UTC",
+ "count": 45,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
+  "Indeed": "ok (48)",
   "SuccessFactors": "ok (92)",
-  "Company feeds": "ok (2)",
-  "thyssenkrupp Steel Europe": "ok (11)",
+  "Company feeds": "ok (1)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -367,6 +367,44 @@
    "french": false,
    "id": "bec225997f45",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "NEU: Abschlussarbeit (Master): Einfluss von Prozessparametern und in-situ Wärmebehandlung auf die Mikrostruktur additiv gefertigter Kupferlegierungen",
+   "co": "fem Forschungsinstitut Edelmetalle + Metallchemie",
+   "loc": "Schwäbisch Gmünd",
+   "country": "DE",
+   "url": "https://fem-online.de/karriere/#",
+   "posted": "2026-07-10",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": true,
+   "french": false,
+   "id": "66c1e7d0358e",
+   "firstSeen": "2026-07-10"
   },
   {
    "t": "Werkstoffingenieur:in Stahl / Stahltechnologie / Umformtechnik (w/m/d)",
