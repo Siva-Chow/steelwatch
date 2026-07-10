@@ -1,14 +1,14 @@
 {
- "generated": "2026-07-09 22:01 UTC",
- "count": 42,
+ "generated": "2026-07-10 09:29 UTC",
+ "count": 44,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (47)",
   "SuccessFactors": "ok (92)",
-  "Company feeds": "error: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-feed/run-sync-get-dataset-items?token=[redacted]",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (11)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (99)"
+  "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
   {
@@ -607,6 +607,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingenieur für Fahrzeugtechnik (w/m/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Salzgitter, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/extern/job/Salzgitter-Ingenieur-f%C3%BCr-Fahrzeugtechnik-%28wmd%29-NI/1411218133/",
+   "posted": "2026-07-03",
+   "source": "Career page",
+   "fit": 85,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "69ccea80c3c7",
+   "firstSeen": "2026-07-10"
+  },
+  {
    "t": "Research Engineer – Refractories (m/f/d)",
    "co": "Calderys",
    "loc": "Oberhausen",
@@ -1034,6 +1072,44 @@
    "french": false,
    "id": "84b9e7c3e67c",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Reliability Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1348513757/?locale=en_US",
+   "posted": "2026-07-07",
+   "source": "Career page",
+   "fit": 62,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bb91f26eca28",
+   "firstSeen": "2026-07-10"
   },
   {
    "t": "Qualitätsingenieur Wareneingang (m/w/d)",
