@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-10 13:27 UTC",
- "count": 45,
+ "generated": "2026-07-11 09:15 UTC",
+ "count": 46,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (48)",
@@ -849,7 +849,7 @@
    "loc": "Calvert, AL, US",
    "country": "AL",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1393786633/?locale=en_US",
-   "posted": "2026-06-12",
+   "posted": "2026-07-11",
    "source": "Career page",
    "fit": 75,
    "tags": [
@@ -1110,6 +1110,44 @@
    "french": false,
    "id": "84b9e7c3e67c",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Junior R&D Ceramics Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1366068857/?locale=en_US",
+   "posted": "2026-07-08",
+   "source": "Career page",
+   "fit": 63,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "cb3afdf98ec2",
+   "firstSeen": "2026-07-11"
   },
   {
    "t": "Reliability Engineer",
