@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-11 10:37 UTC",
- "count": 46,
+ "generated": "2026-07-12 11:00 UTC",
+ "count": 47,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (48)",
-  "SuccessFactors": "ok (92)",
+  "SuccessFactors": "ok (91)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
@@ -779,6 +779,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Electrical & Controls Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362826857/?locale=en_US",
+   "posted": "2026-07-03",
+   "source": "Career page",
+   "fit": 80,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "55309251be12",
+   "firstSeen": "2026-07-12"
+  },
+  {
    "t": "Prozessingenieur:in Materialrecycling",
    "co": "Plansee Group",
    "loc": "Reutte",
@@ -1051,7 +1089,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-06-11",
+   "posted": "2026-07-12",
    "source": "Career page",
    "fit": 64,
    "tags": [
