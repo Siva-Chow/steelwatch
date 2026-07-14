@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-13 13:40 UTC",
- "count": 47,
+ "generated": "2026-07-14 11:12 UTC",
+ "count": 48,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (49)",
-  "SuccessFactors": "ok (91)",
-  "Company feeds": "ok (1)",
+  "Indeed": "ok (48)",
+  "SuccessFactors": "ok (93)",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -817,6 +817,46 @@
    "firstSeen": "2026-07-12"
   },
   {
+   "t": "Process Engineer",
+   "co": "Stegra",
+   "loc": "Boden, Germany",
+   "country": "",
+   "url": "https://career.stegra.com/jobs/8062921-process-engineer",
+   "posted": "2026-07-14",
+   "source": "Career page",
+   "fit": 79,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "e452ab5f5817",
+   "firstSeen": "2026-07-14"
+  },
+  {
    "t": "Prozessingenieur:in Materialrecycling",
    "co": "Plansee Group",
    "loc": "Reutte",
@@ -1089,7 +1129,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-13",
+   "posted": "2026-07-14",
    "source": "Career page",
    "fit": 64,
    "tags": [
