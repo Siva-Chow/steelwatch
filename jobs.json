@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-14 11:12 UTC",
- "count": 48,
+ "generated": "2026-07-15 11:17 UTC",
+ "count": 52,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (48)",
-  "SuccessFactors": "ok (93)",
+  "Indeed": "ok (52)",
+  "SuccessFactors": "ok (94)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
@@ -266,6 +266,44 @@
    "offtype": false,
    "id": "6715505485c4",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "QualitätsingenieurIn Glas (m/w/d)*",
+   "co": "SCHOTT",
+   "loc": "Landshut",
+   "country": "DE",
+   "url": "https://join.schott.com/job/Landshut-Qualit%C3%A4tsingenieurIn-Glas-%28mwd%29-BY/1385615433/?feedId=389733",
+   "posted": "2026-04-20",
+   "source": "Indeed",
+   "fit": 95,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6e94991b8688",
+   "firstSeen": "2026-07-15"
   },
   {
    "t": "Mechanical Site Engineer (Mechanical Engineer)",
@@ -750,6 +788,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Karrierechancen: Qualitätsingenieur*in (Technische Analyse - Externe Geräte) (m/w/d/)",
+   "co": "BIOTRONIK",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://career5.successfactors.eu/career?rcm_site_locale=de_DE&career_ns=job_listing&company=C0001096615P&selected_lang=de_DE&career_job_req_id=62250",
+   "posted": "2026-07-14",
+   "source": "Indeed",
+   "fit": 81,
+   "tags": [
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "b2729ce5de08",
+   "firstSeen": "2026-07-15"
+  },
+  {
    "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
    "co": "GMH Gruppe",
    "loc": "Gröditz",
@@ -855,6 +931,82 @@
    "french": false,
    "id": "e452ab5f5817",
    "firstSeen": "2026-07-14"
+  },
+  {
+   "t": "Production Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1361223457/?locale=en_US",
+   "posted": "2026-07-15",
+   "source": "Career page",
+   "fit": 78,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6601309b9d88",
+   "firstSeen": "2026-07-15"
+  },
+  {
+   "t": "Qualitätsingenieur (w/m/d)",
+   "co": "SKF Vertevo",
+   "loc": "Mühlheim an der Donau",
+   "country": "DE",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=1%2bOYexEf4jXUCmMGGn8lu2OiMYeO0sj6JkaDWnM7oiQ%3d",
+   "posted": "2026-06-23",
+   "source": "Indeed",
+   "fit": 77,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "0a1fb5ee03a2",
+   "firstSeen": "2026-07-15"
   },
   {
    "t": "Prozessingenieur:in Materialrecycling",
@@ -1129,7 +1281,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-14",
+   "posted": "2026-07-15",
    "source": "Career page",
    "fit": 64,
    "tags": [
