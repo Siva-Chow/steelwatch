@@ -1,9 +1,9 @@
 {
- "generated": "2026-07-15 11:17 UTC",
+ "generated": "2026-07-16 11:55 UTC",
  "count": 52,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (52)",
+  "Indeed": "ok (49)",
   "SuccessFactors": "ok (94)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -975,7 +975,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=1%2bOYexEf4jXUCmMGGn8lu2OiMYeO0sj6JkaDWnM7oiQ%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=RHSBzrOyQHhjOGMa8iqLdlrgPPtcFPnzdyxs%2fS1wxQ4%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1281,7 +1281,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-15",
+   "posted": "2026-07-16",
    "source": "Career page",
    "fit": 64,
    "tags": [
