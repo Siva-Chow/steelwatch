@@ -1,32 +1,32 @@
 {
- "generated": "2026-07-16 11:55 UTC",
- "count": 52,
+ "generated": "2026-07-17 11:09 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (49)",
-  "SuccessFactors": "ok (94)",
-  "Company feeds": "ok (2)",
+  "Indeed": "ok (50)",
+  "SuccessFactors": "ok (95)",
+  "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
   {
-   "t": "Kalibrations- / Applikationsingenieur:in (m/w/d)",
-   "co": "",
-   "loc": "Kleve",
-   "country": "DE",
-   "url": "https://join.com/companies/quantoluxde/16394416-kalibrations-applikationsingenieur-in-m-w-d?pid=a13795120131dbe48464",
-   "posted": "2026-07-03",
+   "t": "Inspection Engineer | Nevita | Nynäshamn",
+   "co": "Nevita AB",
+   "loc": "Nynäshamn",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31276921",
+   "posted": "2026-07-16",
    "source": "Indeed",
    "fit": 100,
    "tags": [
     [
-     "Steel",
+     "Secondary metallurgy / ladle",
      1
     ],
     [
-     "Metallurgy",
+     "Steel",
      1
     ],
     [
@@ -38,18 +38,18 @@
      1
     ],
     [
-     "Sales / trading (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
    "cat": "Materials",
    "note": [
-    "Asks for fluent German"
+    "Asks for Swedish"
    ],
    "offtype": false,
    "french": false,
-   "id": "b2b37141cc26",
-   "firstSeen": "2026-07-09"
+   "id": "e367e2854aef",
+   "firstSeen": "2026-07-17"
   },
   {
    "t": "Laboratory Engineer – Materials Characterisation & R&D",
@@ -125,6 +125,86 @@
    "offtype": false,
    "french": false,
    "id": "1858e684757c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Inspection Engineer | Nevita | Nynäshamn",
+   "co": "Nevita",
+   "loc": "Nynäshamn",
+   "country": "SE",
+   "url": "https://nevita.teamtailor.com/jobs/7126105-inspection-engineer-nevita-nynashamn",
+   "posted": "2026-01-27",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "efacdb094534",
+   "firstSeen": "2026-07-17"
+  },
+  {
+   "t": "Kalibrations- / Applikationsingenieur:in (m/w/d)",
+   "co": "",
+   "loc": "Kleve",
+   "country": "DE",
+   "url": "https://join.com/companies/quantoluxde/16394416-kalibrations-applikationsingenieur-in-m-w-d?pid=a13795120131dbe48464",
+   "posted": "2026-07-03",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "b2b37141cc26",
    "firstSeen": "2026-07-09"
   },
   {
@@ -304,6 +384,44 @@
    "french": false,
    "id": "6e94991b8688",
    "firstSeen": "2026-07-15"
+  },
+  {
+   "t": "Mechanical Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1364167657/?locale=en_US",
+   "posted": "2026-07-17",
+   "source": "Career page",
+   "fit": 93,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "22ac51ff6c80",
+   "firstSeen": "2026-07-17"
   },
   {
    "t": "Mechanical Site Engineer (Mechanical Engineer)",
@@ -975,7 +1093,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=RHSBzrOyQHhjOGMa8iqLdlrgPPtcFPnzdyxs%2fS1wxQ4%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=JTsda5GI4QzRhRkBzFfxPFVovSIzPDmYAnqr1uQ5YyA%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1281,7 +1399,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-16",
+   "posted": "2026-07-17",
    "source": "Career page",
    "fit": 64,
    "tags": [
