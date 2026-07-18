@@ -1,9 +1,9 @@
 {
- "generated": "2026-07-17 11:09 UTC",
- "count": 55,
+ "generated": "2026-07-18 10:46 UTC",
+ "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (50)",
+  "Indeed": "ok (49)",
   "SuccessFactors": "ok (95)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -11,6 +11,78 @@
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Ingenieurin (w/d/m) Stranggießanlage",
+   "co": "GMH Gruppe",
+   "loc": "Bous",
+   "country": "DE",
+   "url": "https://jobs.gmh-gruppe.de/de/jobs/828/ingenieurin-wdm-stranggieanlage",
+   "posted": "2026-07-17",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bb56cdc09bd8",
+   "firstSeen": "2026-07-18"
+  },
+  {
+   "t": "Prozess-/Betriebsingenieurin (w/d/m)",
+   "co": "GMH Gruppe",
+   "loc": "Bous",
+   "country": "DE",
+   "url": "https://jobs.gmh-gruppe.de/de/jobs/466/prozess-betriebsingenieurin-wdm",
+   "posted": "2025-05-21",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6cf37935313b",
+   "firstSeen": "2026-07-18"
+  },
   {
    "t": "Inspection Engineer | Nevita | Nynäshamn",
    "co": "Nevita AB",
@@ -49,6 +121,46 @@
    "offtype": false,
    "french": false,
    "id": "e367e2854aef",
+   "firstSeen": "2026-07-17"
+  },
+  {
+   "t": "Inspection Engineer | Nevita | Nynäshamn",
+   "co": "Nevita",
+   "loc": "Nynäshamn",
+   "country": "SE",
+   "url": "https://nevita.teamtailor.com/jobs/7126105-inspection-engineer-nevita-nynashamn",
+   "posted": "2026-01-27",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "efacdb094534",
    "firstSeen": "2026-07-17"
   },
   {
@@ -126,46 +238,6 @@
    "french": false,
    "id": "1858e684757c",
    "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Inspection Engineer | Nevita | Nynäshamn",
-   "co": "Nevita",
-   "loc": "Nynäshamn",
-   "country": "SE",
-   "url": "https://nevita.teamtailor.com/jobs/7126105-inspection-engineer-nevita-nynashamn",
-   "posted": "2026-01-27",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "efacdb094534",
-   "firstSeen": "2026-07-17"
   },
   {
    "t": "Kalibrations- / Applikationsingenieur:in (m/w/d)",
@@ -1093,7 +1165,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=JTsda5GI4QzRhRkBzFfxPFVovSIzPDmYAnqr1uQ5YyA%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=Rt28ZaGRDEXpIIW8PSYqShr%2br05lYEPr7EQz%2bkXXU9s%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1399,7 +1471,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-17",
+   "posted": "2026-07-18",
    "source": "Career page",
    "fit": 64,
    "tags": [
