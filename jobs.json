@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-20 13:25 UTC",
- "count": 58,
+ "generated": "2026-07-21 12:09 UTC",
+ "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (48)",
-  "SuccessFactors": "ok (94)",
-  "Company feeds": "ok (1)",
+  "Indeed": "ok (44)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -277,41 +277,6 @@
    "offtype": false,
    "french": false,
    "id": "b2b37141cc26",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur Projets Industriels - Nucléaire F/H",
-   "co": "Groupe ADF",
-   "loc": "Aix-en-Provence",
-   "country": "FR",
-   "url": "https://careers.groupeadf.com/jobs/7910282-ingenieur-projets-industriels-nucleaire-f-h",
-   "posted": "2026-06-25",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for French"
-   ],
-   "offtype": false,
-   "id": "aab34d5fdae4",
    "firstSeen": "2026-07-09"
   },
   {
@@ -878,7 +843,7 @@
    "loc": "Krefeld, DE",
    "country": "DE",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1407073233/?locale=de_DE",
-   "posted": "2026-06-22",
+   "posted": "2026-07-21",
    "source": "Career page",
    "fit": 85,
    "tags": [
@@ -978,6 +943,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Data Engineer (m/w/d)",
+   "co": "Stahlwerk Annahütte  Max Aicher GmbH & Co. KG",
+   "loc": "Ainring, Germany",
+   "country": "",
+   "url": "https://join.com/companies/annahuette/16474043-data-engineer-m-w-d",
+   "posted": "2026-07-21",
+   "source": "Career page",
+   "fit": 83,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "1b01ffc884dc",
+   "firstSeen": "2026-07-21"
+  },
+  {
    "t": "Manufacturing Engineer - Operations Leadership Track",
    "co": "RHI Magnesita",
    "loc": "",
@@ -1052,6 +1055,40 @@
    "french": false,
    "id": "b2729ce5de08",
    "firstSeen": "2026-07-15"
+  },
+  {
+   "t": "Developer Robot Process Automation (m/w/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Dortmund, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-Developer-Robot-Process-Automation-%28mwd%29-NW/1417191033/",
+   "posted": "2026-07-21",
+   "source": "Career page",
+   "fit": 81,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "ad18f2fb74fe",
+   "firstSeen": "2026-07-21"
   },
   {
    "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
@@ -1504,12 +1541,50 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "(Junior) Data Engineer (m/w/d)",
+   "co": "Stahlwerk Annahütte  Max Aicher GmbH & Co. KG",
+   "loc": "Ainring, Germany",
+   "country": "",
+   "url": "https://join.com/companies/annahuette/16474038-junior-data-engineer-m-w-d",
+   "posted": "2026-07-21",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "57c75b25b8d9",
+   "firstSeen": "2026-07-21"
+  },
+  {
    "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-20",
+   "posted": "2026-07-21",
    "source": "Career page",
    "fit": 64,
    "tags": [
