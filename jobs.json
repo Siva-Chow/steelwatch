@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-21 12:09 UTC",
- "count": 60,
+ "generated": "2026-07-22 12:13 UTC",
+ "count": 64,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
+  "Indeed": "ok (50)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (3)",
+  "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -530,6 +530,44 @@
    "note": [],
    "offtype": false,
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Betriebsingenieur Vakuumschmelze Luftfahrt (m|w|d)",
+   "co": "",
+   "loc": "Unna",
+   "country": "DE",
+   "url": "https://jobs.vdm-metals.com/job/Unna-Betriebsingenieur-Vakuumschmelze-Luftfahrt-%28mwd%29/1361800755/",
+   "posted": "2026-07-22",
+   "source": "Indeed",
+   "fit": 92,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3a42991dee7f",
+   "firstSeen": "2026-07-22"
   },
   {
    "t": "Combustion Engineer",
@@ -1120,6 +1158,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Projektingenieur Investitionsprojekte (m/w/x)",
+   "co": "OTTO FUCHS KG",
+   "loc": "Meinerzhagen",
+   "country": "DE",
+   "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000138928963-projektingenieur-investitionsprojekte-m-w-x-",
+   "posted": "2026-07-21",
+   "source": "Indeed",
+   "fit": 80,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "1f2d4c2a199b",
+   "firstSeen": "2026-07-22"
+  },
+  {
    "t": "Electrical & Controls Engineer",
    "co": "RHI Magnesita",
    "loc": "",
@@ -1240,7 +1316,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=Cf41hhFFbLjPqvCXxbmxqo%2b1TYsSF8AdSpZdgUH1Gvo%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=pwYuo0rcOTGkePLwMglweHPNoqSRqjIRX7FDHTCpVjQ%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1584,7 +1660,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-21",
+   "posted": "2026-07-22",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1867,6 +1943,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Application Engineer (m,w,d)",
+   "co": "Primetals Technologies",
+   "loc": "Oberhausen, Germany",
+   "country": "",
+   "url": "https://careers.primetals.com/global/en/job/6497/Application-Engineer-m-w-d",
+   "posted": "2026-03-01",
+   "source": "Career page",
+   "fit": 51,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "c23396d21b53",
+   "firstSeen": "2026-07-22"
+  },
+  {
    "t": "Systemingenjör automation/Systemutvecklare",
    "co": "SSAB",
    "loc": "Oxelösund, Sweden",
@@ -1953,6 +2067,40 @@
    "french": false,
    "id": "292738ddc027",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Modellbauer Fachrichtung Gießerei (m,w,d)",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Modellbauer-Fachrichtung-Gie%C3%9Ferei-%28m%2Cw%2Cd%29-86153/1412828733/",
+   "posted": "2026-07-22",
+   "source": "Indeed",
+   "fit": 43,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a5127470f6ac",
+   "firstSeen": "2026-07-22"
   },
   {
    "t": "Cost Engineer (Temp)",
