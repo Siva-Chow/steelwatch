@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-22 12:13 UTC",
- "count": 64,
+ "generated": "2026-07-23 12:11 UTC",
+ "count": 65,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (50)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (47)",
+  "SuccessFactors": "ok (92)",
   "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
@@ -1660,7 +1660,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-22",
+   "posted": "2026-07-23",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1759,12 +1759,50 @@
    "firstSeen": "2026-07-11"
   },
   {
+   "t": "Process Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367436257/?locale=en_US",
+   "posted": "2026-07-22",
+   "source": "Career page",
+   "fit": 62,
+   "tags": [
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "96bf0a720df4",
+   "firstSeen": "2026-07-23"
+  },
+  {
    "t": "Reliability Engineer",
    "co": "RHI Magnesita",
    "loc": "",
    "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1348513757/?locale=en_US",
-   "posted": "2026-07-07",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367437157/?locale=en_US",
+   "posted": "2026-07-22",
    "source": "Career page",
    "fit": 62,
    "tags": [
