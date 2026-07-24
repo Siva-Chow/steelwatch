@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-23 12:11 UTC",
- "count": 65,
+ "generated": "2026-07-24 11:58 UTC",
+ "count": 69,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
-  "SuccessFactors": "ok (92)",
+  "Indeed": "ok (48)",
+  "SuccessFactors": "ok (93)",
   "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
@@ -162,6 +162,44 @@
    "french": false,
    "id": "efacdb094534",
    "firstSeen": "2026-07-17"
+  },
+  {
+   "t": "INGENIEUR ELEKTROTECHNIK/ELEKTRONIK (M/W/D)",
+   "co": "Saveway GmbH&Co. KG",
+   "loc": "Ilmenau",
+   "country": "DE",
+   "url": "http://de.indeed.com/job/ingenieur-elektrotechnikelektronik-mwd-b2a56fbc7b19d6a8",
+   "posted": "2026-07-24",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bd91b59907b1",
+   "firstSeen": "2026-07-24"
   },
   {
    "t": "Laboratory Engineer – Materials Characterisation & R&D",
@@ -348,6 +386,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Werkstoffingenieur (m/w/d) Werkstoffprüfung & Schadensanalyse - befristet für 2 Jahre",
+   "co": "GEA",
+   "loc": "Oelde",
+   "country": "DE",
+   "url": "https://www.gea.com/en/careers/apply-now/item?job=JR-0040174",
+   "posted": "2026-07-22",
+   "source": "Indeed",
+   "fit": 99,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Plant data / Level-2 analysis",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e48cd136a4ed",
+   "firstSeen": "2026-07-24"
+  },
+  {
    "t": "Ingénieur(e) Qualité",
    "co": "Constellium",
    "loc": "Neuf-Brisach",
@@ -421,6 +497,44 @@
    "french": false,
    "id": "6e94991b8688",
    "firstSeen": "2026-07-15"
+  },
+  {
+   "t": "Prozessingenieur (all genders)",
+   "co": "Andritz",
+   "loc": "Göppingen",
+   "country": "DE",
+   "url": "https://careers.andritz.com/schulergroup/job/G%C3%B6ppingen-Prozessingenieur-%28all-genders%29-Bade/1367592957/",
+   "posted": "2026-07-24",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "1fe028314d3b",
+   "firstSeen": "2026-07-24"
   },
   {
    "t": "Mechanical Engineer",
@@ -1057,6 +1171,40 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Developer Robot Process Automation (m/w/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Dortmund, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-Developer-Robot-Process-Automation-%28mwd%29-NW/1417191033/",
+   "posted": "2026-07-21",
+   "source": "Career page",
+   "fit": 81,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "ad18f2fb74fe",
+   "firstSeen": "2026-07-21"
+  },
+  {
    "t": "Karrierechancen: Qualitätsingenieur*in (Technische Analyse - Externe Geräte) (m/w/d/)",
    "co": "BIOTRONIK",
    "loc": "Berlin",
@@ -1093,40 +1241,6 @@
    "french": false,
    "id": "b2729ce5de08",
    "firstSeen": "2026-07-15"
-  },
-  {
-   "t": "Developer Robot Process Automation (m/w/d)",
-   "co": "Salzgitter Konzern",
-   "loc": "Dortmund, Germany",
-   "country": "",
-   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-Developer-Robot-Process-Automation-%28mwd%29-NW/1417191033/",
-   "posted": "2026-07-21",
-   "source": "Career page",
-   "fit": 81,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "ad18f2fb74fe",
-   "firstSeen": "2026-07-21"
   },
   {
    "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
@@ -1316,7 +1430,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=pwYuo0rcOTGkePLwMglweHPNoqSRqjIRX7FDHTCpVjQ%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=GRVqonMErfRSGbjA%2f%2fuBKcWoAoEi1nrGNyFdRJB0VkE%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1660,7 +1774,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-23",
+   "posted": "2026-07-24",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2105,6 +2219,40 @@
    "french": false,
    "id": "292738ddc027",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Modellbauer - Gießerei (m/w/d)",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Modellbauer-Gie%C3%9Ferei-%28mwd%29-86153/1412828733/",
+   "posted": "2026-07-22",
+   "source": "Indeed",
+   "fit": 43,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "4574eaad0062",
+   "firstSeen": "2026-07-24"
   },
   {
    "t": "Modellbauer Fachrichtung Gießerei (m,w,d)",
