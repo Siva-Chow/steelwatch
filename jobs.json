@@ -1,9 +1,9 @@
 {
- "generated": "2026-07-25 10:53 UTC",
- "count": 69,
+ "generated": "2026-07-26 11:09 UTC",
+ "count": 70,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (46)",
+  "Indeed": "ok (47)",
   "SuccessFactors": "ok (93)",
   "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -200,6 +200,42 @@
    "french": false,
    "id": "bd91b59907b1",
    "firstSeen": "2026-07-24"
+  },
+  {
+   "t": "Software Development Professional",
+   "co": "RHI Magnesita",
+   "loc": "Lund, SE, 22457",
+   "country": "SE",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
+   "posted": "2026-07-26",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "30855b5f77c4",
+   "firstSeen": "2026-07-26"
   },
   {
    "t": "Laboratory Engineer – Materials Characterisation & R&D",
@@ -1430,7 +1466,7 @@
    "co": "SKF Vertevo",
    "loc": "Mühlheim an der Donau",
    "country": "DE",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=GRVqonMErfRSGbjA%2f%2fuBKcWoAoEi1nrGNyFdRJB0VkE%3d",
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=SKFVertevo&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=722&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=RGYECuhfd%2ft8%2fEiiTMGUeQJwUuFME82a4qSoRJqVueM%3d",
    "posted": "2026-06-23",
    "source": "Indeed",
    "fit": 77,
@@ -1774,7 +1810,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-25",
+   "posted": "2026-07-26",
    "source": "Career page",
    "fit": 64,
    "tags": [
