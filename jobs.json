@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-26 11:09 UTC",
- "count": 70,
+ "generated": "2026-07-27 15:56 UTC",
+ "count": 71,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
-  "SuccessFactors": "ok (93)",
-  "Company feeds": "ok (4)",
+  "Indeed": "ok (45)",
+  "SuccessFactors": "ok (94)",
+  "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -1603,6 +1603,46 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Reliability Engineer",
+   "co": "Stegra",
+   "loc": "Boden, Germany",
+   "country": "",
+   "url": "https://career.stegra.com/jobs/8129465-reliability-engineer",
+   "posted": "2026-07-27",
+   "source": "Career page",
+   "fit": 75,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Quality",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "5bef19256102",
+   "firstSeen": "2026-07-27"
+  },
+  {
    "t": "Qualitätsingenieur:in – Reduktion / Sinterei",
    "co": "Plansee Group",
    "loc": "Reutte",
@@ -1810,7 +1850,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-26",
+   "posted": "2026-07-27",
    "source": "Career page",
    "fit": 64,
    "tags": [
