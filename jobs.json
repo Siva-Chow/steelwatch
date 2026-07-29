@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-28 12:25 UTC",
- "count": 71,
+ "generated": "2026-07-29 13:09 UTC",
+ "count": 74,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
-  "SuccessFactors": "ok (93)",
-  "Company feeds": "ok (3)",
+  "Indeed": "ok (49)",
+  "SuccessFactors": "ok (92)",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -82,6 +82,46 @@
    "french": false,
    "id": "6cf37935313b",
    "firstSeen": "2026-07-18"
+  },
+  {
+   "t": "Prozessingenieur:in Qualitätslenkung",
+   "co": "voestalpine",
+   "loc": "Linz",
+   "country": "AT",
+   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21301",
+   "posted": "2026-07-29",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "d8d761af38ca",
+   "firstSeen": "2026-07-29"
   },
   {
    "t": "Inspection Engineer | Nevita | Nynäshamn",
@@ -535,44 +575,6 @@
    "firstSeen": "2026-07-15"
   },
   {
-   "t": "Prozessingenieur (all genders)",
-   "co": "Andritz",
-   "loc": "Göppingen",
-   "country": "DE",
-   "url": "https://careers.andritz.com/schulergroup/job/G%C3%B6ppingen-Prozessingenieur-%28all-genders%29-Bade/1367592957/",
-   "posted": "2026-07-24",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1fe028314d3b",
-   "firstSeen": "2026-07-24"
-  },
-  {
    "t": "Mechanical Engineer",
    "co": "RHI Magnesita",
    "loc": "",
@@ -609,6 +611,44 @@
    "french": false,
    "id": "22ac51ff6c80",
    "firstSeen": "2026-07-17"
+  },
+  {
+   "t": "Prozessingenieur (all genders)",
+   "co": "Andritz",
+   "loc": "Göppingen",
+   "country": "DE",
+   "url": "https://careers.andritz.com/schulergroup/job/G%C3%B6ppingen-Prozessingenieur-%28all-genders%29-Bade/1367592957/",
+   "posted": "2026-07-24",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "1fe028314d3b",
+   "firstSeen": "2026-07-24"
   },
   {
    "t": "Mechanical Site Engineer (Mechanical Engineer)",
@@ -853,6 +893,44 @@
    "note": [],
    "offtype": false,
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "QA/QC Engineer",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31299616",
+   "posted": "2026-07-28",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6b3dc004739b",
+   "firstSeen": "2026-07-29"
   },
   {
    "t": "Entwicklungsingenieur Werkstoffentwicklung (m/w/d)",
@@ -1812,7 +1890,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-28",
+   "posted": "2026-07-29",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2025,6 +2103,46 @@
    "french": false,
    "id": "c7e9fa41970d",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "QualitätsingenieurIn (m/w/d)*",
+   "co": "SCHOTT",
+   "loc": "Mainz",
+   "country": "DE",
+   "url": "https://join.schott.com/job/Mainz-Qualit%C3%A4tsingenieurIn-%28mwd%29-RP/1419844733/?feedId=389733",
+   "posted": "2026-07-28",
+   "source": "Indeed",
+   "fit": 60,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "826a0b552210",
+   "firstSeen": "2026-07-29"
   },
   {
    "t": "Kalibrations- / Applikationsingenieur (m/w/d)",
