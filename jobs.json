@@ -1,11 +1,11 @@
 {
- "generated": "2026-07-29 13:09 UTC",
+ "generated": "2026-07-30 12:13 UTC",
  "count": 74,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (49)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (92)",
-  "Company feeds": "ok (2)",
+  "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -1890,7 +1890,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-29",
+   "posted": "2026-07-30",
    "source": "Career page",
    "fit": 64,
    "tags": [
