@@ -1,9 +1,9 @@
 {
- "generated": "2026-07-31 12:31 UTC",
- "count": 74,
+ "generated": "2026-08-01 11:07 UTC",
+ "count": 75,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "ok (9)",
@@ -12,76 +12,42 @@
  },
  "jobs": [
   {
-   "t": "Ingenieurin (w/d/m) Stranggießanlage",
-   "co": "GMH Gruppe",
-   "loc": "Bous",
+   "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
+   "co": "GEMMACON GmbH",
+   "loc": "Korntal-Münchingen",
    "country": "DE",
-   "url": "https://jobs.gmh-gruppe.de/de/jobs/828/ingenieurin-wdm-stranggieanlage",
-   "posted": "2026-07-17",
+   "url": "https://gemmacon.com/jobs/prozessingenieur-m-w-d-fuer-waermebehandlung-und-produktionsoptimierung-region-stuttgart/",
+   "posted": "2026-07-31",
    "source": "Indeed",
    "fit": 100,
    "tags": [
     [
-     "Continuous casting",
-     1
-    ],
-    [
      "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bb56cdc09bd8",
-   "firstSeen": "2026-07-18"
-  },
-  {
-   "t": "Prozess-/Betriebsingenieurin (w/d/m)",
-   "co": "GMH Gruppe",
-   "loc": "Bous",
-   "country": "DE",
-   "url": "https://jobs.gmh-gruppe.de/de/jobs/466/prozess-betriebsingenieurin-wdm",
-   "posted": "2025-05-21",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Continuous casting",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
      1
     ],
     [
      "Materials",
      1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
     ]
    ],
    "cat": "Materials",
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "6cf37935313b",
-   "firstSeen": "2026-07-18"
+   "id": "37c8cadf90ca",
+   "firstSeen": "2026-08-01"
   },
   {
    "t": "Prozessingenieur:in Qualitätslenkung",
@@ -160,6 +126,78 @@
    "french": false,
    "id": "bd91b59907b1",
    "firstSeen": "2026-07-24"
+  },
+  {
+   "t": "Ingenieurin (w/d/m) Stranggießanlage",
+   "co": "GMH Gruppe",
+   "loc": "Bous",
+   "country": "DE",
+   "url": "https://jobs.gmh-gruppe.de/de/jobs/828/ingenieurin-wdm-stranggieanlage",
+   "posted": "2026-07-17",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bb56cdc09bd8",
+   "firstSeen": "2026-07-18"
+  },
+  {
+   "t": "Prozess-/Betriebsingenieurin (w/d/m)",
+   "co": "GMH Gruppe",
+   "loc": "Bous",
+   "country": "DE",
+   "url": "https://jobs.gmh-gruppe.de/de/jobs/466/prozess-betriebsingenieurin-wdm",
+   "posted": "2025-05-21",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6cf37935313b",
+   "firstSeen": "2026-07-18"
   },
   {
    "t": "Inspection Engineer | Nevita | Nynäshamn",
@@ -722,6 +760,36 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Combustion Engineer",
+   "co": "Outokumpu Careers",
+   "loc": "Calvert, AL, US",
+   "country": "AL",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
+   "posted": "2026-07-09",
+   "source": "Career page",
+   "fit": 92,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bec225997f45",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Betriebsingenieur Vakuumschmelze Luftfahrt (m|w|d)",
    "co": "",
    "loc": "Unna",
@@ -758,36 +826,6 @@
    "french": false,
    "id": "3a42991dee7f",
    "firstSeen": "2026-07-22"
-  },
-  {
-   "t": "Combustion Engineer",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
-   "posted": "2026-07-09",
-   "source": "Career page",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bec225997f45",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Prozessingenieur Galvanik (m/w/d)",
@@ -1209,6 +1247,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Manufacturing Engineer - Operations Leadership Track",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1354879757/?locale=en_US",
+   "posted": "2026-08-01",
+   "source": "Career page",
+   "fit": 83,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "7fdf1cba1255",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Data Engineer (m/w/d)",
    "co": "Stahlwerk Annahütte  Max Aicher GmbH & Co. KG",
    "loc": "Ainring, Germany",
@@ -1245,44 +1321,6 @@
    "french": false,
    "id": "1b01ffc884dc",
    "firstSeen": "2026-07-21"
-  },
-  {
-   "t": "Manufacturing Engineer - Operations Leadership Track",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1354879757/?locale=en_US",
-   "posted": "2026-07-03",
-   "source": "Career page",
-   "fit": 83,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "7fdf1cba1255",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Developer Robot Process Automation (m/w/d)",
@@ -1429,7 +1467,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362826857/?locale=en_US",
-   "posted": "2026-07-03",
+   "posted": "2026-08-01",
    "source": "Career page",
    "fit": 80,
    "tags": [
@@ -1890,7 +1928,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-07-31",
+   "posted": "2026-08-01",
    "source": "Career page",
    "fit": 64,
    "tags": [
