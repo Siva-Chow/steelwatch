@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-02 11:07 UTC",
- "count": 75,
+ "generated": "2026-08-03 15:58 UTC",
+ "count": 76,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
+  "Indeed": "ok (41)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (3)",
-  "thyssenkrupp Steel Europe": "ok (9)",
+  "Company feeds": "ok (2)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -126,6 +126,42 @@
    "french": false,
    "id": "bd91b59907b1",
    "firstSeen": "2026-07-24"
+  },
+  {
+   "t": "Software Development Professional",
+   "co": "RHI Magnesita",
+   "loc": "Lund, SE, 22457",
+   "country": "SE",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
+   "posted": "2026-07-26",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "30855b5f77c4",
+   "firstSeen": "2026-07-26"
   },
   {
    "t": "Ingenieurin (w/d/m) Stranggießanlage",
@@ -278,42 +314,6 @@
    "french": false,
    "id": "efacdb094534",
    "firstSeen": "2026-07-17"
-  },
-  {
-   "t": "Software Development Professional",
-   "co": "RHI Magnesita",
-   "loc": "Lund, SE, 22457",
-   "country": "SE",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
-   "posted": "2026-07-26",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "30855b5f77c4",
-   "firstSeen": "2026-07-26"
   },
   {
    "t": "Laboratory Engineer – Materials Characterisation & R&D",
@@ -1928,7 +1928,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-02",
+   "posted": "2026-08-03",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2359,6 +2359,28 @@
    "french": false,
    "id": "c23396d21b53",
    "firstSeen": "2026-07-22"
+  },
+  {
+   "t": "Underhållsingenjör",
+   "co": "SSAB",
+   "loc": "Luleå, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2195",
+   "posted": "2026-08-03",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "cdcca2f0148b",
+   "firstSeen": "2026-08-03"
   },
   {
    "t": "Systemingenjör automation/Systemutvecklare",
