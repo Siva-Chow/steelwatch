@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-05 12:26 UTC",
- "count": 80,
+ "generated": "2026-08-06 12:30 UTC",
+ "count": 81,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (39)",
+  "Indeed": "ok (37)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -828,44 +828,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Betriebsingenieur Vakuumschmelze Luftfahrt (m|w|d)",
-   "co": "",
-   "loc": "Unna",
-   "country": "DE",
-   "url": "https://jobs.vdm-metals.com/job/Unna-Betriebsingenieur-Vakuumschmelze-Luftfahrt-%28mwd%29/1361800755/",
-   "posted": "2026-07-22",
-   "source": "Indeed",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3a42991dee7f",
-   "firstSeen": "2026-07-22"
-  },
-  {
    "t": "Junior Research Associate - Maternity Cover (all genders)",
    "co": "RHI Magnesita",
    "loc": "Leoben, AT, 8700",
@@ -902,6 +864,44 @@
    "french": false,
    "id": "5f1e9f9f5b2e",
    "firstSeen": "2026-08-04"
+  },
+  {
+   "t": "Betriebsingenieur Vakuumschmelze Luftfahrt (m|w|d)",
+   "co": "",
+   "loc": "Unna",
+   "country": "DE",
+   "url": "https://jobs.vdm-metals.com/job/Unna-Betriebsingenieur-Vakuumschmelze-Luftfahrt-%28mwd%29/1361800755/",
+   "posted": "2026-07-22",
+   "source": "Indeed",
+   "fit": 92,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3a42991dee7f",
+   "firstSeen": "2026-07-22"
   },
   {
    "t": "Prozessingenieur Galvanik (m/w/d)",
@@ -2038,7 +2038,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-05",
+   "posted": "2026-08-06",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2142,7 +2142,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1366068857/?locale=en_US",
-   "posted": "2026-07-08",
+   "posted": "2026-08-06",
    "source": "Career page",
    "fit": 63,
    "tags": [
@@ -2372,6 +2372,40 @@
    "french": false,
    "id": "96bf0a720df4",
    "firstSeen": "2026-07-23"
+  },
+  {
+   "t": "Low-Code AI Solution Engineer (m/w/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Dortmund, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/intern/job/Dortmund-Low-Code-AI%E2%80%AFSolution%E2%80%AFEngineer-%28mwd%29-NW/1423810533/",
+   "posted": "2026-08-06",
+   "source": "Career page",
+   "fit": 54,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "66ea14b013b2",
+   "firstSeen": "2026-08-06"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
