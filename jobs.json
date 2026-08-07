@@ -1,16 +1,50 @@
 {
- "generated": "2026-08-06 12:30 UTC",
- "count": 81,
+ "generated": "2026-08-07 09:36 UTC",
+ "count": 82,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (37)",
+  "Indeed": "ok (35)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
+   "co": "JPM Silicon GmbH",
+   "loc": "Braunschweig",
+   "country": "DE",
+   "url": "https://t.gohiring.com/h/59c0c2b21b453af53ef26d531cb94c25d7f0baacaf4b5fb7364a92a05fda1fa7?source=Indeed",
+   "posted": "2026-08-06",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "5d08ccfc6a92",
+   "firstSeen": "2026-08-07"
+  },
   {
    "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
    "co": "GEMMACON GmbH",
@@ -803,7 +837,7 @@
    "loc": "Calvert, AL, US",
    "country": "AL",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
-   "posted": "2026-07-09",
+   "posted": "2026-08-07",
    "source": "Career page",
    "fit": 92,
    "tags": [
@@ -2038,7 +2072,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-06",
+   "posted": "2026-08-07",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2374,11 +2408,11 @@
    "firstSeen": "2026-07-23"
   },
   {
-   "t": "Low-Code AI Solution Engineer (m/w/d)",
+   "t": "Low-Code AI Solution Engineer (m/w/d)",
    "co": "Salzgitter Konzern",
    "loc": "Dortmund, Germany",
    "country": "",
-   "url": "https://jobs.salzgitter-ag.com/intern/job/Dortmund-Low-Code-AI%E2%80%AFSolution%E2%80%AFEngineer-%28mwd%29-NW/1423810533/",
+   "url": "https://jobs.salzgitter-ag.com/intern/job/Dortmund-Low-Code-AI-Solution-Engineer-%28mwd%29-NW/1423810533/",
    "posted": "2026-08-06",
    "source": "Career page",
    "fit": 54,
