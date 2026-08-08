@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-07 09:36 UTC",
- "count": 82,
+ "generated": "2026-08-08 08:06 UTC",
+ "count": 83,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (35)",
+  "Indeed": "ok (34)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
-  "thyssenkrupp Steel Europe": "ok (10)",
+  "thyssenkrupp Steel Europe": "error: Expecting value: line 1 column 1 (char 0)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -2067,28 +2067,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-07",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "11d6b30428c6",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Eltekniker/Elingenjör Stålverk",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -2130,6 +2108,28 @@
    "offtype": false,
    "french": false,
    "id": "84b9e7c3e67c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
+   "posted": "2026-08-07",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "11d6b30428c6",
    "firstSeen": "2026-07-09"
   },
   {
@@ -2207,6 +2207,44 @@
    "french": false,
    "id": "cb3afdf98ec2",
    "firstSeen": "2026-07-11"
+  },
+  {
+   "t": "Qualitätsingenieur Eigenfertigung (w/m/d)",
+   "co": "ANDREAS STIHL AG & Co. KG",
+   "loc": "Waiblingen",
+   "country": "DE",
+   "url": "https://corporate.stihl.de/de/karriere/stellenangebote/job-details/qualitaetsingenieur-eigenfertigung-w-m-d-sf57016",
+   "posted": "2026-08-07",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "aebc76b9f148",
+   "firstSeen": "2026-08-08"
   },
   {
    "t": "Reliability Engineer",
