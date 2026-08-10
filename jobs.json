@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-09 06:55 UTC",
+ "generated": "2026-08-10 07:39 UTC",
  "count": 83,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (33)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (2)",
+  "SuccessFactors": "error: 400 Client Error: Bad Request for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
+  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -2072,7 +2072,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-09",
+   "posted": "2026-08-10",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2621,28 +2621,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Systemingenjör automation/Systemutvecklare",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2048",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "270fa84d7ba4",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Processingenjör",
    "co": "SSAB",
    "loc": "Finspång, Sweden",
@@ -2662,6 +2640,28 @@
    "offtype": false,
    "french": false,
    "id": "3294e029fe5b",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Systemingenjör automation/Systemutvecklare",
+   "co": "SSAB",
+   "loc": "Oxelösund, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2048",
+   "posted": "2026-06-30",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "270fa84d7ba4",
    "firstSeen": "2026-07-09"
   },
   {
