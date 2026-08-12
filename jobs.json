@@ -1,30 +1,11 @@
 {
- "generated": "2026-08-12 07:23 UTC",
- "count": 83,
+ "generated": "2026-08-12 11:52 UTC",
+ "count": 88,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
-  ],
-  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
-  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
+  "Indeed": "ok (40)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (6)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -101,6 +82,40 @@
    "french": false,
    "id": "37c8cadf90ca",
    "firstSeen": "2026-08-01"
+  },
+  {
+   "t": "FM Approvals Engineer",
+   "co": "FM",
+   "loc": "Dippach",
+   "country": "LU",
+   "url": "https://careers.fm.com/careers-home/jobs/1972",
+   "posted": "2026-08-10",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3e071bbce254",
+   "firstSeen": "2026-08-12"
   },
   {
    "t": "Prozessingenieur:in Qualitätslenkung",
@@ -664,6 +679,44 @@
    "french": false,
    "id": "6e94991b8688",
    "firstSeen": "2026-07-15"
+  },
+  {
+   "t": "Qualitätsingenieur:in",
+   "co": "voestalpine",
+   "loc": "Linz",
+   "country": "AT",
+   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21370",
+   "posted": "2026-08-10",
+   "source": "Indeed",
+   "fit": 94,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "62c9ea1ff8e6",
+   "firstSeen": "2026-08-12"
   },
   {
    "t": "Mechanical Engineer",
@@ -1972,6 +2025,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Apprenti(e) ingénieur(e) production soudage",
+   "co": "Emerson",
+   "loc": "Cernay",
+   "country": "FR",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26008982?utm_medium=jobboard&utm_source=indeed",
+   "posted": "2026-08-11",
+   "source": "Indeed",
+   "fit": 73,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": true,
+   "french": false,
+   "id": "ad4d1c1d4a06",
+   "firstSeen": "2026-08-12"
+  },
+  {
    "t": "Ingenieur:in für Level 2 Prozessautomation im Team Automatisierungstechnik im Warmbandwerk 2 (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
@@ -2734,6 +2825,86 @@
    "french": false,
    "id": "2fae0bb9e4c9",
    "firstSeen": "2026-08-05"
+  },
+  {
+   "t": "Electrical Design Engineer",
+   "co": "Hitachi Energy",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131647",
+   "posted": "2026-08-11",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "b32a22e2ad6f",
+   "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Electrical Design Engineer",
+   "co": "Hitachi Rail",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131645",
+   "posted": "2026-08-11",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "56e3a6588a39",
+   "firstSeen": "2026-08-12"
   },
   {
    "t": "Modellbauer - Gießerei (m/w/d)",
