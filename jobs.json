@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-12 11:52 UTC",
+ "generated": "2026-08-13 07:25 UTC",
  "count": 88,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
+  "Indeed": "ok (41)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (6)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -647,8 +647,8 @@
    "co": "SCHOTT",
    "loc": "Landshut",
    "country": "DE",
-   "url": "https://join.schott.com/job/Landshut-Qualit%C3%A4tsingenieurIn-Glas-%28mwd%29-BY/1385615433/?feedId=389733",
-   "posted": "2026-04-20",
+   "url": "https://career012.successfactors.eu/career?company=schottag&career_ns=job_listing&career_job_req_id=88117&lang=de_DE&source=Indeed",
+   "posted": "2026-07-13",
    "source": "Indeed",
    "fit": 95,
    "tags": [
@@ -2182,7 +2182,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-12",
+   "posted": "2026-08-13",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2439,7 +2439,7 @@
    "co": "SCHOTT",
    "loc": "Mainz",
    "country": "DE",
-   "url": "https://join.schott.com/job/Mainz-Qualit%C3%A4tsingenieurIn-%28mwd%29-RP/1419844733/?feedId=389733",
+   "url": "https://career012.successfactors.eu/career?company=schottag&career_ns=job_listing&career_job_req_id=88801&lang=de_DE&source=Indeed",
    "posted": "2026-07-28",
    "source": "Indeed",
    "fit": 60,
