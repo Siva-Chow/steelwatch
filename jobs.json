@@ -1,16 +1,50 @@
 {
- "generated": "2026-08-13 07:25 UTC",
- "count": 88,
+ "generated": "2026-08-14 07:23 UTC",
+ "count": 93,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (41)",
+  "Indeed": "ok (44)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (6)",
+  "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
+   "co": "Eisenbau Krämer GmbH",
+   "loc": "Kreuztal",
+   "country": "DE",
+   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
+   "posted": "2026-08-12",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e2be974cee33",
+   "firstSeen": "2026-08-14"
+  },
   {
    "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
    "co": "JPM Silicon GmbH",
@@ -1756,6 +1790,46 @@
    "firstSeen": "2026-07-14"
   },
   {
+   "t": "Qualitätsingenieur (m/w/d) Wareneingangsdokumentation und QM-System",
+   "co": "Gutehoffnungshütte Radsatz GmbH",
+   "loc": "Deutschland",
+   "country": "DE",
+   "url": "https://www.ghh-radsatz.com/de/karriere/stellenangebote-detail/qualittsingenieur-m-w-d-wareneingangsdokumentation-und-qm-system-137",
+   "posted": "2026-08-13",
+   "source": "Indeed",
+   "fit": 78,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "06ffa753e87f",
+   "firstSeen": "2026-08-14"
+  },
+  {
    "t": "Production Engineer",
    "co": "RHI Magnesita",
    "loc": "",
@@ -1855,6 +1929,44 @@
    "note": [],
    "offtype": false,
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Planning Engineer",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31349250",
+   "posted": "2026-08-13",
+   "source": "Indeed",
+   "fit": 76,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "2c2d46408e7e",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "Mechanical Design Engineer",
@@ -2177,12 +2289,50 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Qualitätsingenieur (m/w/d) Teamleitung Reklamationen und Prüfplanung",
+   "co": "Gutehoffnungshütte Radsatz GmbH",
+   "loc": "Deutschland",
+   "country": "DE",
+   "url": "https://www.ghh-radsatz.com/de/karriere/stellenangebote-detail/qualittsingenieur-m-w-d-teamleitung-reklamationen-und-prfplanung-238",
+   "posted": "2026-08-13",
+   "source": "Indeed",
+   "fit": 64,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "938347ded49e",
+   "firstSeen": "2026-08-14"
+  },
+  {
    "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-13",
+   "posted": "2026-08-14",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2905,6 +3055,46 @@
    "french": false,
    "id": "56e3a6588a39",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Product & Process Development Engineer",
+   "co": "Husqvarna",
+   "loc": "Jönköping",
+   "country": "SE",
+   "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/en-US/External_Career_Site/job/Jnkping/Product---Process-Development-Engineer_R-17777",
+   "posted": "2026-08-13",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "7d448137cc5c",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "Modellbauer - Gießerei (m/w/d)",
