@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-14 07:23 UTC",
- "count": 93,
+ "generated": "2026-08-15 06:36 UTC",
+ "count": 94,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
+  "Indeed": "ok (39)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (4)",
-  "thyssenkrupp Steel Europe": "ok (10)",
+  "thyssenkrupp Steel Europe": "error: Expecting value: line 1 column 1 (char 0)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -80,6 +80,40 @@
    "firstSeen": "2026-08-07"
   },
   {
+   "t": "FM Approvals Engineer",
+   "co": "FM",
+   "loc": "Dippach",
+   "country": "LU",
+   "url": "https://careers.fm.com/careers-home/jobs/1972",
+   "posted": "2026-08-10",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3e071bbce254",
+   "firstSeen": "2026-08-12"
+  },
+  {
    "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
    "co": "GEMMACON GmbH",
    "loc": "Korntal-Münchingen",
@@ -116,40 +150,6 @@
    "french": false,
    "id": "37c8cadf90ca",
    "firstSeen": "2026-08-01"
-  },
-  {
-   "t": "FM Approvals Engineer",
-   "co": "FM",
-   "loc": "Dippach",
-   "country": "LU",
-   "url": "https://careers.fm.com/careers-home/jobs/1972",
-   "posted": "2026-08-10",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3e071bbce254",
-   "firstSeen": "2026-08-12"
   },
   {
    "t": "Prozessingenieur:in Qualitätslenkung",
@@ -758,7 +758,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1364167657/?locale=en_US",
-   "posted": "2026-07-17",
+   "posted": "2026-08-15",
    "source": "Career page",
    "fit": 93,
    "tags": [
@@ -2327,28 +2327,6 @@
    "firstSeen": "2026-08-14"
   },
   {
-   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-14",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "11d6b30428c6",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Processingenjör - Stålverk",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -2368,6 +2346,28 @@
    "offtype": false,
    "french": false,
    "id": "84b9e7c3e67c",
+   "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
+   "posted": "2026-08-14",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "11d6b30428c6",
    "firstSeen": "2026-07-09"
   },
   {
@@ -2835,6 +2835,28 @@
    "french": false,
    "id": "c23396d21b53",
    "firstSeen": "2026-07-22"
+  },
+  {
+   "t": "Energiingenjör",
+   "co": "SSAB",
+   "loc": "Luleå, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2332",
+   "posted": "2026-08-14",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6a4ca4354987",
+   "firstSeen": "2026-08-15"
   },
   {
    "t": "Underhållsingenjör",
