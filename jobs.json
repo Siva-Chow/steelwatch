@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-15 06:36 UTC",
+ "generated": "2026-08-16 06:38 UTC",
  "count": 94,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (39)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (40)",
+  "SuccessFactors": "error: 502 Server Error: Bad Gateway for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "ok (4)",
-  "thyssenkrupp Steel Europe": "error: Expecting value: line 1 column 1 (char 0)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -2327,6 +2327,28 @@
    "firstSeen": "2026-08-14"
   },
   {
+   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
+   "posted": "2026-08-16",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "11d6b30428c6",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Processingenjör - Stålverk",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -2346,28 +2368,6 @@
    "offtype": false,
    "french": false,
    "id": "84b9e7c3e67c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-14",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "11d6b30428c6",
    "firstSeen": "2026-07-09"
   },
   {
