@@ -1,50 +1,16 @@
 {
- "generated": "2026-08-16 06:38 UTC",
- "count": 94,
+ "generated": "2026-08-17 06:53 UTC",
+ "count": 95,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (40)",
-  "SuccessFactors": "error: 502 Server Error: Bad Gateway for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
+  "SuccessFactors": "ok (96)",
   "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
-  {
-   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
-   "co": "Eisenbau Krämer GmbH",
-   "loc": "Kreuztal",
-   "country": "DE",
-   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
-   "posted": "2026-08-12",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e2be974cee33",
-   "firstSeen": "2026-08-14"
-  },
   {
    "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
    "co": "JPM Silicon GmbH",
@@ -112,6 +78,40 @@
    "french": false,
    "id": "3e071bbce254",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
+   "co": "Eisenbau Krämer GmbH",
+   "loc": "Kreuztal",
+   "country": "DE",
+   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
+   "posted": "2026-08-12",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e2be974cee33",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
@@ -2332,7 +2332,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-16",
+   "posted": "2026-08-17",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2835,6 +2835,28 @@
    "french": false,
    "id": "c23396d21b53",
    "firstSeen": "2026-07-22"
+  },
+  {
+   "t": "Processingenjör Ruukki Borlänge",
+   "co": "SSAB",
+   "loc": "Borlänge, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2104",
+   "posted": "2026-08-17",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Process",
+     1
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "932d6239b59e",
+   "firstSeen": "2026-08-17"
   },
   {
    "t": "Energiingenjör",
