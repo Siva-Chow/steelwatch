@@ -1,11 +1,11 @@
 {
- "generated": "2026-08-17 06:53 UTC",
- "count": 95,
+ "generated": "2026-08-18 06:40 UTC",
+ "count": 97,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
+  "Indeed": "ok (42)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (4)",
+  "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -640,6 +640,44 @@
    "firstSeen": "2026-07-24"
   },
   {
+   "t": "Precast Refractory Professional",
+   "co": "RHI Magnesita",
+   "loc": "US",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1369672257/?locale=en_US",
+   "posted": "2026-08-17",
+   "source": "Career page",
+   "fit": 97,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "f063108d491a",
+   "firstSeen": "2026-08-18"
+  },
+  {
    "t": "Ingénieur(e) Qualité",
    "co": "Constellium",
    "loc": "Neuf-Brisach",
@@ -681,7 +719,7 @@
    "co": "SCHOTT",
    "loc": "Landshut",
    "country": "DE",
-   "url": "https://career012.successfactors.eu/career?company=schottag&career_ns=job_listing&career_job_req_id=88117&lang=de_DE&source=Indeed",
+   "url": "https://join.schott.com/job-invite/88117/?utm_source=Indeed&locale=de_DE",
    "posted": "2026-07-13",
    "source": "Indeed",
    "fit": 95,
@@ -2009,6 +2047,44 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Wissenschaftliche/r Mitarbeiter/in (w/m/d) - Promotion im Bereich Gleitlagerwerkstoffe",
+   "co": "RWTH Aachen University",
+   "loc": "Aachen",
+   "country": "DE",
+   "url": "https://karriere.nrw/stellenausschreibung/23688e60-89f1-44d6-814d-48ed2f24671c",
+   "posted": "2026-08-17",
+   "source": "Indeed",
+   "fit": 75,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "657383c19e27",
+   "firstSeen": "2026-08-18"
+  },
+  {
    "t": "Manufacturing Mechanical Engineer",
    "co": "Outokumpu Careers",
    "loc": "Calvert, AL, US",
@@ -2332,7 +2408,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-17",
+   "posted": "2026-08-18",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2589,7 +2665,7 @@
    "co": "SCHOTT",
    "loc": "Mainz",
    "country": "DE",
-   "url": "https://career012.successfactors.eu/career?company=schottag&career_ns=job_listing&career_job_req_id=88801&lang=de_DE&source=Indeed",
+   "url": "https://join.schott.com/job-invite/88801/?utm_source=Indeed&locale=de_DE",
    "posted": "2026-07-28",
    "source": "Indeed",
    "fit": 60,
