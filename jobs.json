@@ -1,16 +1,50 @@
 {
- "generated": "2026-08-18 06:40 UTC",
+ "generated": "2026-08-19 06:41 UTC",
  "count": 97,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (41)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
+   "co": "Eisenbau Krämer GmbH",
+   "loc": "Kreuztal",
+   "country": "DE",
+   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
+   "posted": "2026-08-12",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e2be974cee33",
+   "firstSeen": "2026-08-14"
+  },
   {
    "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
    "co": "JPM Silicon GmbH",
@@ -78,40 +112,6 @@
    "french": false,
    "id": "3e071bbce254",
    "firstSeen": "2026-08-12"
-  },
-  {
-   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
-   "co": "Eisenbau Krämer GmbH",
-   "loc": "Kreuztal",
-   "country": "DE",
-   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
-   "posted": "2026-08-12",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e2be974cee33",
-   "firstSeen": "2026-08-14"
   },
   {
    "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
@@ -938,6 +938,36 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Combustion Engineer",
+   "co": "Outokumpu Careers",
+   "loc": "Calvert, AL, US",
+   "country": "AL",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
+   "posted": "2026-08-07",
+   "source": "Career page",
+   "fit": 92,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bec225997f45",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Materials Engineer - Werkstoffingenieur (m/f/d)",
    "co": "Rolls-Royce",
    "loc": "Dahlewitz",
@@ -974,36 +1004,6 @@
    "french": false,
    "id": "600019704141",
    "firstSeen": "2026-08-04"
-  },
-  {
-   "t": "Combustion Engineer",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
-   "posted": "2026-08-07",
-   "source": "Career page",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bec225997f45",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Junior Research Associate - Maternity Cover (all genders)",
@@ -2408,7 +2408,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-18",
+   "posted": "2026-08-19",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -3067,36 +3067,6 @@
    "firstSeen": "2026-07-09"
   },
   {
-   "t": "Qualitätsingenieur*in (m/w/d)",
-   "co": "OHB",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8390?c=career-ohb",
-   "posted": "2026-08-04",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "2fae0bb9e4c9",
-   "firstSeen": "2026-08-05"
-  },
-  {
    "t": "Electrical Design Engineer",
    "co": "Hitachi Energy",
    "loc": "Ludvika",
@@ -3215,6 +3185,36 @@
    "french": false,
    "id": "7d448137cc5c",
    "firstSeen": "2026-08-14"
+  },
+  {
+   "t": "Qualitätsingenieur*in (m/w/d)",
+   "co": "OHB",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8390?c=career-ohb",
+   "posted": "2026-08-04",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "2fae0bb9e4c9",
+   "firstSeen": "2026-08-05"
   },
   {
    "t": "Modellbauer - Gießerei (m/w/d)",
