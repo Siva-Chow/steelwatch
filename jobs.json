@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-19 06:41 UTC",
- "count": 97,
+ "generated": "2026-08-20 06:43 UTC",
+ "count": 98,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (41)",
+  "Indeed": "ok (40)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -2365,6 +2365,28 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
+   "co": "thyssenkrupp Steel Europe",
+   "loc": "Hamborn",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
+   "posted": "2026-08-20",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "Steel",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "11d6b30428c6",
+   "firstSeen": "2026-07-09"
+  },
+  {
    "t": "Qualitätsingenieur (m/w/d) Teamleitung Reklamationen und Prüfplanung",
    "co": "Gutehoffnungshütte Radsatz GmbH",
    "loc": "Deutschland",
@@ -2401,28 +2423,6 @@
    "french": false,
    "id": "938347ded49e",
    "firstSeen": "2026-08-14"
-  },
-  {
-   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-19",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "11d6b30428c6",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Processingenjör - Stålverk",
@@ -2588,7 +2588,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367437157/?locale=en_US",
-   "posted": "2026-07-22",
+   "posted": "2026-08-20",
    "source": "Career page",
    "fit": 62,
    "tags": [
@@ -2753,7 +2753,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367436257/?locale=en_US",
-   "posted": "2026-07-22",
+   "posted": "2026-08-20",
    "source": "Career page",
    "fit": 55,
    "tags": [
@@ -2873,6 +2873,44 @@
    "note": [],
    "offtype": false,
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "Grohe AG",
+   "loc": "Lahr",
+   "country": "DE",
+   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/66845685/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
+   "posted": "2026-08-19",
+   "source": "Indeed",
+   "fit": 51,
+   "tags": [
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "08bca65638a4",
+   "firstSeen": "2026-08-20"
   },
   {
    "t": "Application Engineer (m,w,d)",
