@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-20 06:43 UTC",
- "count": 98,
+ "generated": "2026-08-21 06:43 UTC",
+ "count": 100,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -46,40 +46,6 @@
    "firstSeen": "2026-08-14"
   },
   {
-   "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
-   "co": "JPM Silicon GmbH",
-   "loc": "Braunschweig",
-   "country": "DE",
-   "url": "https://t.gohiring.com/h/59c0c2b21b453af53ef26d531cb94c25d7f0baacaf4b5fb7364a92a05fda1fa7?source=Indeed",
-   "posted": "2026-08-06",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "5d08ccfc6a92",
-   "firstSeen": "2026-08-07"
-  },
-  {
    "t": "FM Approvals Engineer",
    "co": "FM",
    "loc": "Dippach",
@@ -112,6 +78,40 @@
    "french": false,
    "id": "3e071bbce254",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
+   "co": "JPM Silicon GmbH",
+   "loc": "Braunschweig",
+   "country": "DE",
+   "url": "https://t.gohiring.com/h/59c0c2b21b453af53ef26d531cb94c25d7f0baacaf4b5fb7364a92a05fda1fa7?source=Indeed",
+   "posted": "2026-08-06",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "5d08ccfc6a92",
+   "firstSeen": "2026-08-07"
   },
   {
    "t": "Prozessingenieur (m/w/d) für Wärmebehandlung und Produktionsoptimierung – Region Stuttgart",
@@ -2370,7 +2370,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-20",
+   "posted": "2026-08-21",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -2659,6 +2659,44 @@
    "french": false,
    "id": "c7e9fa41970d",
    "firstSeen": "2026-07-09"
+  },
+  {
+   "t": "Qualitätsingenieur Produkt- und Prozessqualifizierung (m/w/d)",
+   "co": "Stiebel Eltron",
+   "loc": "Holzminden",
+   "country": "DE",
+   "url": "https://service.stiebel-eltron.de/de/service/stellenangebote/qualitaetsingenieurprodukt-undprozessqualifizierungmwd.html",
+   "posted": "2026-08-20",
+   "source": "Indeed",
+   "fit": 60,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a2a95b6caf8f",
+   "firstSeen": "2026-08-21"
   },
   {
    "t": "QualitätsingenieurIn (m/w/d)*",
@@ -3253,6 +3291,44 @@
    "french": false,
    "id": "2fae0bb9e4c9",
    "firstSeen": "2026-08-05"
+  },
+  {
+   "t": "Instandhalter in der Gießerei (m/w/d) - elektrisch",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Instandhalter-in-der-Gie%C3%9Ferei-%28mwd%29-elektrisch-86153/1423830733/",
+   "posted": "2026-08-20",
+   "source": "Indeed",
+   "fit": 43,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "d25ceeccdea0",
+   "firstSeen": "2026-08-21"
   },
   {
    "t": "Modellbauer - Gießerei (m/w/d)",
