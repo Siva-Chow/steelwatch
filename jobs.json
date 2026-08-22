@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-21 06:43 UTC",
- "count": 100,
+ "generated": "2026-08-22 06:37 UTC",
+ "count": 101,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
-  "thyssenkrupp Steel Europe": "ok (10)",
+  "thyssenkrupp Steel Europe": "error: Expecting value: line 1 column 1 (char 0)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -2764,6 +2764,28 @@
    "firstSeen": "2026-07-09"
   },
   {
+   "t": "Research Engineer (m/f/d) - Oberhausen",
+   "co": "Calderys (Imerys)",
+   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
+   "country": "DE",
+   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4470",
+   "posted": "2026-08-21",
+   "source": "Career page",
+   "fit": 58,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bca242f6b84d",
+   "firstSeen": "2026-08-22"
+  },
+  {
    "t": "Research Engineer (m/f/d)",
    "co": "Calderys (Imerys)",
    "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
@@ -3183,46 +3205,6 @@
    "firstSeen": "2026-08-12"
   },
   {
-   "t": "Electrical Design Engineer",
-   "co": "Hitachi Rail",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131645",
-   "posted": "2026-08-11",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "56e3a6588a39",
-   "firstSeen": "2026-08-12"
-  },
-  {
    "t": "Product & Process Development Engineer",
    "co": "Husqvarna",
    "loc": "Jönköping",
@@ -3261,6 +3243,46 @@
    "french": false,
    "id": "7d448137cc5c",
    "firstSeen": "2026-08-14"
+  },
+  {
+   "t": "Electrical Design Engineer",
+   "co": "Hitachi Rail",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131645",
+   "posted": "2026-08-11",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "56e3a6588a39",
+   "firstSeen": "2026-08-12"
   },
   {
    "t": "Qualitätsingenieur*in (m/w/d)",
