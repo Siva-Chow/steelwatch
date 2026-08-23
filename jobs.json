@@ -1,12 +1,12 @@
 {
- "generated": "2026-08-22 06:37 UTC",
+ "generated": "2026-08-23 06:38 UTC",
  "count": 101,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
+  "Indeed": "ok (47)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
-  "thyssenkrupp Steel Europe": "error: Expecting value: line 1 column 1 (char 0)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
@@ -2370,7 +2370,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-21",
+   "posted": "2026-08-23",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -3205,46 +3205,6 @@
    "firstSeen": "2026-08-12"
   },
   {
-   "t": "Product & Process Development Engineer",
-   "co": "Husqvarna",
-   "loc": "Jönköping",
-   "country": "SE",
-   "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/en-US/External_Career_Site/job/Jnkping/Product---Process-Development-Engineer_R-17777",
-   "posted": "2026-08-13",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "7d448137cc5c",
-   "firstSeen": "2026-08-14"
-  },
-  {
    "t": "Electrical Design Engineer",
    "co": "Hitachi Rail",
    "loc": "Ludvika",
@@ -3283,6 +3243,46 @@
    "french": false,
    "id": "56e3a6588a39",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Product & Process Development Engineer",
+   "co": "Husqvarna",
+   "loc": "Jönköping",
+   "country": "SE",
+   "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/en-US/External_Career_Site/job/Jnkping/Product---Process-Development-Engineer_R-17777",
+   "posted": "2026-08-13",
+   "source": "Indeed",
+   "fit": 44,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "7d448137cc5c",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "Qualitätsingenieur*in (m/w/d)",
