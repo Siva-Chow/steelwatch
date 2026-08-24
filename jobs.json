@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-23 06:38 UTC",
- "count": 101,
+ "generated": "2026-08-24 06:56 UTC",
+ "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -11,40 +11,6 @@
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
-  {
-   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
-   "co": "Eisenbau Krämer GmbH",
-   "loc": "Kreuztal",
-   "country": "DE",
-   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
-   "posted": "2026-08-12",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e2be974cee33",
-   "firstSeen": "2026-08-14"
-  },
   {
    "t": "FM Approvals Engineer",
    "co": "FM",
@@ -78,6 +44,76 @@
    "french": false,
    "id": "3e071bbce254",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Software Development Professional",
+   "co": "RHI Magnesita",
+   "loc": "Lund, SE, 22457",
+   "country": "SE",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
+   "posted": "2026-08-24",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "30855b5f77c4",
+   "firstSeen": "2026-07-26"
+  },
+  {
+   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
+   "co": "Eisenbau Krämer GmbH",
+   "loc": "Kreuztal",
+   "country": "DE",
+   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
+   "posted": "2026-08-12",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e2be974cee33",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
@@ -228,42 +264,6 @@
    "french": false,
    "id": "bd91b59907b1",
    "firstSeen": "2026-07-24"
-  },
-  {
-   "t": "Software Development Professional",
-   "co": "RHI Magnesita",
-   "loc": "Lund, SE, 22457",
-   "country": "SE",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
-   "posted": "2026-07-26",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "30855b5f77c4",
-   "firstSeen": "2026-07-26"
   },
   {
    "t": "Ingenieurin (w/d/m) Stranggießanlage",
@@ -418,190 +418,6 @@
    "firstSeen": "2026-07-17"
   },
   {
-   "t": "Laboratory Engineer – Materials Characterisation & R&D",
-   "co": "AxÖ Consulting",
-   "loc": "Hofors",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31247667",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "49000bfaecca",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Laboratory Engineer – Materials Characterisation & R&D",
-   "co": "Ovako Group",
-   "loc": "Hofors",
-   "country": "SE",
-   "url": "https://ovako.varbi.com/en/what:job/jobID:953521/type:job/where:62/apply:1",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1858e684757c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Kalibrations- / Applikationsingenieur:in (m/w/d)",
-   "co": "",
-   "loc": "Kleve",
-   "country": "DE",
-   "url": "https://join.com/companies/quantoluxde/16394416-kalibrations-applikationsingenieur-in-m-w-d?pid=a13795120131dbe48464",
-   "posted": "2026-07-03",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "b2b37141cc26",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingenieur Fachrichtung Metallurgie",
-   "co": "Aktien-Geselllschaft der Dillinger Hüttenwerke",
-   "loc": "Germany",
-   "country": "DE",
-   "url": "https://www.google.com/search?ibp=htl;jobs&q=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=_uastJYzIOvLWFnNAAAAAA%3D%3D&hl=de-DE&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_z2OMUpDQRRFsc0SrF4d8H8RbGIhgpiksHIBYf54nXnJy5vPvDeY0j24gSzEylRuw5WYELC5zTkc7uTnYnK_1ARltEpPIebKMXvTRM_wINJqYnzvfz8-6cUhArUWM2gA07yUJLi8y-6jzfreTLpkHpxjF8u2L4qh7Pp1Gew0K8uhYpTgWN3cXu-6UdN0-bBxhl7NYce6WMzhzekVlR5ZhI_XKi0OX-7Qd9QNiPWfKAU9q0VD-wP9BLVCzAAAAA&shmds=v1_ARwrE22qRdywjFnPGcBdCed8EEIq5cTD2iT3yKuv-12PEnBM8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=_uastJYzIOvLWFnNAAAAAA%3D%3D",
-   "posted": "2026-06-19",
-   "source": "Google Jobs",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "92a41f0e069d",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingenieur*in Qualitätsverbesserung (m/w/d)",
-   "co": "Lech-Stahlwerke GmbH",
-   "loc": "Germany",
-   "country": "DE",
-   "url": "https://www.google.com/search?ibp=htl;jobs&q=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=jSF0p5WvMJM0iDBgAAAAAA%3D%3D&hl=de-DE&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXOQQ4BMRQG4NjOEaxqh8RUJDYcwEhYiANIO_60pdNO-t6YWbqDC1hYOQY3cRJsvvWXPXtZsQ4GwaFJYxfErlHe8fvBdEHSIEJqghHDSrbyOHrdP9eb2DO8R6CmtBAaTqxiNB79pWWuaSElkc8NsWJX5mWsZAzQsZOnqOnPgaxKqL1iHGbzaZfXwYwHG5R2smdlfYt0hlhVuhC_0RaO3b_4BZ0AM5OtAAAA&shmds=v1_ARwrE231VPj1klBUZaDaVQCR_pYia8-Bw1IzjPGsM1kFtbFudw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Stahl+Metallurgie+Ingenieur+Deutschland&htidocid=jSF0p5WvMJM0iDBgAAAAAA%3D%3D",
-   "posted": "2026-07-09",
-   "source": "Google Jobs",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "id": "ec83af23fc21",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Werkstoffingenieur (m/w/d) Werkstoffprüfung & Schadensanalyse - befristet für 2 Jahre",
    "co": "GEA",
    "loc": "Oelde",
@@ -676,43 +492,6 @@
    "french": false,
    "id": "f063108d491a",
    "firstSeen": "2026-08-18"
-  },
-  {
-   "t": "Ingénieur(e) Qualité",
-   "co": "Constellium",
-   "loc": "Neuf-Brisach",
-   "country": "FR",
-   "url": "https://www.constellium.com/careers/job-search/49823/ing%C3%A9nieur(e)-qualit%C3%A9",
-   "posted": "2026-06-25",
-   "source": "Indeed",
-   "fit": 96,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "id": "6715505485c4",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "QualitätsingenieurIn Glas (m/w/d)*",
@@ -865,107 +644,6 @@
    "french": false,
    "id": "1fe028314d3b",
    "firstSeen": "2026-07-24"
-  },
-  {
-   "t": "Mechanical Site Engineer (Mechanical Engineer)",
-   "co": "Gemkom Engineering and Machinery Filial",
-   "loc": "Boden",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31221732",
-   "posted": "2026-06-26",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "ee15b9336d77",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Werkstoffingenieur / Physiker – Entwicklung neuer Stahlwerkstoffe (w/m/d)",
-   "co": "Salzgitter AG",
-   "loc": "Salzgitter",
-   "country": "DE",
-   "cat": "Materials",
-   "fit": 92,
-   "posted": "2026-02-28",
-   "url": "https://to.indeed.com/aajbmdbckwyj",
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials R&D",
-     1
-    ],
-    [
-     "New alloys",
-     1
-    ],
-    [
-     "Development",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "91b12d4ecda8",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Combustion Engineer",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1413462733/?locale=en_US",
-   "posted": "2026-08-07",
-   "source": "Career page",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bec225997f45",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Materials Engineer - Werkstoffingenieur (m/f/d)",
@@ -1158,35 +836,6 @@
    "firstSeen": "2026-07-10"
   },
   {
-   "t": "Werkstoffingenieur:in Stahl / Stahltechnologie / Umformtechnik (w/m/d)",
-   "co": "GMH Gruppe",
-   "loc": "Gröditz",
-   "country": "DE",
-   "cat": "Materials",
-   "fit": 90,
-   "posted": "2026-04-13",
-   "url": "https://to.indeed.com/aaby8kwz6x2g",
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Steel technology",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "c0f31d255ead",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "QA/QC Engineer",
    "co": "Gemkom Engineering and Machinery Filial",
    "loc": "Boden",
@@ -1223,215 +872,6 @@
    "french": false,
    "id": "6b3dc004739b",
    "firstSeen": "2026-07-29"
-  },
-  {
-   "t": "Entwicklungsingenieur Werkstoffentwicklung (m/w/d)",
-   "co": "Eisenwerk Sulzau-Werfen",
-   "loc": "Sulzau",
-   "country": "AT",
-   "cat": "Materials",
-   "fit": 88,
-   "posted": "2026-02-27",
-   "url": "https://to.indeed.com/aafsbt4xcvps",
-   "tags": [
-    [
-     "Steel castings",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Development",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "1fc8c2d9d911",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Produktionsingenieur – Metallurge (m/w/d)",
-   "co": "DK Recycling und Roheisen",
-   "loc": "Duisburg",
-   "country": "DE",
-   "cat": "Process",
-   "fit": 87,
-   "posted": "2026-05-20",
-   "url": "https://to.indeed.com/aajwp6glntmf",
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Iron",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "4f01dfdb8191",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
-   "co": "ASML Deutschland",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 87,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "7b7f8dfe6ac4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "INGENIEUR ALS TECHNISCHER ASSISTENT DER GESCHÄFTSLEITUNG (M/W/D)",
-   "co": "Saveway GmbH&Co. KG",
-   "loc": "Ilmenau",
-   "country": "DE",
-   "url": "http://de.indeed.com/job/ingenieur-als-technischer-assistent-der-gesch%C3%A4ftsleitung-mwd-2cfdea365c9f1fa2",
-   "posted": "2026-06-30",
-   "source": "Indeed",
-   "fit": 87,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "23aebac80cd6",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingénieur Méthodes procédé Forge F/H",
-   "co": "Framatome",
-   "loc": "Ugine",
-   "country": "FR",
-   "url": "https://framatome-career.talent-soft.com/job/ingenieur-methodes-procede-forge-f-h_26864.aspx",
-   "posted": "2026-06-26",
-   "source": "Indeed",
-   "fit": 86,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "id": "e610f39231e1",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "(Junior) Instandhaltungsingenieur/-in (m/w/d) Elektrotechnik",
-   "co": "Outokumpu Careers",
-   "loc": "Krefeld, DE",
-   "country": "DE",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1407073233/?locale=de_DE",
-   "posted": "2026-07-21",
-   "source": "Career page",
-   "fit": 85,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3c7b8d558c57",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Ingenieur für Fahrzeugtechnik (w/m/d)",
@@ -1472,35 +912,6 @@
    "firstSeen": "2026-07-10"
   },
   {
-   "t": "Research Engineer – Refractories (m/f/d)",
-   "co": "Calderys",
-   "loc": "Oberhausen",
-   "country": "DE",
-   "cat": "R&D",
-   "fit": 84,
-   "posted": "2026-02-28",
-   "url": "https://to.indeed.com/aasht7lbgks2",
-   "tags": [
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "R&D",
-     1
-    ],
-    [
-     "Tundish / ladle",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "49a8c159f419",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Ingenieur Elektrotechnik (m/w/d)",
    "co": "",
    "loc": "Leer",
@@ -1533,44 +944,6 @@
    "french": false,
    "id": "d035b99efe24",
    "firstSeen": "2026-08-05"
-  },
-  {
-   "t": "Manufacturing Engineer - Operations Leadership Track",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1354879757/?locale=en_US",
-   "posted": "2026-08-01",
-   "source": "Career page",
-   "fit": 83,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "7fdf1cba1255",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Data Engineer (m/w/d)",
@@ -1681,35 +1054,6 @@
    "french": false,
    "id": "b2729ce5de08",
    "firstSeen": "2026-07-15"
-  },
-  {
-   "t": "Produktingenieur Blockstahl und Schmiedeerzeugnis (w/m/d)",
-   "co": "GMH Gruppe",
-   "loc": "Gröditz",
-   "country": "DE",
-   "cat": "Product",
-   "fit": 80,
-   "posted": "2026-04-13",
-   "url": "https://to.indeed.com/aa26l6plf6v4",
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Product",
-     0
-    ],
-    [
-     "Forging",
-     0
-    ]
-   ],
-   "source": "Seed",
-   "id": "631278207257",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Electrical & Controls Engineer",
@@ -1944,31 +1288,6 @@
    "firstSeen": "2026-07-15"
   },
   {
-   "t": "Prozessingenieur:in Materialrecycling",
-   "co": "Plansee Group",
-   "loc": "Reutte",
-   "country": "AT",
-   "cat": "Materials",
-   "fit": 76,
-   "posted": "2026-06-09",
-   "url": "https://to.indeed.com/aawqyvqn2l9s",
-   "tags": [
-    [
-     "Process",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "51519e1aaa47",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Planning Engineer",
    "co": "Gemkom Engineering and Machinery Filial",
    "loc": "Boden",
@@ -2007,46 +1326,6 @@
    "firstSeen": "2026-08-14"
   },
   {
-   "t": "Mechanical Design Engineer",
-   "co": "Sulzer",
-   "loc": "Mariestad",
-   "country": "SE",
-   "url": "https://sulzer.wd502.myworkdayjobs.com/en-US/SulzerJobs/job/Mariestad/Mechanical-Design-Engineer_JR103689",
-   "posted": "2026-07-06",
-   "source": "Indeed",
-   "fit": 76,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "ada942e290a7",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Wissenschaftliche/r Mitarbeiter/in (w/m/d) - Promotion im Bereich Gleitlagerwerkstoffe",
    "co": "RWTH Aachen University",
    "loc": "Aachen",
@@ -2083,44 +1362,6 @@
    "french": false,
    "id": "657383c19e27",
    "firstSeen": "2026-08-18"
-  },
-  {
-   "t": "Manufacturing Mechanical Engineer",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1393786633/?locale=en_US",
-   "posted": "2026-08-09",
-   "source": "Career page",
-   "fit": 75,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bd1f6b14be10",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Reliability Engineer",
@@ -2163,56 +1404,6 @@
    "firstSeen": "2026-07-27"
   },
   {
-   "t": "Qualitätsingenieur:in – Reduktion / Sinterei",
-   "co": "Plansee Group",
-   "loc": "Reutte",
-   "country": "AT",
-   "cat": "Quality",
-   "fit": 74,
-   "posted": "2026-05-13",
-   "url": "https://to.indeed.com/aarf7ws4yhy4",
-   "tags": [
-    [
-     "Quality",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "ef218046e369",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Qualitätsingenieur Schmiede Unna (m|w|d)",
-   "co": "VDM Metals International",
-   "loc": "Unna",
-   "country": "DE",
-   "cat": "Quality",
-   "fit": 73,
-   "posted": "2026-06-10",
-   "url": "https://to.indeed.com/aactz28zsdf2",
-   "tags": [
-    [
-     "Quality",
-     1
-    ],
-    [
-     "Special alloys",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "1b0b8d425345",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Apprenti(e) ingénieur(e) production soudage",
    "co": "Emerson",
    "loc": "Cernay",
@@ -2251,142 +1442,6 @@
    "firstSeen": "2026-08-12"
   },
   {
-   "t": "Ingenieur:in für Level 2 Prozessautomation im Team Automatisierungstechnik im Warmbandwerk 2 (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-fr-Level-2-Prozessautomation-im-Team-Automatisierungstechnik-im-Warmbandwerk-2--m-w-d-_JR0000013903-1",
-   "posted": "2026-07-02",
-   "source": "Career page",
-   "fit": 73,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Plant data / Level-2 analysis",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3786642f90e3",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Engineer Process – Germany",
-   "co": "Kennametal",
-   "loc": "Mistelgau",
-   "country": "DE",
-   "cat": "Process",
-   "fit": 72,
-   "posted": "2026-05-28",
-   "url": "https://to.indeed.com/aasysmqcmgrr",
-   "tags": [
-    [
-     "Process",
-     1
-    ],
-    [
-     "Metals",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "7d16c4896f61",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Materials Engineer",
-   "co": "Element Materials Technology",
-   "loc": "Linköping",
-   "country": "SE",
-   "cat": "Materials",
-   "fit": 66,
-   "posted": "2026-06-16",
-   "url": "https://to.indeed.com/aajmpp7r4qx9",
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "English-speaking",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "305a17b314b7",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Quality assurance engineer / Qualitätsingenieur:in - High-tech Manufacturing",
-   "co": "ASML",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-assurance-engineer--qualitatsingenieurin-high-tech-manufacturing-j00346894",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 66,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a0fc4141833c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Ingenieur:in Elektrotechnik - Warmbandwerk Bruckhausen (m/w/d)",
-   "co": "thyssenkrupp Steel Europe",
-   "loc": "Hamborn",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrotechnik---Warmbandwerk-Bruckhausen--m-w-d-_JR0000013873-1",
-   "posted": "2026-08-23",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "11d6b30428c6",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Qualitätsingenieur (m/w/d) Teamleitung Reklamationen und Prüfplanung",
    "co": "Gutehoffnungshütte Radsatz GmbH",
    "loc": "Deutschland",
@@ -2423,50 +1478,6 @@
    "french": false,
    "id": "938347ded49e",
    "firstSeen": "2026-08-14"
-  },
-  {
-   "t": "Processingenjör - Stålverk",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2004",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "84b9e7c3e67c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Eltekniker/Elingenjör Stålverk",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1819",
-   "posted": "2026-06-22",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "19cda29161d2",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "(Junior) Data Engineer (m/w/d)",
@@ -2621,46 +1632,6 @@
    "firstSeen": "2026-07-10"
   },
   {
-   "t": "Qualitätsingenieur Wareneingang (m/w/d)",
-   "co": "FINOW",
-   "loc": "Eberswalde",
-   "country": "DE",
-   "url": "https://t.gohiring.com/h/8bdb875e69528fea2319fbaf88c038bde821b0b3d5f49bade77a0590ce75c528?source=Indeed",
-   "posted": "2026-07-09",
-   "source": "Indeed",
-   "fit": 61,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "c7e9fa41970d",
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Qualitätsingenieur Produkt- und Prozessqualifizierung (m/w/d)",
    "co": "Stiebel Eltron",
    "loc": "Holzminden",
@@ -2739,31 +1710,6 @@
    "firstSeen": "2026-07-29"
   },
   {
-   "t": "Kalibrations- / Applikationsingenieur (m/w/d)",
-   "co": "Quantolux Innovation",
-   "loc": "Kleve",
-   "country": "DE",
-   "cat": "Other",
-   "fit": 58,
-   "posted": "2026-07-03",
-   "url": "https://to.indeed.com/aa996rdbs4tb",
-   "tags": [
-    [
-     "Measurement / sensing",
-     1
-    ],
-    [
-     "Adjacent to LiDAR work",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "efbc2ca9dfbf",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
-  },
-  {
    "t": "Research Engineer (m/f/d) - Oberhausen",
    "co": "Calderys (Imerys)",
    "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
@@ -2784,28 +1730,6 @@
    "french": false,
    "id": "bca242f6b84d",
    "firstSeen": "2026-08-22"
-  },
-  {
-   "t": "Research Engineer (m/f/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3754",
-   "posted": "2025-10-28",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "b281b82fdda0",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Process Engineer",
@@ -2874,65 +1798,6 @@
    "french": false,
    "id": "66ea14b013b2",
    "firstSeen": "2026-08-06"
-  },
-  {
-   "t": "Qualitätsingenieur (m/w/d)",
-   "co": "BORBET",
-   "loc": "Hallenberg",
-   "country": "DE",
-   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/65749771/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
-   "posted": "2026-07-02",
-   "source": "Indeed",
-   "fit": 54,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "5a76d2f68d3c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Risk Engineer",
-   "co": "Höganäs AB",
-   "loc": "Höganäs",
-   "country": "SE",
-   "cat": "Other",
-   "fit": 52,
-   "posted": "2026-04-24",
-   "url": "https://to.indeed.com/aarqcdyrxpjf",
-   "tags": [
-    [
-     "Steel / powder co.",
-     1
-    ]
-   ],
-   "source": "Seed",
-   "id": "ece6bbfe04bd",
-   "note": [],
-   "offtype": false,
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
@@ -3075,94 +1940,6 @@
    "french": false,
    "id": "cdcca2f0148b",
    "firstSeen": "2026-08-03"
-  },
-  {
-   "t": "Arbetsmiljöingenjör",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1884",
-   "posted": "2026-06-18",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a5663aa13a4c",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Processingenjör",
-   "co": "SSAB",
-   "loc": "Finspång, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1632",
-   "posted": "2026-06-11",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Process",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3294e029fe5b",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Systemingenjör automation/Systemutvecklare",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2048",
-   "posted": "2026-06-30",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "270fa84d7ba4",
-   "firstSeen": "2026-07-09"
-  },
-  {
-   "t": "Laboratorieingenjör våtkemi",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1860",
-   "posted": "2026-06-05",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "292738ddc027",
-   "firstSeen": "2026-07-09"
   },
   {
    "t": "Electrical Design Engineer",
@@ -3419,36 +2196,6 @@
    "french": false,
    "id": "a5127470f6ac",
    "firstSeen": "2026-07-22"
-  },
-  {
-   "t": "Cost Engineer (Temp)",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1390521633/?locale=en_US",
-   "posted": "2026-07-31",
-   "source": "Career page",
-   "fit": 23,
-   "tags": [
-    [
-     "Production",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "2f0c7a8215cb",
-   "firstSeen": "2026-07-09"
   }
  ]
 }
