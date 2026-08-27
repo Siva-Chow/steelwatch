@@ -1,23 +1,23 @@
 {
- "generated": "2026-08-26 06:47 UTC",
- "count": 60,
+ "generated": "2026-08-27 17:21 UTC",
+ "count": 62,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (35)",
+  "Indeed": "ok (36)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (0)",
+  "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (100)"
+  "Calderys (Imerys)": "ok (96)"
  },
  "jobs": [
   {
-   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
-   "co": "Eisenbau Krämer GmbH",
-   "loc": "Kreuztal",
+   "t": "Ingenieur Werkstoff- und Materialentwicklung (m/w/d)",
+   "co": "Welp Group",
+   "loc": "Wilkau-Haßlau",
    "country": "DE",
-   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
-   "posted": "2026-08-12",
+   "url": "https://www.welp-group.com/de/karriere/stellenanzeigen/mitarbeiter-werkstoff-und-materialentwicklung-m/w/d",
+   "posted": "2026-08-27",
    "source": "Indeed",
    "fit": 100,
    "tags": [
@@ -30,20 +30,24 @@
      1
     ],
     [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
      "R&D / development",
      1
     ],
     [
-     "Quality engineering",
-     1
+     "Non-engineering / worker / admin (off-target)",
+     0
     ]
    ],
    "cat": "Materials",
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "e2be974cee33",
-   "firstSeen": "2026-08-14"
+   "id": "76475c84bef9",
+   "firstSeen": "2026-08-27"
   },
   {
    "t": "Research Associate (all genders)",
@@ -118,6 +122,40 @@
    "french": false,
    "id": "30855b5f77c4",
    "firstSeen": "2026-07-26"
+  },
+  {
+   "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
+   "co": "Eisenbau Krämer GmbH",
+   "loc": "Kreuztal",
+   "country": "DE",
+   "url": "https://eisenbau-kraemer.talentstorm.de/stellenangebote/ingenieur-bereich-anwendungstechnik-m-w-d-25914?embed=joboffersOnly",
+   "posted": "2026-08-12",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e2be974cee33",
+   "firstSeen": "2026-08-14"
   },
   {
    "t": "FM Approvals Engineer",
@@ -836,6 +874,40 @@
    "firstSeen": "2026-07-20"
   },
   {
+   "t": "Bachelor- / Semesterarbeit: Entwicklung eines Prüfadapters für Rundzellen",
+   "co": "",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Bachelor-Semesterarbeit-Entwicklung-eines-Pr%C3%BCfadapters-f%C3%BCr-Rundzellen-86159/1430497433/",
+   "posted": "2026-08-26",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "8ec9b89f6127",
+   "firstSeen": "2026-08-27"
+  },
+  {
    "t": "QA/QC Engineer",
    "co": "Gemkom Engineering and Machinery Filial",
    "loc": "Boden",
@@ -1016,44 +1088,6 @@
    "french": false,
    "id": "b2729ce5de08",
    "firstSeen": "2026-07-15"
-  },
-  {
-   "t": "Electrical & Controls Engineer",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362826857/?locale=en_US",
-   "posted": "2026-08-01",
-   "source": "Career page",
-   "fit": 80,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "55309251be12",
-   "firstSeen": "2026-07-12"
   },
   {
    "t": "Projektingenieur Investitionsprojekte (m/w/x)",
@@ -1802,6 +1836,44 @@
    "french": false,
    "id": "c23396d21b53",
    "firstSeen": "2026-07-22"
+  },
+  {
+   "t": "Gusskontrolleur Gießerei (m/w/d)",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Gusskontrolleur-Gie%C3%9Ferei-%28mwd%29-86153/1429947833/",
+   "posted": "2026-08-26",
+   "source": "Indeed",
+   "fit": 48,
+   "tags": [
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9bd829031313",
+   "firstSeen": "2026-08-27"
   },
   {
    "t": "Underhållsingenjör/Underhållsutvecklare",
