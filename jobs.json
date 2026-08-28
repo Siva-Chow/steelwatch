@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-27 17:21 UTC",
- "count": 62,
+ "generated": "2026-08-28 18:14 UTC",
+ "count": 65,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (36)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (9)",
@@ -646,6 +646,44 @@
    "firstSeen": "2026-08-12"
   },
   {
+   "t": "Product Engineer (m/w/d)",
+   "co": "Novelis",
+   "loc": "Göttingen",
+   "country": "DE",
+   "url": "https://de-careers-novelis.icims.com/jobs/52994/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+   "posted": "2026-08-27",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "481c1a5298f4",
+   "firstSeen": "2026-08-28"
+  },
+  {
    "t": "Mechanical Engineer",
    "co": "RHI Magnesita",
    "loc": "",
@@ -1126,6 +1164,82 @@
    "french": false,
    "id": "1f2d4c2a199b",
    "firstSeen": "2026-07-22"
+  },
+  {
+   "t": "Engineers to Outokumpu's High Nickel Alloy Program",
+   "co": "Outokumpu",
+   "loc": "Avesta",
+   "country": "SE",
+   "url": "https://careers.outokumpu.com/job/Avesta-Engineers-to-Outokumpu&apos;s-High-Nickel-Alloy-Program/1431484133/",
+   "posted": "2026-08-28",
+   "source": "Indeed",
+   "fit": 79,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bf1867a6e009",
+   "firstSeen": "2026-08-28"
+  },
+  {
+   "t": "Engineers to Outokumpu's High Nickel Alloy Program",
+   "co": "Outokumpu Careers",
+   "loc": "Avesta, SE",
+   "country": "SE",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1431484133/?locale=en_US",
+   "posted": "2026-08-28",
+   "source": "Career page",
+   "fit": 79,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9f57d4ea77bf",
+   "firstSeen": "2026-08-28"
   },
   {
    "t": "Process Engineer",
