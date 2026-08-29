@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-28 18:14 UTC",
- "count": 65,
+ "generated": "2026-08-29 12:21 UTC",
+ "count": 64,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (42)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (9)",
@@ -1242,46 +1242,6 @@
    "firstSeen": "2026-08-28"
   },
   {
-   "t": "Process Engineer",
-   "co": "Stegra",
-   "loc": "Boden, Germany",
-   "country": "",
-   "url": "https://career.stegra.com/jobs/8062921-process-engineer",
-   "posted": "2026-07-14",
-   "source": "Career page",
-   "fit": 79,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "e452ab5f5817",
-   "firstSeen": "2026-07-14"
-  },
-  {
    "t": "Qualitätsingenieur (m/w/d) Wareneingangsdokumentation und QM-System",
    "co": "Gutehoffnungshütte Radsatz GmbH",
    "loc": "Deutschland",
@@ -1590,44 +1550,6 @@
    "firstSeen": "2026-08-25"
   },
   {
-   "t": "Process Engineer",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1370360757/?locale=en_US",
-   "posted": "2026-08-25",
-   "source": "Career page",
-   "fit": 65,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "96bf0a720df4",
-   "firstSeen": "2026-07-23"
-  },
-  {
    "t": "Qualitätsingenieur (m/w/d) Teamleitung Reklamationen und Prüfplanung",
    "co": "Gutehoffnungshütte Radsatz GmbH",
    "loc": "Deutschland",
@@ -1840,6 +1762,40 @@
    "french": false,
    "id": "bca242f6b84d",
    "firstSeen": "2026-08-22"
+  },
+  {
+   "t": "Process Engineer",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367436257/?locale=en_US",
+   "posted": "2026-08-20",
+   "source": "Career page",
+   "fit": 55,
+   "tags": [
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "96bf0a720df4",
+   "firstSeen": "2026-07-23"
   },
   {
    "t": "Low-Code AI Solution Engineer (m/w/d)",
