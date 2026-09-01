@@ -1,14 +1,14 @@
 {
- "generated": "2026-08-31 12:49 UTC",
+ "generated": "2026-09-01 11:10 UTC",
  "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
-  "thyssenkrupp Steel Europe": "ok (8)",
+  "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (93)"
+  "Calderys (Imerys)": "ok (91)"
  },
  "jobs": [
   {
@@ -50,6 +50,42 @@
    "firstSeen": "2026-08-27"
   },
   {
+   "t": "Software Development Professional",
+   "co": "RHI Magnesita",
+   "loc": "Lund, SE, 22457",
+   "country": "SE",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
+   "posted": "2026-08-24",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "30855b5f77c4",
+   "firstSeen": "2026-07-26"
+  },
+  {
    "t": "Research Associate (all genders)",
    "co": "RHI Magnesita",
    "loc": "Leoben, AT, 8700",
@@ -86,42 +122,6 @@
    "french": false,
    "id": "1e4206a51036",
    "firstSeen": "2026-08-26"
-  },
-  {
-   "t": "Software Development Professional",
-   "co": "RHI Magnesita",
-   "loc": "Lund, SE, 22457",
-   "country": "SE",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
-   "posted": "2026-08-24",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "30855b5f77c4",
-   "firstSeen": "2026-07-26"
   },
   {
    "t": "Ingenieur - Bereich Anwendungstechnik (m/w/d)",
@@ -414,86 +414,6 @@
    "firstSeen": "2026-07-18"
   },
   {
-   "t": "Inspection Engineer | Nevita | Nynäshamn",
-   "co": "Nevita AB",
-   "loc": "Nynäshamn",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31276921",
-   "posted": "2026-07-16",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "e367e2854aef",
-   "firstSeen": "2026-07-17"
-  },
-  {
-   "t": "Inspection Engineer | Nevita | Nynäshamn",
-   "co": "Nevita",
-   "loc": "Nynäshamn",
-   "country": "SE",
-   "url": "https://nevita.teamtailor.com/jobs/7126105-inspection-engineer-nevita-nynashamn",
-   "posted": "2026-01-27",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "efacdb094534",
-   "firstSeen": "2026-07-17"
-  },
-  {
    "t": "Werkstoffingenieur (m/w/d) Werkstoffprüfung & Schadensanalyse - befristet für 2 Jahre",
    "co": "GEA",
    "loc": "Oelde",
@@ -644,44 +564,6 @@
    "french": false,
    "id": "481c1a5298f4",
    "firstSeen": "2026-08-28"
-  },
-  {
-   "t": "Mechanical Engineer",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1364167657/?locale=en_US",
-   "posted": "2026-08-15",
-   "source": "Career page",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "22ac51ff6c80",
-   "firstSeen": "2026-07-17"
   },
   {
    "t": "Prozessingenieur (all genders)",
@@ -1474,6 +1356,82 @@
    "firstSeen": "2026-07-21"
   },
   {
+   "t": "Mechanical Plant Design Engineer",
+   "co": "Hitachi Rail",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0099562",
+   "posted": "2026-08-31",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "050bbe3c6767",
+   "firstSeen": "2026-09-01"
+  },
+  {
+   "t": "Mechanical Plant Design Engineer",
+   "co": "Hitachi Energy",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0099562",
+   "posted": "2026-03-30",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9eb14836cf69",
+   "firstSeen": "2026-09-01"
+  },
+  {
    "t": "Qualitätsingenieur Eigenfertigung (w/m/d)",
    "co": "ANDREAS STIHL AG & Co. KG",
    "loc": "Waiblingen",
@@ -1902,6 +1860,46 @@
    "french": false,
    "id": "cdcca2f0148b",
    "firstSeen": "2026-08-03"
+  },
+  {
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Qualit%C3%A4tsingenieur-%28mwd%29-86153/1427862733/",
+   "posted": "2026-08-31",
+   "source": "Indeed",
+   "fit": 45,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "e0b54f413dac",
+   "firstSeen": "2026-09-01"
   },
   {
    "t": "Product & Process Development Engineer",
