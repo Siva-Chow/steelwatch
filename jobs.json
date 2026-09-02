@@ -1,16 +1,50 @@
 {
- "generated": "2026-09-01 11:10 UTC",
+ "generated": "2026-09-02 10:43 UTC",
  "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (37)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (91)"
+  "Calderys (Imerys)": "ok (92)"
  },
  "jobs": [
+  {
+   "t": "Schweißfachingenieur Research & Development (f/m/d)",
+   "co": "Siemens Energy",
+   "loc": "Falkensee",
+   "country": "DE",
+   "url": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Schwei-fachingenieur-Research-Development-f-m-d-/302419",
+   "posted": "2026-09-01",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "8dca49b61b6e",
+   "firstSeen": "2026-09-02"
+  },
   {
    "t": "Ingenieur Werkstoff- und Materialentwicklung (m/w/d)",
    "co": "Welp Group",
@@ -342,78 +376,6 @@
    "firstSeen": "2026-07-24"
   },
   {
-   "t": "Ingenieurin (w/d/m) Stranggießanlage",
-   "co": "GMH Gruppe",
-   "loc": "Bous",
-   "country": "DE",
-   "url": "https://jobs.gmh-gruppe.de/de/jobs/828/ingenieurin-wdm-stranggieanlage",
-   "posted": "2026-07-17",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Continuous casting",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bb56cdc09bd8",
-   "firstSeen": "2026-07-18"
-  },
-  {
-   "t": "Prozess-/Betriebsingenieurin (w/d/m)",
-   "co": "GMH Gruppe",
-   "loc": "Bous",
-   "country": "DE",
-   "url": "https://jobs.gmh-gruppe.de/de/jobs/466/prozess-betriebsingenieurin-wdm",
-   "posted": "2025-05-21",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Continuous casting",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6cf37935313b",
-   "firstSeen": "2026-07-18"
-  },
-  {
    "t": "Werkstoffingenieur (m/w/d) Werkstoffprüfung & Schadensanalyse - befristet für 2 Jahre",
    "co": "GEA",
    "loc": "Oelde",
@@ -526,6 +488,44 @@
    "french": false,
    "id": "62c9ea1ff8e6",
    "firstSeen": "2026-08-12"
+  },
+  {
+   "t": "Produktingenieur (m/w/d)",
+   "co": "Novelis",
+   "loc": "Göttingen",
+   "country": "DE",
+   "url": "https://de-careers-novelis.icims.com/jobs/52994/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+   "posted": "2026-08-27",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9393ac4f0947",
+   "firstSeen": "2026-09-02"
   },
   {
    "t": "Product Engineer (m/w/d)",
