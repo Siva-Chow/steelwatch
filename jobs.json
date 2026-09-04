@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-03 10:44 UTC",
- "count": 60,
+ "generated": "2026-09-04 10:40 UTC",
+ "count": 62,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (38)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (44)",
+  "SuccessFactors": "ok (37)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
@@ -82,6 +82,40 @@
    "french": false,
    "id": "76475c84bef9",
    "firstSeen": "2026-08-27"
+  },
+  {
+   "t": "Research Engineer – Laser Welding & Digital Engineering",
+   "co": "ArcelorMittal",
+   "loc": "Montataire, France",
+   "country": "",
+   "url": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/40418",
+   "posted": "2026-09-03",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "03960f545b5b",
+   "firstSeen": "2026-09-04"
   },
   {
    "t": "Software Development Professional",
@@ -718,44 +752,6 @@
    "firstSeen": "2026-07-22"
   },
   {
-   "t": "Prozessingenieur Galvanik (m/w/d)",
-   "co": "Schell GmbH & Co. KG",
-   "loc": "Olpe",
-   "country": "DE",
-   "url": "https://jobs.schell.eu/de?id=2083b0",
-   "posted": "2026-07-20",
-   "source": "Indeed",
-   "fit": 91,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "f94fc4c2ae44",
-   "firstSeen": "2026-07-20"
-  },
-  {
    "t": "Bachelor- / Semesterarbeit: Entwicklung eines Prüfadapters für Rundzellen",
    "co": "",
    "loc": "Augsburg",
@@ -1126,6 +1122,44 @@
    "firstSeen": "2026-08-14"
   },
   {
+   "t": "Abschlussarbeit: Experimentelle Untersuchungen von Festkörperbatterien im Kalandrierprozess",
+   "co": "",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Abschlussarbeit-Experimentelle-Untersuchungen-von-Festk%C3%B6rperbatterien-im-Kalandrierprozess-86159/1433304633/",
+   "posted": "2026-09-03",
+   "source": "Indeed",
+   "fit": 75,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": true,
+   "french": false,
+   "id": "d5d375676796",
+   "firstSeen": "2026-09-04"
+  },
+  {
    "t": "Wissenschaftliche/r Mitarbeiter/in (w/m/d) - Promotion im Bereich Gleitlagerwerkstoffe",
    "co": "RWTH Aachen University",
    "loc": "Aachen",
@@ -1242,6 +1276,82 @@
    "firstSeen": "2026-08-12"
   },
   {
+   "t": "Mechanical Plant Design Engineer",
+   "co": "Hitachi Energy",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0142107",
+   "posted": "2026-09-03",
+   "source": "Indeed",
+   "fit": 72,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9eb14836cf69",
+   "firstSeen": "2026-09-01"
+  },
+  {
+   "t": "Mechanical Plant Design Engineer",
+   "co": "Hitachi Rail",
+   "loc": "Ludvika",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0142107",
+   "posted": "2026-09-03",
+   "source": "Indeed",
+   "fit": 72,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "050bbe3c6767",
+   "firstSeen": "2026-09-01"
+  },
+  {
    "t": "Mechanical Engineer",
    "co": "Safety Bolt",
    "loc": "Stockholm",
@@ -1354,82 +1464,6 @@
    "french": false,
    "id": "57c75b25b8d9",
    "firstSeen": "2026-07-21"
-  },
-  {
-   "t": "Mechanical Plant Design Engineer",
-   "co": "Hitachi Rail",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0099562",
-   "posted": "2026-08-31",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "050bbe3c6767",
-   "firstSeen": "2026-09-01"
-  },
-  {
-   "t": "Mechanical Plant Design Engineer",
-   "co": "Hitachi Energy",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0099562",
-   "posted": "2026-03-30",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "9eb14836cf69",
-   "firstSeen": "2026-09-01"
   },
   {
    "t": "Qualitätsingenieur Eigenfertigung (w/m/d)",
@@ -1568,6 +1602,28 @@
    "french": false,
    "id": "bca242f6b84d",
    "firstSeen": "2026-08-22"
+  },
+  {
+   "t": "Research Engineer - Germany (m/f/d)",
+   "co": "Calderys (Imerys)",
+   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
+   "country": "DE",
+   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3754",
+   "posted": "2025-10-28",
+   "source": "Career page",
+   "fit": 58,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "074d1180ae01",
+   "firstSeen": "2026-09-04"
   },
   {
    "t": "Process Engineer",
