@@ -1,11 +1,30 @@
 {
- "generated": "2026-09-04 10:40 UTC",
- "count": 62,
+ "generated": "2026-09-05 10:00 UTC",
+ "count": 59,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
-  "SuccessFactors": "ok (37)",
-  "Company feeds": "ok (1)",
+  "Indeed": [
+   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
+  ],
+  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
+  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (91)"
@@ -858,78 +877,6 @@
    "firstSeen": "2026-08-05"
   },
   {
-   "t": "Data Engineer (m/w/d)",
-   "co": "Stahlwerk Annahütte  Max Aicher GmbH & Co. KG",
-   "loc": "Ainring, Germany",
-   "country": "",
-   "url": "https://join.com/companies/annahuette/16474043-data-engineer-m-w-d",
-   "posted": "2026-07-21",
-   "source": "Career page",
-   "fit": 83,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1b01ffc884dc",
-   "firstSeen": "2026-07-21"
-  },
-  {
-   "t": "Developer Robot Process Automation (m/w/d)",
-   "co": "Salzgitter Konzern",
-   "loc": "Dortmund, Germany",
-   "country": "",
-   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-Developer-Robot-Process-Automation-%28mwd%29-NW/1417191033/",
-   "posted": "2026-07-21",
-   "source": "Career page",
-   "fit": 81,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "ad18f2fb74fe",
-   "firstSeen": "2026-07-21"
-  },
-  {
    "t": "Projektingenieur Investitionsprojekte (m/w/x)",
    "co": "OTTO FUCHS KG",
    "loc": "Meinerzhagen",
@@ -1428,44 +1375,6 @@
    "firstSeen": "2026-08-14"
   },
   {
-   "t": "(Junior) Data Engineer (m/w/d)",
-   "co": "Stahlwerk Annahütte  Max Aicher GmbH & Co. KG",
-   "loc": "Ainring, Germany",
-   "country": "",
-   "url": "https://join.com/companies/annahuette/16474038-junior-data-engineer-m-w-d",
-   "posted": "2026-07-21",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Entry-level friendly",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "57c75b25b8d9",
-   "firstSeen": "2026-07-21"
-  },
-  {
    "t": "Qualitätsingenieur Eigenfertigung (w/m/d)",
    "co": "ANDREAS STIHL AG & Co. KG",
    "loc": "Waiblingen",
@@ -1770,44 +1679,6 @@
    "firstSeen": "2026-07-22"
   },
   {
-   "t": "Gusskontrolleur Gießerei (m/w/d)",
-   "co": "Everllence SE",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.everllence.com/job/Augsburg-Gusskontrolleur-Gie%C3%9Ferei-%28mwd%29-86153/1429947833/",
-   "posted": "2026-08-26",
-   "source": "Indeed",
-   "fit": 48,
-   "tags": [
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "9bd829031313",
-   "firstSeen": "2026-08-27"
-  },
-  {
    "t": "Underhållsingenjör/Underhållsutvecklare",
    "co": "SSAB",
    "loc": "Oxelösund, Sweden",
@@ -1894,6 +1765,44 @@
    "french": false,
    "id": "6a4ca4354987",
    "firstSeen": "2026-08-15"
+  },
+  {
+   "t": "Gusskontrolleur Gießerei (m/w/d)",
+   "co": "Everllence SE",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.everllence.com/job/Augsburg-Gusskontrolleur-Gie%C3%9Ferei-%28mwd%29-86153/1429947833/",
+   "posted": "2026-08-26",
+   "source": "Indeed",
+   "fit": 48,
+   "tags": [
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "9bd829031313",
+   "firstSeen": "2026-08-27"
   },
   {
    "t": "Underhållsingenjör",
