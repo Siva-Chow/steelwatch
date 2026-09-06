@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 10:00 UTC",
- "count": 59,
+ "generated": "2026-09-06 10:20 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -733,44 +733,6 @@
    "firstSeen": "2026-08-04"
   },
   {
-   "t": "Betriebsingenieur Vakuumschmelze Luftfahrt (m|w|d)",
-   "co": "",
-   "loc": "Unna",
-   "country": "DE",
-   "url": "https://jobs.vdm-metals.com/job/Unna-Betriebsingenieur-Vakuumschmelze-Luftfahrt-%28mwd%29/1361800755/",
-   "posted": "2026-07-22",
-   "source": "Indeed",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3a42991dee7f",
-   "firstSeen": "2026-07-22"
-  },
-  {
    "t": "Bachelor- / Semesterarbeit: Entwicklung eines Prüfadapters für Rundzellen",
    "co": "",
    "loc": "Augsburg",
@@ -875,44 +837,6 @@
    "french": false,
    "id": "d035b99efe24",
    "firstSeen": "2026-08-05"
-  },
-  {
-   "t": "Projektingenieur Investitionsprojekte (m/w/x)",
-   "co": "OTTO FUCHS KG",
-   "loc": "Meinerzhagen",
-   "country": "DE",
-   "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000138928963-projektingenieur-investitionsprojekte-m-w-x-",
-   "posted": "2026-07-21",
-   "source": "Indeed",
-   "fit": 80,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1f2d4c2a199b",
-   "firstSeen": "2026-07-22"
   },
   {
    "t": "Engineers to Outokumpu's High Nickel Alloy Program",
@@ -1641,44 +1565,6 @@
    "firstSeen": "2026-08-20"
   },
   {
-   "t": "Application Engineer (m,w,d)",
-   "co": "Primetals Technologies",
-   "loc": "Oberhausen, Germany",
-   "country": "",
-   "url": "https://careers.primetals.com/global/en/job/6497/Application-Engineer-m-w-d",
-   "posted": "2026-03-01",
-   "source": "Career page",
-   "fit": 51,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "c23396d21b53",
-   "firstSeen": "2026-07-22"
-  },
-  {
    "t": "Underhållsingenjör/Underhållsutvecklare",
    "co": "SSAB",
    "loc": "Oxelösund, Sweden",
@@ -1723,28 +1609,6 @@
    "firstSeen": "2026-08-25"
   },
   {
-   "t": "Processingenjör Ruukki Borlänge",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2104",
-   "posted": "2026-08-17",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Process",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "932d6239b59e",
-   "firstSeen": "2026-08-17"
-  },
-  {
    "t": "Energiingenjör",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -1765,6 +1629,28 @@
    "french": false,
    "id": "6a4ca4354987",
    "firstSeen": "2026-08-15"
+  },
+  {
+   "t": "Processingenjör Ruukki Borlänge",
+   "co": "SSAB",
+   "loc": "Borlänge, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2104",
+   "posted": "2026-08-17",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Process",
+     1
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "932d6239b59e",
+   "firstSeen": "2026-08-17"
   },
   {
    "t": "Gusskontrolleur Gießerei (m/w/d)",
@@ -2087,40 +1973,6 @@
    "french": false,
    "id": "4574eaad0062",
    "firstSeen": "2026-07-24"
-  },
-  {
-   "t": "Modellbauer Fachrichtung Gießerei (m,w,d)",
-   "co": "Everllence SE",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.everllence.com/job/Augsburg-Modellbauer-Fachrichtung-Gie%C3%9Ferei-%28m%2Cw%2Cd%29-86153/1412828733/",
-   "posted": "2026-07-22",
-   "source": "Indeed",
-   "fit": 43,
-   "tags": [
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a5127470f6ac",
-   "firstSeen": "2026-07-22"
   }
  ]
 }
