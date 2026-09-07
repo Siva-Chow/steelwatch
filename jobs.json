@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-06 10:20 UTC",
- "count": 55,
+ "generated": "2026-09-07 11:41 UTC",
+ "count": 54,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -1457,40 +1457,6 @@
    "french": false,
    "id": "074d1180ae01",
    "firstSeen": "2026-09-04"
-  },
-  {
-   "t": "Process Engineer",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1367436257/?locale=en_US",
-   "posted": "2026-08-20",
-   "source": "Career page",
-   "fit": 55,
-   "tags": [
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "96bf0a720df4",
-   "firstSeen": "2026-07-23"
   },
   {
    "t": "Low-Code AI Solution Engineer (m/w/d)",
