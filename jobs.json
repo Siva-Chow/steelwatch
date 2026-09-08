@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-07 11:41 UTC",
- "count": 54,
+ "generated": "2026-09-08 10:40 UTC",
+ "count": 50,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -27,7 +27,7 @@
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (9)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (91)"
+  "Calderys (Imerys)": "ok (94)"
  },
  "jobs": [
   {
@@ -391,82 +391,6 @@
    "firstSeen": "2026-07-29"
   },
   {
-   "t": "INGENIEUR ELEKTROTECHNIK/ELEKTRONIK (M/W/D)",
-   "co": "Saveway GmbH&Co. KG",
-   "loc": "Ilmenau",
-   "country": "DE",
-   "url": "http://de.indeed.com/job/ingenieur-elektrotechnikelektronik-mwd-b2a56fbc7b19d6a8",
-   "posted": "2026-07-24",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bd91b59907b1",
-   "firstSeen": "2026-07-24"
-  },
-  {
-   "t": "Werkstoffingenieur (m/w/d) Werkstoffprüfung & Schadensanalyse - befristet für 2 Jahre",
-   "co": "GEA",
-   "loc": "Oelde",
-   "country": "DE",
-   "url": "https://www.gea.com/en/careers/apply-now/item?job=JR-0040174",
-   "posted": "2026-07-22",
-   "source": "Indeed",
-   "fit": 99,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Plant data / Level-2 analysis",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e48cd136a4ed",
-   "firstSeen": "2026-07-24"
-  },
-  {
    "t": "Precast Refractory Professional",
    "co": "RHI Magnesita",
    "loc": "US",
@@ -617,44 +541,6 @@
    "french": false,
    "id": "481c1a5298f4",
    "firstSeen": "2026-08-28"
-  },
-  {
-   "t": "Prozessingenieur (all genders)",
-   "co": "Andritz",
-   "loc": "Göppingen",
-   "country": "DE",
-   "url": "https://careers.andritz.com/schulergroup/job/G%C3%B6ppingen-Prozessingenieur-%28all-genders%29-Bade/1367592957/",
-   "posted": "2026-07-24",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1fe028314d3b",
-   "firstSeen": "2026-07-24"
   },
   {
    "t": "Materials Engineer - Werkstoffingenieur (m/f/d)",
@@ -1905,40 +1791,6 @@
    "french": false,
    "id": "d25ceeccdea0",
    "firstSeen": "2026-08-21"
-  },
-  {
-   "t": "Modellbauer - Gießerei (m/w/d)",
-   "co": "Everllence SE",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.everllence.com/job/Augsburg-Modellbauer-Gie%C3%9Ferei-%28mwd%29-86153/1412828733/",
-   "posted": "2026-07-22",
-   "source": "Indeed",
-   "fit": 43,
-   "tags": [
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "4574eaad0062",
-   "firstSeen": "2026-07-24"
   }
  ]
 }
