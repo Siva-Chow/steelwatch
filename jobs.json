@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09 10:49 UTC",
- "count": 50,
+ "generated": "2026-09-10 10:42 UTC",
+ "count": 49,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -25,9 +25,9 @@
   ],
   "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
-  "thyssenkrupp Steel Europe": "ok (9)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (94)"
+  "Calderys (Imerys)": "ok (96)"
  },
  "jobs": [
   {
@@ -135,42 +135,6 @@
    "french": false,
    "id": "03960f545b5b",
    "firstSeen": "2026-09-04"
-  },
-  {
-   "t": "Software Development Professional",
-   "co": "RHI Magnesita",
-   "loc": "Lund, SE, 22457",
-   "country": "SE",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1362239557/?locale=en_US",
-   "posted": "2026-08-24",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "30855b5f77c4",
-   "firstSeen": "2026-07-26"
   },
   {
    "t": "Research Associate (all genders)",
