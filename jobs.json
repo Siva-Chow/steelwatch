@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-10 10:42 UTC",
- "count": 49,
+ "generated": "2026-09-11 10:41 UTC",
+ "count": 48,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -27,7 +27,7 @@
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (96)"
+  "Calderys (Imerys)": "ok (97)"
  },
  "jobs": [
   {
@@ -917,46 +917,6 @@
    "french": false,
    "id": "657383c19e27",
    "firstSeen": "2026-08-18"
-  },
-  {
-   "t": "Reliability Engineer",
-   "co": "Stegra",
-   "loc": "Boden, Germany",
-   "country": "",
-   "url": "https://career.stegra.com/jobs/8129465-reliability-engineer",
-   "posted": "2026-07-27",
-   "source": "Career page",
-   "fit": 75,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Quality",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "5bef19256102",
-   "firstSeen": "2026-07-27"
   },
   {
    "t": "Apprenti(e) ingénieur(e) production soudage",
