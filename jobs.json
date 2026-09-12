@@ -1,35 +1,92 @@
 {
- "generated": "2026-09-11 10:41 UTC",
- "count": 48,
+ "generated": "2026-09-12 10:10 UTC",
+ "count": 53,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
-  ],
-  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
-  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
+  "Indeed": "ok (39)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (97)"
+  "Calderys (Imerys)": "ok (96)"
  },
  "jobs": [
+  {
+   "t": "Projektingenieur (m/w/d) Verfahrenstechnik",
+   "co": "WIEGEL Gruppe",
+   "loc": "Nürnberg",
+   "country": "DE",
+   "url": "https://jobs.smartrecruiters.com/Wiegel/744000148949148-projektingenieur-m-w-d-verfahrenstechnik",
+   "posted": "2026-09-11",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "de86d6d4686b",
+   "firstSeen": "2026-09-12"
+  },
+  {
+   "t": "Prozessingenieur Recycling (m/w/d) - Elternzeitvertretung",
+   "co": "Novelis",
+   "loc": "Seeland",
+   "country": "DE",
+   "url": "https://de-careers-novelis.icims.com/jobs/52997/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+   "posted": "2026-09-08",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e4aaddd76162",
+   "firstSeen": "2026-09-12"
+  },
   {
    "t": "Schweißfachingenieur Research & Development (f/m/d)",
    "co": "Siemens Energy",
@@ -431,6 +488,44 @@
    "firstSeen": "2026-08-12"
   },
   {
+   "t": "Automation Engineer - PLC & UX, Process Automation (all genders)",
+   "co": "RHI Magnesita",
+   "loc": "Hünenberg, CH, 6331",
+   "country": "CH",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1371093857/?locale=en_US",
+   "posted": "2026-09-02",
+   "source": "Career page",
+   "fit": 93,
+   "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e79cc1ab8fa4",
+   "firstSeen": "2026-09-12"
+  },
+  {
    "t": "Produktingenieur (m/w/d)",
    "co": "Novelis",
    "loc": "Göttingen",
@@ -690,44 +785,6 @@
   },
   {
    "t": "Engineers to Outokumpu's High Nickel Alloy Program",
-   "co": "Outokumpu",
-   "loc": "Avesta",
-   "country": "SE",
-   "url": "https://careers.outokumpu.com/job/Avesta-Engineers-to-Outokumpu&apos;s-High-Nickel-Alloy-Program/1431484133/",
-   "posted": "2026-08-28",
-   "source": "Indeed",
-   "fit": 79,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Entry-level friendly",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bf1867a6e009",
-   "firstSeen": "2026-08-28"
-  },
-  {
-   "t": "Engineers to Outokumpu's High Nickel Alloy Program",
    "co": "Outokumpu Careers",
    "loc": "Avesta, SE",
    "country": "SE",
@@ -762,6 +819,44 @@
    "offtype": false,
    "french": false,
    "id": "9f57d4ea77bf",
+   "firstSeen": "2026-08-28"
+  },
+  {
+   "t": "Engineers to Outokumpu's High Nickel Alloy Program",
+   "co": "Outokumpu",
+   "loc": "Avesta",
+   "country": "SE",
+   "url": "https://careers.outokumpu.com/job/Avesta-Engineers-to-Outokumpu&apos;s-High-Nickel-Alloy-Program/1431484133/",
+   "posted": "2026-08-28",
+   "source": "Indeed",
+   "fit": 79,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bf1867a6e009",
    "firstSeen": "2026-08-28"
   },
   {
@@ -1269,6 +1364,44 @@
    "firstSeen": "2026-09-04"
   },
   {
+   "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
+   "co": "Aesculap Inc.",
+   "loc": "Tuttlingen",
+   "country": "DE",
+   "url": "https://jobs.bbraun.com/job/Qualit%C3%A4tsingenieur-%28wmd%29-Technik-und-Verfahren/13970-en_US",
+   "posted": "2026-09-09",
+   "source": "Indeed",
+   "fit": 54,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "14e6c76ed928",
+   "firstSeen": "2026-09-12"
+  },
+  {
    "t": "Low-Code AI Solution Engineer (m/w/d)",
    "co": "Salzgitter Konzern",
    "loc": "Dortmund, Germany",
@@ -1715,6 +1848,40 @@
    "french": false,
    "id": "d25ceeccdea0",
    "firstSeen": "2026-08-21"
+  },
+  {
+   "t": "Betriebsingenieur und VEFK (m/w/d)",
+   "co": "HME Brass Germany GmbH",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/67373370/0/0/Betriebsingenieur+und+VEFK+%28m-w-d%29.html",
+   "posted": "2026-09-11",
+   "source": "Indeed",
+   "fit": 16,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a83ed7d19477",
+   "firstSeen": "2026-09-12"
   }
  ]
 }
