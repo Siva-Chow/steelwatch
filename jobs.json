@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-12 10:10 UTC",
- "count": 53,
+ "generated": "2026-09-13 11:09 UTC",
+ "count": 51,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (39)",
@@ -372,46 +372,6 @@
    "firstSeen": "2026-08-01"
   },
   {
-   "t": "Prozessingenieur:in Qualitätslenkung",
-   "co": "voestalpine",
-   "loc": "Linz",
-   "country": "AT",
-   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21301",
-   "posted": "2026-07-29",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "d8d761af38ca",
-   "firstSeen": "2026-07-29"
-  },
-  {
    "t": "Precast Refractory Professional",
    "co": "RHI Magnesita",
    "loc": "US",
@@ -448,6 +408,44 @@
    "french": false,
    "id": "f063108d491a",
    "firstSeen": "2026-08-18"
+  },
+  {
+   "t": "Werkstoffprüfer/in (m/w/d)",
+   "co": "Outokumpu Careers",
+   "loc": "Krefeld, DE",
+   "country": "DE",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1416238133/?locale=en_US",
+   "posted": "2026-09-13",
+   "source": "Career page",
+   "fit": 95,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e625e2b904ed",
+   "firstSeen": "2026-09-13"
   },
   {
    "t": "Qualitätsingenieur:in",
@@ -710,44 +708,6 @@
    "french": false,
    "id": "8ec9b89f6127",
    "firstSeen": "2026-08-27"
-  },
-  {
-   "t": "QA/QC Engineer",
-   "co": "Gemkom Engineering and Machinery Filial",
-   "loc": "Boden",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31299616",
-   "posted": "2026-07-28",
-   "source": "Indeed",
-   "fit": 90,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6b3dc004739b",
-   "firstSeen": "2026-07-29"
   },
   {
    "t": "Ingenieur Elektrotechnik (m/w/d)",
@@ -1278,46 +1238,6 @@
    "french": false,
    "id": "a2a95b6caf8f",
    "firstSeen": "2026-08-21"
-  },
-  {
-   "t": "QualitätsingenieurIn (m/w/d)*",
-   "co": "SCHOTT",
-   "loc": "Mainz",
-   "country": "DE",
-   "url": "https://join.schott.com/job-invite/88801/?utm_source=Indeed&locale=de_DE",
-   "posted": "2026-07-28",
-   "source": "Indeed",
-   "fit": 60,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "826a0b552210",
-   "firstSeen": "2026-07-29"
   },
   {
    "t": "Research Engineer (m/f/d) - Oberhausen",
