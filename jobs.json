@@ -1,14 +1,14 @@
 {
- "generated": "2026-09-14 11:55 UTC",
- "count": 51,
+ "generated": "2026-09-15 11:10 UTC",
+ "count": 53,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (44)",
+  "SuccessFactors": "error: 502 Server Error: Bad Gateway for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (96)"
+  "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
   {
@@ -676,6 +676,44 @@
    "firstSeen": "2026-08-04"
   },
   {
+   "t": "Qualitätsingenieur Entwicklung (m/w/d)",
+   "co": "Liebherr Group",
+   "loc": "Kirchdorf an der Iller",
+   "country": "DE",
+   "url": "https://careers.liebherr.com/job/Kirchdorf-an-der-Iller-Qualit%C3%A4tsingenieur-Entwicklung-%28mwd%29/1436609433/?feedId=335501",
+   "posted": "2026-09-14",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "5111d1cc50b9",
+   "firstSeen": "2026-09-15"
+  },
+  {
    "t": "Bachelor- / Semesterarbeit: Entwicklung eines Prüfadapters für Rundzellen",
    "co": "",
    "loc": "Augsburg",
@@ -1240,26 +1278,26 @@
    "firstSeen": "2026-08-21"
   },
   {
-   "t": "Research Engineer (m/f/d) - Oberhausen",
-   "co": "Calderys (Imerys)",
-   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4470",
-   "posted": "2026-08-21",
+   "t": "Eltekniker metallurgin",
+   "co": "SSAB",
+   "loc": "Oxelösund, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2851",
+   "posted": "2026-09-14",
    "source": "Career page",
    "fit": 58,
    "tags": [
     [
-     "R&D / development",
+     "Metallurgy",
      1
     ]
    ],
-   "cat": "R&D",
+   "cat": "Process",
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "bca242f6b84d",
-   "firstSeen": "2026-08-22"
+   "id": "ec7accf51dd8",
+   "firstSeen": "2026-09-15"
   },
   {
    "t": "Research Engineer - Germany (m/f/d)",
@@ -1282,6 +1320,28 @@
    "french": false,
    "id": "074d1180ae01",
    "firstSeen": "2026-09-04"
+  },
+  {
+   "t": "Research Engineer (m/f/d) - Oberhausen",
+   "co": "Calderys (Imerys)",
+   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
+   "country": "DE",
+   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4470",
+   "posted": "2026-08-21",
+   "source": "Career page",
+   "fit": 58,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ]
+   ],
+   "cat": "R&D",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "bca242f6b84d",
+   "firstSeen": "2026-08-22"
   },
   {
    "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
