@@ -1,14 +1,14 @@
 {
- "generated": "2026-09-17 11:03 UTC",
- "count": 54,
+ "generated": "2026-09-18 10:38 UTC",
+ "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (46)",
+  "Indeed": "ok (47)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (99)"
+  "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
   {
@@ -48,6 +48,158 @@
    "french": false,
    "id": "de86d6d4686b",
    "firstSeen": "2026-09-12"
+  },
+  {
+   "t": "Computational Materials Scientist / Computational Chemist",
+   "co": "GREEN 14 AB",
+   "loc": "Stockholm",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31491357",
+   "posted": "2026-09-17",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "5d0ce8b176c1",
+   "firstSeen": "2026-09-18"
+  },
+  {
+   "t": "Simulation Product Engineer",
+   "co": "GREEN 14 AB",
+   "loc": "Stockholm",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31491340",
+   "posted": "2026-09-17",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "50216e11085b",
+   "firstSeen": "2026-09-18"
+  },
+  {
+   "t": "Simulation Product Engineer",
+   "co": "Green14",
+   "loc": "Stockholm",
+   "country": "SE",
+   "url": "https://green14.teamtailor.com/jobs/8398106-simulation-product-engineer",
+   "posted": "2026-09-17",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "550c7a0f4ce8",
+   "firstSeen": "2026-09-18"
+  },
+  {
+   "t": "Computational Materials Scientist / Computational Chemist",
+   "co": "Green14",
+   "loc": "Stockholm",
+   "country": "SE",
+   "url": "https://green14.teamtailor.com/jobs/8358140-computational-materials-scientist-computational-chemist",
+   "posted": "2026-09-10",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "0673221b770b",
+   "firstSeen": "2026-09-18"
   },
   {
    "t": "Prozessingenieur Recycling (m/w/d) - Elternzeitvertretung",
@@ -1612,28 +1764,6 @@
    "french": false,
    "id": "9bd829031313",
    "firstSeen": "2026-08-27"
-  },
-  {
-   "t": "Underhållsingenjör",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2195",
-   "posted": "2026-08-03",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "cdcca2f0148b",
-   "firstSeen": "2026-08-03"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
