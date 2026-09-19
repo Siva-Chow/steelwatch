@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-18 10:38 UTC",
+ "generated": "2026-09-19 10:23 UTC",
  "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
+  "Indeed": "ok (50)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -748,82 +748,6 @@
    "firstSeen": "2026-08-28"
   },
   {
-   "t": "Materials Engineer - Werkstoffingenieur (m/f/d)",
-   "co": "Rolls-Royce",
-   "loc": "Dahlewitz",
-   "country": "DE",
-   "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Dahlewitz/Materials-Engineer---Werkstoffingenieur--m-f-d-_JR6154952-1",
-   "posted": "2026-08-04",
-   "source": "Indeed",
-   "fit": 92,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "600019704141",
-   "firstSeen": "2026-08-04"
-  },
-  {
-   "t": "Junior Research Associate - Maternity Cover (all genders)",
-   "co": "RHI Magnesita",
-   "loc": "Leoben, AT, 8700",
-   "country": "AT",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1368519357/?locale=en_US",
-   "posted": "2026-08-04",
-   "source": "Career page",
-   "fit": 92,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "5f1e9f9f5b2e",
-   "firstSeen": "2026-08-04"
-  },
-  {
    "t": "Qualitätsingenieur Entwicklung (m/w/d)",
    "co": "Liebherr Group",
    "loc": "Kirchdorf an der Iller",
@@ -928,6 +852,44 @@
    "french": false,
    "id": "d035b99efe24",
    "firstSeen": "2026-08-05"
+  },
+  {
+   "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
+   "co": "ASML Deutschland",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer-technical-incoming-inspection--qualitatsingenieurin-technischer-wareneingang-j00352101",
+   "posted": "2026-09-18",
+   "source": "Indeed",
+   "fit": 81,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "200b775ddb8d",
+   "firstSeen": "2026-09-19"
   },
   {
    "t": "Engineers to Outokumpu's High Nickel Alloy Program",
@@ -1424,6 +1386,44 @@
    "french": false,
    "id": "aebc76b9f148",
    "firstSeen": "2026-08-08"
+  },
+  {
+   "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
+   "co": "ASML",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer-technical-incoming-inspection--qualitatsingenieurin-technischer-wareneingang-j00352101",
+   "posted": "2026-09-18",
+   "source": "Indeed",
+   "fit": 60,
+   "tags": [
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "0e15669a7595",
+   "firstSeen": "2026-09-19"
   },
   {
    "t": "Qualitätsingenieur Produkt- und Prozessqualifizierung (m/w/d)",
