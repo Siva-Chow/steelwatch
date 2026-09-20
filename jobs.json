@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-19 10:23 UTC",
- "count": 57,
+ "generated": "2026-09-20 10:42 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (50)",
@@ -818,40 +818,6 @@
    "french": false,
    "id": "8ec9b89f6127",
    "firstSeen": "2026-08-27"
-  },
-  {
-   "t": "Ingenieur Elektrotechnik (m/w/d)",
-   "co": "",
-   "loc": "Leer",
-   "country": "DE",
-   "url": "https://www.leda.de/fileadmin/user_upload/Stellenanzeige_Ingenieur_Elektrotechnik_0526_.pdf",
-   "posted": "2026-08-05",
-   "source": "Indeed",
-   "fit": 83,
-   "tags": [
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "d035b99efe24",
-   "firstSeen": "2026-08-05"
   },
   {
    "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
@@ -1924,36 +1890,6 @@
    "french": false,
    "id": "56e3a6588a39",
    "firstSeen": "2026-08-12"
-  },
-  {
-   "t": "Qualitätsingenieur*in (m/w/d)",
-   "co": "OHB",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8390?c=career-ohb",
-   "posted": "2026-08-04",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "2fae0bb9e4c9",
-   "firstSeen": "2026-08-05"
   },
   {
    "t": "Instandhalter in der Gießerei (m/w/d) - elektrisch",
