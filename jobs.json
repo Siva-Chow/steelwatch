@@ -1,16 +1,54 @@
 {
- "generated": "2026-09-20 10:42 UTC",
- "count": 55,
+ "generated": "2026-09-21 12:06 UTC",
+ "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (50)",
+  "Indeed": "ok (51)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (2)",
+  "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
+   "co": "Salzgitter AG",
+   "loc": "Salzgitter",
+   "country": "DE",
+   "url": "https://www.salzgitter-ag.com/de/jobs-karriere/stellenangebote/details/data-scientist-ingenieur-naturwissenschaftler-wmd-5979.html",
+   "posted": "2026-09-21",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "2b50d959379c",
+   "firstSeen": "2026-09-21"
+  },
   {
    "t": "Projektingenieur (m/w/d) Verfahrenstechnik",
    "co": "WIEGEL Gruppe",
@@ -238,6 +276,44 @@
    "french": false,
    "id": "e4aaddd76162",
    "firstSeen": "2026-09-12"
+  },
+  {
+   "t": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Salzgitter, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Salzgitter-Data-Scientist-Ingenieur-Naturwissenschaftler-%28wmd%29-NI/1439288933/",
+   "posted": "2026-09-21",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "10ebd526f73f",
+   "firstSeen": "2026-09-21"
   },
   {
    "t": "Process Solutions Design Engineer",
@@ -1532,40 +1608,6 @@
    "french": false,
    "id": "14e6c76ed928",
    "firstSeen": "2026-09-12"
-  },
-  {
-   "t": "Low-Code AI Solution Engineer (m/w/d)",
-   "co": "Salzgitter Konzern",
-   "loc": "Dortmund, Germany",
-   "country": "",
-   "url": "https://jobs.salzgitter-ag.com/intern/job/Dortmund-Low-Code-AI-Solution-Engineer-%28mwd%29-NW/1423810533/",
-   "posted": "2026-08-06",
-   "source": "Career page",
-   "fit": 54,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "66ea14b013b2",
-   "firstSeen": "2026-08-06"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
