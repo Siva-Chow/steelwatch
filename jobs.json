@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-21 12:06 UTC",
+ "generated": "2026-09-22 11:01 UTC",
  "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (51)",
+  "Indeed": "ok (53)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (3)",
+  "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
@@ -560,40 +560,6 @@
    "french": false,
    "id": "3e071bbce254",
    "firstSeen": "2026-08-12"
-  },
-  {
-   "t": "Prozessingenieur Refining & Hydrometallurgie (m/w/d)",
-   "co": "JPM Silicon GmbH",
-   "loc": "Braunschweig",
-   "country": "DE",
-   "url": "https://t.gohiring.com/h/59c0c2b21b453af53ef26d531cb94c25d7f0baacaf4b5fb7364a92a05fda1fa7?source=Indeed",
-   "posted": "2026-08-06",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "5d08ccfc6a92",
-   "firstSeen": "2026-08-07"
   },
   {
    "t": "Precast Refractory Professional",
@@ -1646,6 +1612,28 @@
    "french": false,
    "id": "08bca65638a4",
    "firstSeen": "2026-08-20"
+  },
+  {
+   "t": "Processingenjör Koksverk - Vikariat",
+   "co": "SSAB",
+   "loc": "Luleå, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2633",
+   "posted": "2026-09-21",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Process",
+     1
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a3cc57270b48",
+   "firstSeen": "2026-09-22"
   },
   {
    "t": "Underhållsingenjör/Underhållsutvecklare",
