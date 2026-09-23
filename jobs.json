@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-22 11:01 UTC",
+ "generated": "2026-09-23 10:50 UTC",
  "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (53)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (52)",
+  "SuccessFactors": "error: 502 Server Error: Bad Gateway for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
@@ -240,44 +240,6 @@
    "firstSeen": "2026-09-18"
   },
   {
-   "t": "Prozessingenieur Recycling (m/w/d) - Elternzeitvertretung",
-   "co": "Novelis",
-   "loc": "Seeland",
-   "country": "DE",
-   "url": "https://de-careers-novelis.icims.com/jobs/52997/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "posted": "2026-09-08",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e4aaddd76162",
-   "firstSeen": "2026-09-12"
-  },
-  {
    "t": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
    "co": "Salzgitter Konzern",
    "loc": "Salzgitter, Germany",
@@ -314,6 +276,44 @@
    "french": false,
    "id": "10ebd526f73f",
    "firstSeen": "2026-09-21"
+  },
+  {
+   "t": "Prozessingenieur Recycling (m/w/d) - Elternzeitvertretung",
+   "co": "Novelis",
+   "loc": "Seeland",
+   "country": "DE",
+   "url": "https://de-careers-novelis.icims.com/jobs/52997/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+   "posted": "2026-09-08",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e4aaddd76162",
+   "firstSeen": "2026-09-12"
   },
   {
    "t": "Process Solutions Design Engineer",
@@ -1130,6 +1130,46 @@
    "firstSeen": "2026-08-18"
   },
   {
+   "t": "Environmental Engineer",
+   "co": "Stegra",
+   "loc": "Boden, Germany",
+   "country": "",
+   "url": "https://career.stegra.com/jobs/7986134-environmental-engineer",
+   "posted": "2026-06-29",
+   "source": "Career page",
+   "fit": 74,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "3699982f37ce",
+   "firstSeen": "2026-09-23"
+  },
+  {
    "t": "Apprenti(e) ingénieur(e) production soudage",
    "co": "Emerson",
    "loc": "Cernay",
@@ -1356,44 +1396,6 @@
    "french": false,
    "id": "938347ded49e",
    "firstSeen": "2026-08-14"
-  },
-  {
-   "t": "Qualitätsingenieur Eigenfertigung (w/m/d)",
-   "co": "ANDREAS STIHL AG & Co. KG",
-   "loc": "Waiblingen",
-   "country": "DE",
-   "url": "https://corporate.stihl.de/de/karriere/stellenangebote/job-details/qualitaetsingenieur-eigenfertigung-w-m-d-sf57016",
-   "posted": "2026-08-07",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "aebc76b9f148",
-   "firstSeen": "2026-08-08"
   },
   {
    "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
