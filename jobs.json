@@ -1,16 +1,54 @@
 {
- "generated": "2026-09-25 11:15 UTC",
- "count": 59,
+ "generated": "2026-09-26 10:52 UTC",
+ "count": 63,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (51)",
+  "Indeed": "ok (53)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (4)",
-  "thyssenkrupp Steel Europe": "ok (11)",
+  "Company feeds": "ok (7)",
+  "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (99)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur (m/w/d) Produktentwicklung",
+   "co": "ArcelorMittal",
+   "loc": "Bremen, Germany",
+   "country": "",
+   "url": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40621",
+   "posted": "2026-09-25",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "0f6e555f4862",
+   "firstSeen": "2026-09-26"
+  },
   {
    "t": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
    "co": "Salzgitter AG",
@@ -676,6 +714,44 @@
    "firstSeen": "2026-08-12"
   },
   {
+   "t": "Mechanical Works Site Engineer",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31523159",
+   "posted": "2026-09-25",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "15273464bf79",
+   "firstSeen": "2026-09-26"
+  },
+  {
    "t": "Automation Engineer - PLC & UX, Process Automation (all genders)",
    "co": "RHI Magnesita",
    "loc": "Hünenberg, CH, 6331",
@@ -945,7 +1021,7 @@
    "loc": "Avesta, SE",
    "country": "SE",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1431484133/?locale=en_US",
-   "posted": "2026-08-28",
+   "posted": "2026-09-26",
    "source": "Career page",
    "fit": 79,
    "tags": [
@@ -1438,6 +1514,44 @@
    "firstSeen": "2026-08-25"
   },
   {
+   "t": "AI Platform Engineer (m/w/d) Azure & GenAI",
+   "co": "Salzgitter Konzern",
+   "loc": "Dortmund, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-AI-Platform-Engineer-%28mwd%29-Azure-&-GenAI-NW/1441420033/",
+   "posted": "2026-09-25",
+   "source": "Career page",
+   "fit": 64,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Data & programming",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "c02a9a7a807f",
+   "firstSeen": "2026-09-26"
+  },
+  {
    "t": "Qualitätsingenieur (m/w/d) Teamleitung Reklamationen und Prüfplanung",
    "co": "Gutehoffnungshütte Radsatz GmbH",
    "loc": "Deutschland",
@@ -1862,6 +1976,46 @@
    "french": false,
    "id": "9bd829031313",
    "firstSeen": "2026-08-27"
+  },
+  {
+   "t": "Projektingenieur (m/w/d) für Antriebstechnik",
+   "co": "Menzel Elektromotoren GmbH",
+   "loc": "Hennigsdorf",
+   "country": "DE",
+   "url": "https://www.menzel-motors.com/de/stellenangebot-vertriebsingenieur-antriebstechnik-berlin/",
+   "posted": "2026-09-25",
+   "source": "Indeed",
+   "fit": 47,
+   "tags": [
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "9bfd657c50e0",
+   "firstSeen": "2026-09-26"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
