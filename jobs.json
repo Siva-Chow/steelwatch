@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-26 10:52 UTC",
- "count": 63,
+ "generated": "2026-09-27 11:29 UTC",
+ "count": 59,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (53)",
+  "Indeed": "ok (52)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (7)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -566,40 +566,6 @@
    "firstSeen": "2026-08-14"
   },
   {
-   "t": "FM Approvals Engineer",
-   "co": "FM",
-   "loc": "Dippach",
-   "country": "LU",
-   "url": "https://careers.fm.com/careers-home/jobs/1972",
-   "posted": "2026-08-10",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3e071bbce254",
-   "firstSeen": "2026-08-12"
-  },
-  {
    "t": "Precast Refractory Professional",
    "co": "RHI Magnesita",
    "loc": "US",
@@ -638,6 +604,44 @@
    "firstSeen": "2026-08-18"
   },
   {
+   "t": "Research Engineer - Isostatic Products",
+   "co": "RHI Magnesita",
+   "loc": "",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1373145257/?locale=en_US",
+   "posted": "2026-09-24",
+   "source": "Career page",
+   "fit": 95,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "c38ce4fd169e",
+   "firstSeen": "2026-09-27"
+  },
+  {
    "t": "Werkstoffprüfer/in (m/w/d)",
    "co": "Outokumpu Careers",
    "loc": "Krefeld, DE",
@@ -674,44 +678,6 @@
    "french": false,
    "id": "e625e2b904ed",
    "firstSeen": "2026-09-13"
-  },
-  {
-   "t": "Qualitätsingenieur:in",
-   "co": "voestalpine",
-   "loc": "Linz",
-   "country": "AT",
-   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21370",
-   "posted": "2026-08-10",
-   "source": "Indeed",
-   "fit": 94,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "62c9ea1ff8e6",
-   "firstSeen": "2026-08-12"
   },
   {
    "t": "Mechanical Works Site Engineer",
@@ -1322,44 +1288,6 @@
    "french": false,
    "id": "3699982f37ce",
    "firstSeen": "2026-09-23"
-  },
-  {
-   "t": "Apprenti(e) ingénieur(e) production soudage",
-   "co": "Emerson",
-   "loc": "Cernay",
-   "country": "FR",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26008982?utm_medium=jobboard&utm_source=indeed",
-   "posted": "2026-08-11",
-   "source": "Indeed",
-   "fit": 73,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": true,
-   "french": false,
-   "id": "ad4d1c1d4a06",
-   "firstSeen": "2026-08-12"
   },
   {
    "t": "Mechanical Plant Design Engineer",
@@ -2096,86 +2024,6 @@
    "french": false,
    "id": "7d448137cc5c",
    "firstSeen": "2026-08-14"
-  },
-  {
-   "t": "Electrical Design Engineer",
-   "co": "Hitachi Energy",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131647",
-   "posted": "2026-08-11",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "b32a22e2ad6f",
-   "firstSeen": "2026-08-12"
-  },
-  {
-   "t": "Electrical Design Engineer",
-   "co": "Hitachi Rail",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Electrical-Design-Engineer_R0131645",
-   "posted": "2026-08-11",
-   "source": "Indeed",
-   "fit": 44,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for Swedish"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "56e3a6588a39",
-   "firstSeen": "2026-08-12"
   },
   {
    "t": "Instandhalter in der Gießerei (m/w/d) - elektrisch",
