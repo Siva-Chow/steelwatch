@@ -1,14 +1,14 @@
 {
- "generated": "2026-09-27 11:29 UTC",
- "count": 59,
+ "generated": "2026-09-28 13:01 UTC",
+ "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (52)",
+  "Indeed": "ok (50)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (7)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (99)"
+  "Calderys (Imerys)": "ok (97)"
  },
  "jobs": [
   {
@@ -1944,6 +1944,44 @@
    "french": false,
    "id": "9bfd657c50e0",
    "firstSeen": "2026-09-26"
+  },
+  {
+   "t": "PMO SPS Process & Digitalization (m/w/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Dortmund, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/intern/job/Dortmund-PMO-SPS-Process-&-Digitalization-%28mwd%29-NW/1441773833/",
+   "posted": "2026-09-28",
+   "source": "Career page",
+   "fit": 47,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "5940bb44dcfb",
+   "firstSeen": "2026-09-28"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
