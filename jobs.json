@@ -1,14 +1,14 @@
 {
- "generated": "2026-09-29 12:12 UTC",
- "count": 57,
+ "generated": "2026-09-30 11:59 UTC",
+ "count": 58,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (52)",
+  "Indeed": "ok (51)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (96)"
+  "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
   {
@@ -910,6 +910,44 @@
    "firstSeen": "2026-08-27"
   },
   {
+   "t": "Ingenieur Erhaltung E-Technik / Automatisierungstechnik E-Stahlwerk (w/m/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Peine, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Peine-Ingenieur-Erhaltung-E-Technik-Automatisierungstechnik-E-Stahlwerk-%28wmd%29-NI/1442635333/",
+   "posted": "2026-09-30",
+   "source": "Career page",
+   "fit": 86,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "17eb8c3c5995",
+   "firstSeen": "2026-09-30"
+  },
+  {
    "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
    "co": "ASML Deutschland",
    "loc": "Berlin",
@@ -1022,6 +1060,44 @@
    "french": false,
    "id": "bf1867a6e009",
    "firstSeen": "2026-08-28"
+  },
+  {
+   "t": "Mechanical Design Engineer - Industrial Systems",
+   "co": "RHI Magnesita",
+   "loc": "US",
+   "country": "",
+   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1373366457/?locale=en_US",
+   "posted": "2026-09-28",
+   "source": "Career page",
+   "fit": 78,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "14ec3905e09f",
+   "firstSeen": "2026-09-30"
   },
   {
    "t": "Junior Quality Control Tech",
@@ -1748,28 +1824,6 @@
    "french": false,
    "id": "29236597f095",
    "firstSeen": "2026-08-25"
-  },
-  {
-   "t": "Energiingenjör",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2332",
-   "posted": "2026-08-14",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6a4ca4354987",
-   "firstSeen": "2026-08-15"
   },
   {
    "t": "Processingenjör Ruukki Borlänge",
