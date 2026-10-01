@@ -1,16 +1,84 @@
 {
- "generated": "2026-09-30 11:59 UTC",
- "count": 58,
+ "generated": "2026-10-01 12:31 UTC",
+ "count": 60,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (51)",
+  "Indeed": "ok (55)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (5)",
+  "Company feeds": "ok (7)",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
+  {
+   "t": "Junior Prozessingenieur (m/w/d) Metall",
+   "co": "EOS of North America Inc.",
+   "loc": "Krailling",
+   "country": "DE",
+   "url": "https://eosgroup.wd3.myworkdayjobs.com/en-US/eos/job/Krailling/Junior-Prozessingenieur--m-w-d--Metall_JR102382",
+   "posted": "2026-09-30",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "79ace8de21d3",
+   "firstSeen": "2026-10-01"
+  },
+  {
+   "t": "Junior Prozessingenieur (m/w/d) Metall",
+   "co": "EOS GmbH",
+   "loc": "Krailling",
+   "country": "DE",
+   "url": "https://eosgroup.wd3.myworkdayjobs.com/de-DE/eos/job/Krailling/Junior-Prozessingenieur--m-w-d--Metall_JR102382",
+   "posted": "2026-09-30",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "532d825f71cb",
+   "firstSeen": "2026-10-01"
+  },
   {
    "t": "Ingenieur (m/w/d) Produktentwicklung",
    "co": "ArcelorMittal",
@@ -689,7 +757,7 @@
    "loc": "Hünenberg, CH, 6331",
    "country": "CH",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1371093857/?locale=en_US",
-   "posted": "2026-09-02",
+   "posted": "2026-10-01",
    "source": "Career page",
    "fit": 93,
    "tags": [
