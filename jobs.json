@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-01 12:31 UTC",
- "count": 60,
+ "generated": "2026-10-02 11:57 UTC",
+ "count": 59,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (55)",
+  "Indeed": "ok (52)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (7)",
   "thyssenkrupp Steel Europe": "ok (10)",
@@ -1892,28 +1892,6 @@
    "french": false,
    "id": "29236597f095",
    "firstSeen": "2026-08-25"
-  },
-  {
-   "t": "Processingenjör Ruukki Borlänge",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2104",
-   "posted": "2026-08-17",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Process",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "932d6239b59e",
-   "firstSeen": "2026-08-17"
   },
   {
    "t": "Gusskontrolleur Gießerei (m/w/d)",
