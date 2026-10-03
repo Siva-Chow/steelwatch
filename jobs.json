@@ -1,11 +1,30 @@
 {
- "generated": "2026-10-02 11:57 UTC",
- "count": 59,
+ "generated": "2026-10-03 11:10 UTC",
+ "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (52)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (7)",
+  "Indeed": [
+   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
+   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
+  ],
+  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
+  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (95)"
@@ -598,44 +617,6 @@
    "french": false,
    "id": "1e4206a51036",
    "firstSeen": "2026-08-26"
-  },
-  {
-   "t": "Precast Refractory Professional",
-   "co": "RHI Magnesita",
-   "loc": "US",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1369672257/?locale=en_US",
-   "posted": "2026-08-17",
-   "source": "Career page",
-   "fit": 97,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "f063108d491a",
-   "firstSeen": "2026-08-18"
   },
   {
    "t": "Research Engineer - Isostatic Products",
@@ -1280,44 +1261,6 @@
    "french": false,
    "id": "d5d375676796",
    "firstSeen": "2026-09-04"
-  },
-  {
-   "t": "Wissenschaftliche/r Mitarbeiter/in (w/m/d) - Promotion im Bereich Gleitlagerwerkstoffe",
-   "co": "RWTH Aachen University",
-   "loc": "Aachen",
-   "country": "DE",
-   "url": "https://karriere.nrw/stellenausschreibung/23688e60-89f1-44d6-814d-48ed2f24671c",
-   "posted": "2026-08-17",
-   "source": "Indeed",
-   "fit": 75,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "657383c19e27",
-   "firstSeen": "2026-08-18"
   },
   {
    "t": "Environmental Engineer",
