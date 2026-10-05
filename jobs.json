@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04 11:50 UTC",
- "count": 57,
+ "generated": "2026-10-05 13:43 UTC",
+ "count": 56,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -27,7 +27,7 @@
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (10)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (94)"
+  "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
   {
@@ -1709,44 +1709,6 @@
    "french": false,
    "id": "14e6c76ed928",
    "firstSeen": "2026-09-12"
-  },
-  {
-   "t": "Qualitätsingenieur (m/w/d)",
-   "co": "Grohe AG",
-   "loc": "Lahr",
-   "country": "DE",
-   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/66845685/0/0/Qualit%C3%A4tsingenieur+%28m-w-d%29.html",
-   "posted": "2026-08-19",
-   "source": "Indeed",
-   "fit": 51,
-   "tags": [
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "08bca65638a4",
-   "firstSeen": "2026-08-20"
   },
   {
    "t": "Underhållsingenjör",
