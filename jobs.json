@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06 12:49 UTC",
- "count": 55,
+ "generated": "2026-10-07 12:43 UTC",
+ "count": 54,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -27,7 +27,7 @@
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (11)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (94)"
+  "Calderys (Imerys)": "ok (92)"
  },
  "jobs": [
   {
@@ -1498,7 +1498,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-10-06",
+   "posted": "2026-10-07",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1633,28 +1633,6 @@
    "french": false,
    "id": "074d1180ae01",
    "firstSeen": "2026-09-04"
-  },
-  {
-   "t": "Research Engineer (m/f/d) - Oberhausen",
-   "co": "Calderys (Imerys)",
-   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4470",
-   "posted": "2026-08-21",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "bca242f6b84d",
-   "firstSeen": "2026-08-22"
   },
   {
    "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
