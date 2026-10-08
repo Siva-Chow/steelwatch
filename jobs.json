@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07 12:43 UTC",
+ "generated": "2026-10-08 12:53 UTC",
  "count": 54,
  "status": {
   "Seed": "ok (16)",
@@ -1498,7 +1498,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-10-07",
+   "posted": "2026-10-06",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1673,28 +1673,6 @@
    "firstSeen": "2026-09-12"
   },
   {
-   "t": "Underhållsingenjör",
-   "co": "SSAB",
-   "loc": "Borlänge, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1683",
-   "posted": "2026-09-25",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3cfaa43ec48a",
-   "firstSeen": "2026-09-25"
-  },
-  {
    "t": "Processingenjör Koksverk - Vikariat",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -1715,6 +1693,28 @@
    "french": false,
    "id": "a3cc57270b48",
    "firstSeen": "2026-09-22"
+  },
+  {
+   "t": "Underhållsingenjör",
+   "co": "SSAB",
+   "loc": "Borlänge, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1683",
+   "posted": "2026-09-25",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3cfaa43ec48a",
+   "firstSeen": "2026-09-25"
   },
   {
    "t": "Underhållsingenjör/Underhållsutvecklare",
