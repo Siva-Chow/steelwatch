@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-09 12:38 UTC",
- "count": 54,
+ "generated": "2026-10-10 11:58 UTC",
+ "count": 52,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -1455,44 +1455,6 @@
    "firstSeen": "2026-09-16"
   },
   {
-   "t": "Mechanical Engineer",
-   "co": "Safety Bolt",
-   "loc": "Stockholm",
-   "country": "SE",
-   "url": "https://career.safety-bolt.com/jobs/8245241-mechanical-engineer",
-   "posted": "2026-08-20",
-   "source": "Indeed",
-   "fit": 65,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "417a26910bea",
-   "firstSeen": "2026-08-25"
-  },
-  {
    "t": "Ingenieur:in Elektrische Instandhaltung Infrastruktur und Krananlagen (m/w/d)",
    "co": "thyssenkrupp Steel Europe",
    "loc": "Hamborn",
@@ -1737,28 +1699,6 @@
    "french": false,
    "id": "85d89c48913f",
    "firstSeen": "2026-08-26"
-  },
-  {
-   "t": "Eltekniker/Elingenjör Koksverk",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/1890",
-   "posted": "2026-08-24",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "29236597f095",
-   "firstSeen": "2026-08-25"
   },
   {
    "t": "Gusskontrolleur Gießerei (m/w/d)",
