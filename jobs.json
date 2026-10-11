@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-10 11:58 UTC",
- "count": 52,
+ "generated": "2026-10-11 12:10 UTC",
+ "count": 50,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -579,44 +579,6 @@
    "french": false,
    "id": "03960f545b5b",
    "firstSeen": "2026-09-04"
-  },
-  {
-   "t": "Research Associate (all genders)",
-   "co": "RHI Magnesita",
-   "loc": "Leoben, AT, 8700",
-   "country": "AT",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1370364257/?locale=en_US",
-   "posted": "2026-08-25",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "1e4206a51036",
-   "firstSeen": "2026-08-26"
   },
   {
    "t": "Research Engineer - Isostatic Products",
@@ -1677,28 +1639,6 @@
    "french": false,
    "id": "3cfaa43ec48a",
    "firstSeen": "2026-09-25"
-  },
-  {
-   "t": "Underhållsingenjör/Underhållsutvecklare",
-   "co": "SSAB",
-   "loc": "Oxelösund, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2233",
-   "posted": "2026-08-25",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "85d89c48913f",
-   "firstSeen": "2026-08-26"
   },
   {
    "t": "Gusskontrolleur Gießerei (m/w/d)",
