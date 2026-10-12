@@ -1,35 +1,56 @@
 {
- "generated": "2026-10-11 12:10 UTC",
- "count": 50,
+ "generated": "2026-10-12 14:32 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
-  ],
-  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
-  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
+  "Indeed": "ok (43)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (91)"
+  "Calderys (Imerys)": "ok (90)"
  },
  "jobs": [
+  {
+   "t": "Industrial Digitalization Engineer  (m/f/*)",
+   "co": "Primetals Technologies",
+   "loc": "Linz, Austria",
+   "country": "",
+   "url": "https://careers.primetals.com/global/en/job/8301/Industrial-Digitalization-Engineer-m-f",
+   "posted": "2026-10-05",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "cb4eae3beca8",
+   "firstSeen": "2026-10-12"
+  },
   {
    "t": "Junior Prozessingenieur (m/w/d) Metall",
    "co": "EOS of North America Inc.",
@@ -509,44 +530,6 @@
    "firstSeen": "2026-09-02"
   },
   {
-   "t": "Ingenieur Werkstoff- und Materialentwicklung (m/w/d)",
-   "co": "Welp Group",
-   "loc": "Wilkau-Haßlau",
-   "country": "DE",
-   "url": "https://www.welp-group.com/de/karriere/stellenanzeigen/mitarbeiter-werkstoff-und-materialentwicklung-m/w/d",
-   "posted": "2026-08-27",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "76475c84bef9",
-   "firstSeen": "2026-08-27"
-  },
-  {
    "t": "Research Engineer – Laser Welding & Digital Engineering",
    "co": "ArcelorMittal",
    "loc": "Montataire, France",
@@ -849,6 +832,44 @@
    "firstSeen": "2026-09-25"
   },
   {
+   "t": "Fachreferent/-in für Metallurgie/ Rohstoffgewinnung/ Rezyklate (m/w/d)",
+   "co": "Berufsgenossenschaft Holz und Metall",
+   "loc": "Mainz",
+   "country": "DE",
+   "url": "https://www.bghm.de/karriereportal/stellenangebote/3869297-hzp",
+   "posted": "2026-10-12",
+   "source": "Indeed",
+   "fit": 90,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "b84ff71a116f",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "t": "Qualitätsingenieur Entwicklung (m/w/d)",
    "co": "Liebherr Group",
    "loc": "Kirchdorf an der Iller",
@@ -885,40 +906,6 @@
    "french": false,
    "id": "5111d1cc50b9",
    "firstSeen": "2026-09-15"
-  },
-  {
-   "t": "Bachelor- / Semesterarbeit: Entwicklung eines Prüfadapters für Rundzellen",
-   "co": "",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.fraunhofer.de/job/Augsburg-Bachelor-Semesterarbeit-Entwicklung-eines-Pr%C3%BCfadapters-f%C3%BCr-Rundzellen-86159/1430497433/",
-   "posted": "2026-08-26",
-   "source": "Indeed",
-   "fit": 90,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "8ec9b89f6127",
-   "firstSeen": "2026-08-27"
   },
   {
    "t": "Ingenieur Erhaltung E-Technik / Automatisierungstechnik E-Stahlwerk (w/m/d)",
@@ -1303,6 +1290,46 @@
    "firstSeen": "2026-09-29"
   },
   {
+   "t": "Labormitarbeiter:in im Bereich Werkstoffe, Korrosion und Dauerhaftigkeit (m/w/d)",
+   "co": "ETH Zurich",
+   "loc": "Zürich",
+   "country": "CH",
+   "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_xoycY0syftRiptDI1A",
+   "posted": "2026-10-01",
+   "source": "Indeed",
+   "fit": 72,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "SEM / EDX characterization",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "7f4e337f6203",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "t": "Mechanical Plant Design Engineer",
    "co": "Hitachi Energy",
    "loc": "Ludvika",
@@ -1379,6 +1406,44 @@
    "firstSeen": "2026-09-01"
   },
   {
+   "t": "Product Engineer",
+   "co": "Alleima",
+   "loc": "Stutensee, Germany",
+   "country": "",
+   "url": "https://alleima.wd3.myworkdayjobs.com/alleima-jobs/job/Stutensee/Product-Engineer_R0040733-1",
+   "posted": "2026-09-07",
+   "source": "Career page",
+   "fit": 69,
+   "tags": [
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3091f414a992",
+   "firstSeen": "2026-10-12"
+  },
+  {
    "t": "Safety Engineer (m/w/d)",
    "co": "Höganäs AB",
    "loc": "Laufenburg",
@@ -1415,6 +1480,40 @@
    "french": false,
    "id": "732c8402661b",
    "firstSeen": "2026-09-16"
+  },
+  {
+   "t": "L. Six Sigma Black Belt Engineer",
+   "co": "Outokumpu Careers",
+   "loc": "Calvert, AL, US",
+   "country": "AL",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1444439133/?locale=en_US",
+   "posted": "2026-10-05",
+   "source": "Career page",
+   "fit": 65,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "737ac331abc3",
+   "firstSeen": "2026-10-12"
   },
   {
    "t": "Ingenieur:in Elektrische Instandhaltung Infrastruktur und Krananlagen (m/w/d)",
@@ -1475,6 +1574,82 @@
    "french": false,
    "id": "c02a9a7a807f",
    "firstSeen": "2026-09-26"
+  },
+  {
+   "t": "Entwicklungsingenieur (m/w/d)",
+   "co": "Pankl",
+   "loc": "Neuhausen ob Eck",
+   "country": "DE",
+   "url": "https://www.shw.de/job-detail?id=2026-455",
+   "posted": "2026-10-08",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a13dc47395a4",
+   "firstSeen": "2026-10-12"
+  },
+  {
+   "t": "Entwicklungsingenieur (m/w/d)",
+   "co": "sHW",
+   "loc": "Neuhausen",
+   "country": "DE",
+   "url": "https://www.shw.de/job-detail?id=2026-455",
+   "posted": "2026-10-08",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "e8599d64cf80",
+   "firstSeen": "2026-10-12"
   },
   {
    "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
@@ -1641,44 +1816,6 @@
    "firstSeen": "2026-09-25"
   },
   {
-   "t": "Gusskontrolleur Gießerei (m/w/d)",
-   "co": "Everllence SE",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.everllence.com/job/Augsburg-Gusskontrolleur-Gie%C3%9Ferei-%28mwd%29-86153/1429947833/",
-   "posted": "2026-08-26",
-   "source": "Indeed",
-   "fit": 48,
-   "tags": [
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "9bd829031313",
-   "firstSeen": "2026-08-27"
-  },
-  {
    "t": "Projektingenieur (m/w/d) für Antriebstechnik",
    "co": "Menzel Elektromotoren GmbH",
    "loc": "Hennigsdorf",
@@ -1755,6 +1892,44 @@
    "french": false,
    "id": "5940bb44dcfb",
    "firstSeen": "2026-09-28"
+  },
+  {
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "PMX GmbH",
+   "loc": "Heilbronn",
+   "country": "DE",
+   "url": "https://t.gohiring.com/h/e215a81d77edfade5f49f8812e0055bcacc12b84c90d5a8bbd8e59abcaa2dba5?source=Indeed",
+   "posted": "2026-10-08",
+   "source": "Indeed",
+   "fit": 45,
+   "tags": [
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Quality",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "65eb43f8800b",
+   "firstSeen": "2026-10-12"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
