@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-13 13:38 UTC",
- "count": 52,
+ "generated": "2026-10-14 11:17 UTC",
+ "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
@@ -11,6 +11,44 @@
   "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur Metallurgie / Strangguss (m/w/d)",
+   "co": "Saarstahl AG",
+   "loc": "Völklingen",
+   "country": "DE",
+   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-metallurgie-strangguss-m-w-d/?id=22090",
+   "posted": "2026-10-13",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "2c6932ea27bc",
+   "firstSeen": "2026-10-14"
+  },
   {
    "t": "Industrial Digitalization Engineer  (m/f/*)",
    "co": "Primetals Technologies",
@@ -754,6 +792,44 @@
    "firstSeen": "2026-09-02"
   },
   {
+   "t": "Product Engineer (m/f/d) - Steel",
+   "co": "Signode",
+   "loc": "Burseryd",
+   "country": "SE",
+   "url": "https://signode.recruitee.com/l/en/o/product-engineer-mfd-steel-3?source=Indeed",
+   "posted": "2026-10-07",
+   "source": "Indeed",
+   "fit": 92,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "29d325850812",
+   "firstSeen": "2026-10-14"
+  },
+  {
    "t": "Qualitätsingenieur (m/w/d) Produktentwicklung",
    "co": "Bertrandt",
    "loc": "Köln",
@@ -1366,6 +1442,86 @@
    "french": false,
    "id": "732c8402661b",
    "firstSeen": "2026-09-16"
+  },
+  {
+   "t": "Mechanical engineer",
+   "co": "Hitachi Energy",
+   "loc": "Landskrona",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Landskrona-Skane-County-Sweden/Project-Engineering-Senior-Professional_R0137401",
+   "posted": "2026-10-05",
+   "source": "Indeed",
+   "fit": 67,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "bc563fb3db2f",
+   "firstSeen": "2026-10-14"
+  },
+  {
+   "t": "Mechanical engineer",
+   "co": "Hitachi Rail",
+   "loc": "Landskrona",
+   "country": "SE",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Landskrona-Skane-County-Sweden/Project-Engineering-Senior-Professional_R0137401",
+   "posted": "2026-10-05",
+   "source": "Indeed",
+   "fit": 67,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "3bc119f58908",
+   "firstSeen": "2026-10-14"
   },
   {
    "t": "L. Six Sigma Black Belt Engineer",
