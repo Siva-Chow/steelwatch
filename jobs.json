@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-14 11:17 UTC",
+ "generated": "2026-10-15 10:55 UTC",
  "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
+  "Indeed": "ok (39)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (93)"
+  "Calderys (Imerys)": "ok (94)"
  },
  "jobs": [
   {
@@ -678,44 +678,6 @@
    "firstSeen": "2026-09-13"
   },
   {
-   "t": "Mechanical Works Site Engineer",
-   "co": "Gemkom Engineering and Machinery Filial",
-   "loc": "Boden",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31523159",
-   "posted": "2026-09-25",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "15273464bf79",
-   "firstSeen": "2026-09-26"
-  },
-  {
    "t": "Automation Engineer - PLC & UX, Process Automation (all genders)",
    "co": "RHI Magnesita",
    "loc": "Hünenberg, CH, 6331",
@@ -752,6 +714,44 @@
    "french": false,
    "id": "e79cc1ab8fa4",
    "firstSeen": "2026-09-12"
+  },
+  {
+   "t": "Mechanical Works Site Engineer",
+   "co": "Gemkom Engineering and Machinery Filial",
+   "loc": "Boden",
+   "country": "SE",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31523159",
+   "posted": "2026-09-25",
+   "source": "Indeed",
+   "fit": 93,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Rolling / forming",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "15273464bf79",
+   "firstSeen": "2026-09-26"
   },
   {
    "t": "Produktingenieur (m/w/d)",
@@ -1619,44 +1619,6 @@
   },
   {
    "t": "Entwicklungsingenieur (m/w/d)",
-   "co": "Pankl",
-   "loc": "Neuhausen ob Eck",
-   "country": "DE",
-   "url": "https://www.shw.de/job-detail?id=2026-455",
-   "posted": "2026-10-08",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a13dc47395a4",
-   "firstSeen": "2026-10-12"
-  },
-  {
-   "t": "Entwicklungsingenieur (m/w/d)",
    "co": "sHW",
    "loc": "Neuhausen",
    "country": "DE",
@@ -1691,6 +1653,44 @@
    "offtype": false,
    "french": false,
    "id": "e8599d64cf80",
+   "firstSeen": "2026-10-12"
+  },
+  {
+   "t": "Entwicklungsingenieur (m/w/d)",
+   "co": "Pankl",
+   "loc": "Neuhausen ob Eck",
+   "country": "DE",
+   "url": "https://www.shw.de/job-detail?id=2026-455",
+   "posted": "2026-10-08",
+   "source": "Indeed",
+   "fit": 62,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a13dc47395a4",
    "firstSeen": "2026-10-12"
   },
   {
