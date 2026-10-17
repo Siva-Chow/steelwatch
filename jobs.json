@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-16 10:47 UTC",
- "count": 57,
+ "generated": "2026-10-17 10:12 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (41)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (94)"
+  "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
   {
@@ -1330,82 +1330,6 @@
    "firstSeen": "2026-10-12"
   },
   {
-   "t": "Mechanical Plant Design Engineer",
-   "co": "Hitachi Energy",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0142107",
-   "posted": "2026-09-03",
-   "source": "Indeed",
-   "fit": 72,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "9eb14836cf69",
-   "firstSeen": "2026-09-01"
-  },
-  {
-   "t": "Mechanical Plant Design Engineer",
-   "co": "Hitachi Rail",
-   "loc": "Ludvika",
-   "country": "SE",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ludvika-Dalarna-County-Sweden/Mechanical-Plant-Design-Engineer_R0142107",
-   "posted": "2026-09-03",
-   "source": "Indeed",
-   "fit": 72,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "050bbe3c6767",
-   "firstSeen": "2026-09-01"
-  },
-  {
    "t": "Product Engineer",
    "co": "Alleima",
    "loc": "Stutensee, Germany",
@@ -2014,25 +1938,17 @@
    "firstSeen": "2026-10-12"
   },
   {
-   "t": "Qualitätsingenieur (m/w/d)",
-   "co": "Everllence SE",
-   "loc": "Augsburg",
+   "t": "Betriebsingenieur mit VEFK (m/w/d)",
+   "co": "Azr",
+   "loc": "Berlin",
    "country": "DE",
-   "url": "https://jobs.everllence.com/job/Augsburg-Qualit%C3%A4tsingenieur-%28mwd%29-86153/1427862733/",
-   "posted": "2026-08-31",
+   "url": "http://de.indeed.com/job/betriebsingenieur-mit-vefk-mwd-9f1f3a68f557777f",
+   "posted": "2026-10-16",
    "source": "Indeed",
-   "fit": 45,
+   "fit": 16,
    "tags": [
     [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
+     "Casting / foundry",
      1
     ],
     [
@@ -2040,18 +1956,22 @@
      1
     ],
     [
-     "Sales / trading (off-target)",
+     "English-speaking role",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
      0
     ]
    ],
-   "cat": "Materials",
+   "cat": "Process",
    "note": [
     "Asks for fluent German"
    ],
    "offtype": false,
    "french": false,
-   "id": "e0b54f413dac",
-   "firstSeen": "2026-09-01"
+   "id": "1322f5a82a15",
+   "firstSeen": "2026-10-17"
   },
   {
    "t": "Betriebsingenieur und VEFK (m/w/d)",
