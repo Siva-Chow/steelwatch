@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17 10:12 UTC",
- "count": 55,
+ "generated": "2026-10-18 10:27 UTC",
+ "count": 53,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (43)",
@@ -572,40 +572,6 @@
    "firstSeen": "2026-09-16"
   },
   {
-   "t": "Schweißfachingenieur Research & Development (f/m/d)",
-   "co": "Siemens Energy",
-   "loc": "Falkensee",
-   "country": "DE",
-   "url": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Schwei-fachingenieur-Research-Development-f-m-d-/302419",
-   "posted": "2026-09-01",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "8dca49b61b6e",
-   "firstSeen": "2026-09-02"
-  },
-  {
    "t": "Research Engineer – Laser Welding & Digital Engineering",
    "co": "ArcelorMittal",
    "loc": "Montataire, France",
@@ -790,44 +756,6 @@
    "french": false,
    "id": "15273464bf79",
    "firstSeen": "2026-09-26"
-  },
-  {
-   "t": "Produktingenieur (m/w/d)",
-   "co": "Novelis",
-   "loc": "Göttingen",
-   "country": "DE",
-   "url": "https://de-careers-novelis.icims.com/jobs/52994/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "posted": "2026-08-27",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "9393ac4f0947",
-   "firstSeen": "2026-09-02"
   },
   {
    "t": "Product Engineer (m/f/d) - Steel",
