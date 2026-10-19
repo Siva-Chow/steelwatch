@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-18 10:27 UTC",
+ "generated": "2026-10-19 12:15 UTC",
  "count": 53,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (95)"
+  "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
   {
@@ -1649,7 +1649,7 @@
    "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
    "country": "DE",
    "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3754",
-   "posted": "2025-10-28",
+   "posted": "2026-10-19",
    "source": "Career page",
    "fit": 58,
    "tags": [
