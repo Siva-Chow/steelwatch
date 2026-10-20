@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-19 12:15 UTC",
- "count": 53,
+ "generated": "2026-10-20 10:58 UTC",
+ "count": 51,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
+  "Indeed": "ok (42)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (93)"
+  "Calderys (Imerys)": "ok (92)"
  },
  "jobs": [
   {
@@ -86,6 +86,44 @@
    "french": false,
    "id": "d36bea59e6e1",
    "firstSeen": "2026-10-16"
+  },
+  {
+   "t": "Ingenieur Produktoptimierung (w/m/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Peine, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/alle/job/Peine-Ingenieur-Produktoptimierung-%28wmd%29-NI/1449336833/",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "d35f4c32858e",
+   "firstSeen": "2026-10-20"
   },
   {
    "t": "Industrial Digitalization Engineer  (m/f/*)",
@@ -570,40 +608,6 @@
    "french": false,
    "id": "c98fb2e49b32",
    "firstSeen": "2026-09-16"
-  },
-  {
-   "t": "Research Engineer – Laser Welding & Digital Engineering",
-   "co": "ArcelorMittal",
-   "loc": "Montataire, France",
-   "country": "",
-   "url": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/40418",
-   "posted": "2026-09-03",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "03960f545b5b",
-   "firstSeen": "2026-09-04"
   },
   {
    "t": "Research Engineer - Isostatic Products",
@@ -1100,44 +1104,6 @@
    "french": false,
    "id": "49735d25ba2a",
    "firstSeen": "2026-09-29"
-  },
-  {
-   "t": "Abschlussarbeit: Experimentelle Untersuchungen von Festkörperbatterien im Kalandrierprozess",
-   "co": "",
-   "loc": "Augsburg",
-   "country": "DE",
-   "url": "https://jobs.fraunhofer.de/job/Augsburg-Abschlussarbeit-Experimentelle-Untersuchungen-von-Festk%C3%B6rperbatterien-im-Kalandrierprozess-86159/1433304633/",
-   "posted": "2026-09-03",
-   "source": "Indeed",
-   "fit": 75,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": true,
-   "french": false,
-   "id": "d5d375676796",
-   "firstSeen": "2026-09-04"
   },
   {
    "t": "Environmental Engineer",
@@ -1642,28 +1608,6 @@
    "french": false,
    "id": "ec7accf51dd8",
    "firstSeen": "2026-09-15"
-  },
-  {
-   "t": "Research Engineer - Germany (m/f/d)",
-   "co": "Calderys (Imerys)",
-   "loc": "Oberhausen, Nordrhein-Westfalen, Germany",
-   "country": "DE",
-   "url": "https://egmk.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3754",
-   "posted": "2026-10-19",
-   "source": "Career page",
-   "fit": 58,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "R&D",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "074d1180ae01",
-   "firstSeen": "2026-09-04"
   },
   {
    "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
