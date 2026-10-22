@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-21 11:14 UTC",
- "count": 54,
+ "generated": "2026-10-22 11:13 UTC",
+ "count": 56,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (40)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (2)",
+  "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (92)"
+  "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
   {
@@ -1724,6 +1724,44 @@
    "firstSeen": "2026-09-15"
   },
   {
+   "t": "Konstruktionsingenieur (m/w/d) Anlagenbau Lebensmittelindustrie",
+   "co": "Albert Handtmann Holding GmbH & Co. KG",
+   "loc": "Biberach an der Riß",
+   "country": "DE",
+   "url": "https://jobs.handtmann.com/job/Konstruktionsingenieur-%28mwd%29-Anlagenbau-Lebensmittelindustrie/1084-de_DE",
+   "posted": "2026-10-22",
+   "source": "Indeed",
+   "fit": 55,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "83beaa5cc59e",
+   "firstSeen": "2026-10-22"
+  },
+  {
    "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
    "co": "Aesculap Inc.",
    "loc": "Tuttlingen",
@@ -1922,6 +1960,44 @@
    "french": false,
    "id": "65eb43f8800b",
    "firstSeen": "2026-10-12"
+  },
+  {
+   "t": "Projektingenieur (m/w/d)",
+   "co": "",
+   "loc": "Velbert",
+   "country": "DE",
+   "url": "https://join.com/companies/velco/16417032-projektingenieur-m-w-d?pid=a13795120131dbe48464",
+   "posted": "2026-07-08",
+   "source": "Indeed",
+   "fit": 35,
+   "tags": [
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "b2adef5c07f1",
+   "firstSeen": "2026-10-22"
   },
   {
    "t": "Betriebsingenieur mit VEFK (m/w/d)",
