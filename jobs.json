@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-22 11:13 UTC",
+ "generated": "2026-10-23 11:05 UTC",
  "count": 56,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
+  "Indeed": "ok (38)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (12)",
@@ -691,7 +691,7 @@
    "loc": "",
    "country": "",
    "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1373145257/?locale=en_US",
-   "posted": "2026-09-24",
+   "posted": "2026-10-23",
    "source": "Career page",
    "fit": 95,
    "tags": [
