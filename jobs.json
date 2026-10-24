@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-23 11:05 UTC",
- "count": 56,
+ "generated": "2026-10-24 10:21 UTC",
+ "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (38)",
+  "Indeed": "ok (40)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (93)"
@@ -88,42 +88,44 @@
    "firstSeen": "2026-10-16"
   },
   {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
+   "t": "Embedded Software Engineer (m,w,d)",
+   "co": "Primetals Technologies",
+   "loc": "Germany",
+   "country": "",
+   "url": "https://careers.primetals.com/global/en/job/8430/Embedded-Software-Engineer-m-w-d",
+   "posted": "2026-10-23",
    "source": "Career page",
    "fit": 100,
    "tags": [
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
     [
      "Steel",
      1
     ],
     [
-     "Metallurgy",
+     "Quality engineering",
      1
     ],
     [
-     "Materials",
+     "Rolling / forming",
      1
     ],
     [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
+     "Non-engineering / worker / admin (off-target)",
      0
     ]
    ],
-   "cat": "Materials",
-   "note": [],
+   "cat": "Development",
+   "note": [
+    "Asks for fluent German"
+   ],
    "offtype": false,
    "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
+   "id": "f9fb20004225",
+   "firstSeen": "2026-10-24"
   },
   {
    "t": "Ingenieur Produktoptimierung (w/m/d)",
@@ -162,6 +164,44 @@
    "french": false,
    "id": "d35f4c32858e",
    "firstSeen": "2026-10-20"
+  },
+  {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur Metallurgie / Strangguss (m/w/d)",
