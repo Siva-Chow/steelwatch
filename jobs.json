@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25 10:48 UTC",
+ "generated": "2026-10-26 12:19 UTC",
  "count": 57,
  "status": {
   "Seed": "ok (16)",
@@ -7,8 +7,8 @@
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (2)",
   "thyssenkrupp Steel Europe": "ok (12)",
-  "SSAB": "ok (100)",
-  "Calderys (Imerys)": "ok (93)"
+  "SSAB": "ok (95)",
+  "Calderys (Imerys)": "ok (98)"
  },
  "jobs": [
   {
@@ -88,6 +88,44 @@
    "firstSeen": "2026-10-16"
   },
   {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
+  },
+  {
    "t": "Embedded Software Engineer (m,w,d)",
    "co": "Primetals Technologies",
    "loc": "Germany",
@@ -164,44 +202,6 @@
    "french": false,
    "id": "d35f4c32858e",
    "firstSeen": "2026-10-20"
-  },
-  {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur Metallurgie / Strangguss (m/w/d)",
