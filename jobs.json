@@ -1,14 +1,14 @@
 {
- "generated": "2026-10-26 12:19 UTC",
- "count": 57,
+ "generated": "2026-10-27 11:39 UTC",
+ "count": 58,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (40)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (2)",
-  "thyssenkrupp Steel Europe": "ok (12)",
-  "SSAB": "ok (95)",
-  "Calderys (Imerys)": "ok (98)"
+  "Indeed": "ok (41)",
+  "SuccessFactors": "error: HTTPSConnectionPool(host='api.apify.com', port=443): Read timed out. (read timeout=280)",
+  "Company feeds": "ok (1)",
+  "thyssenkrupp Steel Europe": "ok (5)",
+  "SSAB": "ok (97)",
+  "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
   {
@@ -88,44 +88,6 @@
    "firstSeen": "2026-10-16"
   },
   {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
-  },
-  {
    "t": "Embedded Software Engineer (m,w,d)",
    "co": "Primetals Technologies",
    "loc": "Germany",
@@ -164,6 +126,44 @@
    "french": false,
    "id": "f9fb20004225",
    "firstSeen": "2026-10-24"
+  },
+  {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur Produktoptimierung (w/m/d)",
@@ -914,6 +914,44 @@
    "french": false,
    "id": "29d325850812",
    "firstSeen": "2026-10-14"
+  },
+  {
+   "t": "Abteilungsleitung (m,w,d) Batterieentwicklung und -produktion",
+   "co": "",
+   "loc": "Augsburg",
+   "country": "DE",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Abteilungsleitung-%28m%2Cw%2Cd%29-Batterieentwicklung-und-produktion-86159/1451399233/",
+   "posted": "2026-10-26",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "88d83d2fbc7a",
+   "firstSeen": "2026-10-27"
   },
   {
    "t": "Qualitätsingenieur (m/w/d) Produktentwicklung",
