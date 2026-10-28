@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-27 11:39 UTC",
- "count": 58,
+ "generated": "2026-10-28 12:11 UTC",
+ "count": 54,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (41)",
-  "SuccessFactors": "error: HTTPSConnectionPool(host='api.apify.com', port=443): Read timed out. (read timeout=280)",
+  "Indeed": "ok (42)",
+  "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (5)",
   "SSAB": "ok (97)",
@@ -88,6 +88,44 @@
    "firstSeen": "2026-10-16"
   },
   {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
+  },
+  {
    "t": "Embedded Software Engineer (m,w,d)",
    "co": "Primetals Technologies",
    "loc": "Germany",
@@ -126,44 +164,6 @@
    "french": false,
    "id": "f9fb20004225",
    "firstSeen": "2026-10-24"
-  },
-  {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur Produktoptimierung (w/m/d)",
@@ -616,82 +616,6 @@
    "firstSeen": "2026-09-21"
   },
   {
-   "t": "Projektingenieur (m/w/d) Verfahrenstechnik",
-   "co": "WIEGEL Gruppe",
-   "loc": "Nürnberg",
-   "country": "DE",
-   "url": "https://jobs.smartrecruiters.com/Wiegel/744000148949148-projektingenieur-m-w-d-verfahrenstechnik",
-   "posted": "2026-09-11",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "de86d6d4686b",
-   "firstSeen": "2026-09-12"
-  },
-  {
-   "t": "Prozessingenieur Recycling (m/w/d) - Elternzeitvertretung",
-   "co": "Novelis",
-   "loc": "Seeland",
-   "country": "DE",
-   "url": "https://de-careers-novelis.icims.com/jobs/52997/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "posted": "2026-09-08",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e4aaddd76162",
-   "firstSeen": "2026-09-12"
-  },
-  {
    "t": "Process Solutions Design Engineer",
    "co": "ArcelorMittal",
    "loc": "Fos-sur-Mer, France",
@@ -724,6 +648,44 @@
    "french": false,
    "id": "c98fb2e49b32",
    "firstSeen": "2026-09-16"
+  },
+  {
+   "t": "Junior Verfahrens-/Prozessingenieur (m/w/d) / Bereich Prozesstechnik",
+   "co": "AUMUND Fördertechnik GmbH",
+   "loc": "Rheinberg",
+   "country": "DE",
+   "url": "https://karriere.aumund.com/jobposting/280fa4903cef6047badb29e490e073b3a78d071d0?ref=Indeed",
+   "posted": "2026-10-23",
+   "source": "Indeed",
+   "fit": 96,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "b84474779b17",
+   "firstSeen": "2026-10-28"
   },
   {
    "t": "Research Engineer - Isostatic Products",
@@ -800,44 +762,6 @@
    "french": false,
    "id": "e625e2b904ed",
    "firstSeen": "2026-09-13"
-  },
-  {
-   "t": "Automation Engineer - PLC & UX, Process Automation (all genders)",
-   "co": "RHI Magnesita",
-   "loc": "Hünenberg, CH, 6331",
-   "country": "CH",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1371093857/?locale=en_US",
-   "posted": "2026-10-01",
-   "source": "Career page",
-   "fit": 93,
-   "tags": [
-    [
-     "Secondary metallurgy / ladle",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e79cc1ab8fa4",
-   "firstSeen": "2026-09-12"
   },
   {
    "t": "Mechanical Works Site Engineer",
@@ -1840,44 +1764,6 @@
    "firstSeen": "2026-10-22"
   },
   {
-   "t": "Qualitätsingenieur (w/m/d) - Technik und Verfahren",
-   "co": "Aesculap Inc.",
-   "loc": "Tuttlingen",
-   "country": "DE",
-   "url": "https://jobs.bbraun.com/job/Qualit%C3%A4tsingenieur-%28wmd%29-Technik-und-Verfahren/13970-en_US",
-   "posted": "2026-09-09",
-   "source": "Indeed",
-   "fit": 54,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "14e6c76ed928",
-   "firstSeen": "2026-09-12"
-  },
-  {
    "t": "Processingenjör Koksverk - Vikariat",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -2112,40 +1998,6 @@
    "french": false,
    "id": "1322f5a82a15",
    "firstSeen": "2026-10-17"
-  },
-  {
-   "t": "Betriebsingenieur und VEFK (m/w/d)",
-   "co": "HME Brass Germany GmbH",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://jobdb.softgarden.de/jobdb/public/jobdb/posting/67373370/0/0/Betriebsingenieur+und+VEFK+%28m-w-d%29.html",
-   "posted": "2026-09-11",
-   "source": "Indeed",
-   "fit": 16,
-   "tags": [
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a83ed7d19477",
-   "firstSeen": "2026-09-12"
   }
  ]
 }
