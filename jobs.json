@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-28 12:11 UTC",
- "count": 54,
+ "generated": "2026-10-29 12:21 UTC",
+ "count": 53,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (41)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (5)",
-  "SSAB": "ok (97)",
+  "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
@@ -724,44 +724,6 @@
    "french": false,
    "id": "c38ce4fd169e",
    "firstSeen": "2026-09-27"
-  },
-  {
-   "t": "Werkstoffprüfer/in (m/w/d)",
-   "co": "Outokumpu Careers",
-   "loc": "Krefeld, DE",
-   "country": "DE",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1416238133/?locale=en_US",
-   "posted": "2026-09-13",
-   "source": "Career page",
-   "fit": 95,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e625e2b904ed",
-   "firstSeen": "2026-09-13"
   },
   {
    "t": "Mechanical Works Site Engineer",
