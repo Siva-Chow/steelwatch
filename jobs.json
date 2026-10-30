@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-29 12:21 UTC",
- "count": 53,
+ "generated": "2026-10-30 12:12 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (41)",
+  "Indeed": "ok (39)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (5)",
-  "SSAB": "ok (100)",
+  "SSAB": "ok (99)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
@@ -50,21 +50,25 @@
    "firstSeen": "2026-10-21"
   },
   {
-   "t": "Prozessingenieur:in EMSR",
-   "co": "voestalpine",
-   "loc": "Linz",
-   "country": "AT",
-   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21899",
-   "posted": "2026-10-15",
+   "t": "Prozessingenieur (m/w/d)",
+   "co": "",
+   "loc": "Töging am Inn",
+   "country": "DE",
+   "url": "https://speira-recycling-services-germany.heyrecruit.de/?page=job&id=146332&location=18819&utm_campaign=heyrecruit-multiposting&utm_source=indeed&utm_medium=kostenloses-multiposting",
+   "posted": "2026-10-29",
    "source": "Indeed",
    "fit": 100,
    "tags": [
     [
-     "Steel",
+     "Metallurgy",
      1
     ],
     [
-     "Metallurgy",
+     "Materials",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
      1
     ],
     [
@@ -72,20 +76,18 @@
      1
     ],
     [
-     "Iron / blast furnace",
-     1
-    ],
-    [
      "Sales / trading (off-target)",
      0
     ]
    ],
-   "cat": "Development",
-   "note": [],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
    "offtype": false,
    "french": false,
-   "id": "d36bea59e6e1",
-   "firstSeen": "2026-10-16"
+   "id": "395ff67457cc",
+   "firstSeen": "2026-10-30"
   },
   {
    "t": "Research Engineer (Londonderry, NH)",
@@ -164,6 +166,44 @@
    "french": false,
    "id": "f9fb20004225",
    "firstSeen": "2026-10-24"
+  },
+  {
+   "t": "Prozessingenieur:in EMSR",
+   "co": "voestalpine",
+   "loc": "Linz",
+   "country": "AT",
+   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=21899",
+   "posted": "2026-10-15",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Iron / blast furnace",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "d36bea59e6e1",
+   "firstSeen": "2026-10-16"
   },
   {
    "t": "Ingenieur Produktoptimierung (w/m/d)",
@@ -1626,6 +1666,46 @@
    "french": false,
    "id": "a13dc47395a4",
    "firstSeen": "2026-10-12"
+  },
+  {
+   "t": "Entwicklungsingenieur / R&D Engineer (m/w/d) - Fluid Connectors",
+   "co": "Stäubli",
+   "loc": "Norderstedt",
+   "country": "DE",
+   "url": "https://jobs.smartrecruiters.com/StaubliGroup/744000158721708-entwicklungsingenieur-r-d-engineer-m-w-d-fluid-connectors",
+   "posted": "2026-10-30",
+   "source": "Indeed",
+   "fit": 61,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "143fdece09b2",
+   "firstSeen": "2026-10-30"
   },
   {
    "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
