@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-31 11:44 UTC",
- "count": 57,
+ "generated": "2026-11-01 12:44 UTC",
+ "count": 55,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
+  "Indeed": "ok (43)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (5)",
-  "SSAB": "ok (92)",
+  "SSAB": "ok (87)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
@@ -770,40 +770,6 @@
    "firstSeen": "2026-09-21"
   },
   {
-   "t": "Process Solutions Design Engineer",
-   "co": "ArcelorMittal",
-   "loc": "Fos-sur-Mer, France",
-   "country": "",
-   "url": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/41232",
-   "posted": "2026-09-15",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Iron / blast furnace",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "c98fb2e49b32",
-   "firstSeen": "2026-09-16"
-  },
-  {
    "t": "Junior Verfahrens-/Prozessingenieur (m/w/d) / Bereich Prozesstechnik",
    "co": "AUMUND Fördertechnik GmbH",
    "loc": "Rheinberg",
@@ -1492,44 +1458,6 @@
    "french": false,
    "id": "3091f414a992",
    "firstSeen": "2026-10-12"
-  },
-  {
-   "t": "Safety Engineer (m/w/d)",
-   "co": "Höganäs AB",
-   "loc": "Laufenburg",
-   "country": "DE",
-   "url": "https://hoganas.wd3.myworkdayjobs.com/sv-SE/Careers/job/Laufenburg/Safety-Engineer--m-w-d-_JR1272",
-   "posted": "2026-09-15",
-   "source": "Indeed",
-   "fit": 68,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "732c8402661b",
-   "firstSeen": "2026-09-16"
   },
   {
    "t": "Mechanical engineer",
