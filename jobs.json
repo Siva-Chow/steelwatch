@@ -1,16 +1,88 @@
 {
- "generated": "2026-11-01 12:44 UTC",
- "count": 55,
+ "generated": "2026-11-02 14:51 UTC",
+ "count": 57,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (5)",
-  "SSAB": "ok (87)",
+  "SSAB": "ok (84)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Betriebsingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Betriebsingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377655/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "92facaaff1bd",
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "t": "Prozessingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6ed30a7ec0bf",
+   "firstSeen": "2026-11-02"
+  },
   {
    "t": "Ingenieur Produktoptimierung (w/m/d)",
    "co": "Salzgitter AG",
