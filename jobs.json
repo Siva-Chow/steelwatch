@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-02 14:51 UTC",
- "count": 57,
+ "generated": "2026-11-03 13:41 UTC",
+ "count": 53,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
+  "Indeed": "ok (46)",
   "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
-  "thyssenkrupp Steel Europe": "ok (5)",
-  "SSAB": "ok (84)",
+  "thyssenkrupp Steel Europe": "ok (4)",
+  "SSAB": "ok (85)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
@@ -84,12 +84,12 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "t": "Ingenieur Produktoptimierung (w/m/d)",
-   "co": "Salzgitter AG",
-   "loc": "Peine",
+   "t": "Ingenieur (w/m/d) technische Auftragsverschlüsselung",
+   "co": "Ilsenburger Grobblech GmbH",
+   "loc": "Ilsenburg",
    "country": "DE",
-   "url": "https://www.salzgitter-ag.com/de/jobs-karriere/stellenangebote/details/ingenieur-produktoptimierung-wmd-6055.html",
-   "posted": "2026-10-20",
+   "url": "https://www.ilsenburger-grobblech.de/de/jobs-karriere/stellenangebote/details/ingenieur-wmd-technische-auftragsverschluesselung-6075.html",
+   "posted": "2026-10-30",
    "source": "Indeed",
    "fit": 100,
    "tags": [
@@ -106,7 +106,7 @@
      1
     ],
     [
-     "Process engineering",
+     "R&D / development",
      1
     ],
     [
@@ -118,8 +118,8 @@
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "f1eaf7d61802",
-   "firstSeen": "2026-10-21"
+   "id": "d999c285a44d",
+   "firstSeen": "2026-10-31"
   },
   {
    "t": "Ingenieur (w/m/d)",
@@ -157,44 +157,6 @@
    "offtype": false,
    "french": false,
    "id": "4e1b2c5e2221",
-   "firstSeen": "2026-10-31"
-  },
-  {
-   "t": "Ingenieur (w/m/d) technische Auftragsverschlüsselung",
-   "co": "Ilsenburger Grobblech GmbH",
-   "loc": "Ilsenburg",
-   "country": "DE",
-   "url": "https://www.ilsenburger-grobblech.de/de/jobs-karriere/stellenangebote/details/ingenieur-wmd-technische-auftragsverschluesselung-6075.html",
-   "posted": "2026-10-30",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "d999c285a44d",
    "firstSeen": "2026-10-31"
   },
   {
@@ -312,6 +274,44 @@
    "french": false,
    "id": "e174b77207d8",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "t": "Ingenieur Produktoptimierung (w/m/d)",
+   "co": "Salzgitter AG",
+   "loc": "Peine",
+   "country": "DE",
+   "url": "https://www.salzgitter-ag.com/de/jobs-karriere/stellenangebote/details/ingenieur-produktoptimierung-wmd-6055.html",
+   "posted": "2026-10-20",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "f1eaf7d61802",
+   "firstSeen": "2026-10-21"
   },
   {
    "t": "Embedded Software Engineer (m,w,d)",
@@ -650,158 +650,6 @@
    "french": false,
    "id": "2b50d959379c",
    "firstSeen": "2026-09-21"
-  },
-  {
-   "t": "Computational Materials Scientist / Computational Chemist",
-   "co": "GREEN 14 AB",
-   "loc": "Stockholm",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31491357",
-   "posted": "2026-09-17",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "5d0ce8b176c1",
-   "firstSeen": "2026-09-18"
-  },
-  {
-   "t": "Simulation Product Engineer",
-   "co": "GREEN 14 AB",
-   "loc": "Stockholm",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31491340",
-   "posted": "2026-09-17",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "50216e11085b",
-   "firstSeen": "2026-09-18"
-  },
-  {
-   "t": "Simulation Product Engineer",
-   "co": "Green14",
-   "loc": "Stockholm",
-   "country": "SE",
-   "url": "https://green14.teamtailor.com/jobs/8398106-simulation-product-engineer",
-   "posted": "2026-09-17",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "550c7a0f4ce8",
-   "firstSeen": "2026-09-18"
-  },
-  {
-   "t": "Computational Materials Scientist / Computational Chemist",
-   "co": "Green14",
-   "loc": "Stockholm",
-   "country": "SE",
-   "url": "https://green14.teamtailor.com/jobs/8358140-computational-materials-scientist-computational-chemist",
-   "posted": "2026-09-10",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "0673221b770b",
-   "firstSeen": "2026-09-18"
   },
   {
    "t": "Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d)",
@@ -1617,7 +1465,7 @@
    "loc": "Calvert, AL, US",
    "country": "AL",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1444439133/?locale=en_US",
-   "posted": "2026-10-05",
+   "posted": "2026-11-03",
    "source": "Career page",
    "fit": 65,
    "tags": [
