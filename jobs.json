@@ -1,16 +1,50 @@
 {
- "generated": "2026-11-03 13:41 UTC",
- "count": 53,
+ "generated": "2026-11-04 13:50 UTC",
+ "count": 51,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (46)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "SuccessFactors": "ok (55)",
+  "Company feeds": "error: 402 Client Error: Payment Required for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (85)",
+  "SSAB": "ok (87)",
   "Calderys (Imerys)": "ok (100)"
  },
  "jobs": [
+  {
+   "t": "Prozessingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6ed30a7ec0bf",
+   "firstSeen": "2026-11-02"
+  },
   {
    "t": "Betriebsingenieur (m/w/d) Gießerei",
    "co": "Speira GmbH",
@@ -47,40 +81,6 @@
    "offtype": false,
    "french": false,
    "id": "92facaaff1bd",
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "t": "Prozessingenieur (m/w/d) Gießerei",
-   "co": "Speira GmbH",
-   "loc": "Neuss",
-   "country": "DE",
-   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
-   "posted": "2026-11-02",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6ed30a7ec0bf",
    "firstSeen": "2026-11-02"
   },
   {
@@ -1072,44 +1072,6 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
-   "co": "ASML Deutschland",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer-technical-incoming-inspection--qualitatsingenieurin-technischer-wareneingang-j00352101",
-   "posted": "2026-09-18",
-   "source": "Indeed",
-   "fit": 81,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "200b775ddb8d",
-   "firstSeen": "2026-09-19"
-  },
-  {
    "t": "Mechanical Design Engineer - Industrial Systems",
    "co": "RHI Magnesita",
    "loc": "US",
@@ -1668,44 +1630,6 @@
    "french": false,
    "id": "143fdece09b2",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "t": "Quality Engineer Technical Incoming Inspection / Qualitätsingenieur:in Technischer Wareneingang",
-   "co": "ASML",
-   "loc": "Berlin",
-   "country": "DE",
-   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer-technical-incoming-inspection--qualitatsingenieurin-technischer-wareneingang-j00352101",
-   "posted": "2026-09-18",
-   "source": "Indeed",
-   "fit": 60,
-   "tags": [
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "0e15669a7595",
-   "firstSeen": "2026-09-19"
   },
   {
    "t": "Konstruktionsingenieur (m/w/d) Anlagenbau Lebensmittelindustrie",
