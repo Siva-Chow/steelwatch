@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06 13:47 UTC",
- "count": 49,
+ "generated": "2026-11-07 12:30 UTC",
+ "count": 48,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -26,8 +26,8 @@
   "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (79)",
-  "Calderys (Imerys)": "ok (99)"
+  "SSAB": "ok (78)",
+  "Calderys (Imerys)": "ok (98)"
  },
  "jobs": [
   {
@@ -1404,7 +1404,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-11-06",
+   "posted": "2026-11-07",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1611,28 +1611,6 @@
    "french": false,
    "id": "83beaa5cc59e",
    "firstSeen": "2026-10-22"
-  },
-  {
-   "t": "Processingenjör Koksverk - Vikariat",
-   "co": "SSAB",
-   "loc": "Luleå, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/2633",
-   "posted": "2026-09-21",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Process",
-     1
-    ]
-   ],
-   "cat": "Process",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a3cc57270b48",
-   "firstSeen": "2026-09-22"
   },
   {
    "t": "Underhållsingenjör",
