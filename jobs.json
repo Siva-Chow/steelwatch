@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10 14:24 UTC",
- "count": 45,
+ "generated": "2026-11-11 13:38 UTC",
+ "count": 41,
  "status": {
   "Seed": "ok (16)",
   "Indeed": [
@@ -26,7 +26,7 @@
   "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
   "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
   "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (89)",
+  "SSAB": "ok (93)",
   "Calderys (Imerys)": "ok (98)"
  },
  "jobs": [
@@ -595,44 +595,6 @@
    "firstSeen": "2026-10-01"
   },
   {
-   "t": "Ingenieur (m/w/d) Produktentwicklung",
-   "co": "ArcelorMittal",
-   "loc": "Bremen, Germany",
-   "country": "",
-   "url": "https://emfg.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40621",
-   "posted": "2026-09-25",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "0f6e555f4862",
-   "firstSeen": "2026-09-26"
-  },
-  {
    "t": "Junior Verfahrens-/Prozessingenieur (m/w/d) / Bereich Prozesstechnik",
    "co": "AUMUND Fördertechnik GmbH",
    "loc": "Rheinberg",
@@ -707,44 +669,6 @@
    "french": false,
    "id": "c38ce4fd169e",
    "firstSeen": "2026-09-27"
-  },
-  {
-   "t": "Mechanical Works Site Engineer",
-   "co": "Gemkom Engineering and Machinery Filial",
-   "loc": "Boden",
-   "country": "SE",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31523159",
-   "posted": "2026-09-25",
-   "source": "Indeed",
-   "fit": 93,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "15273464bf79",
-   "firstSeen": "2026-09-26"
   },
   {
    "t": "Product Engineer (m/f/d) - Steel",
@@ -1286,7 +1210,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-11-10",
+   "posted": "2026-11-11",
    "source": "Career page",
    "fit": 64,
    "tags": [
@@ -1301,44 +1225,6 @@
    "french": false,
    "id": "f07aa8c41206",
    "firstSeen": "2026-10-06"
-  },
-  {
-   "t": "AI Platform Engineer (m/w/d) Azure & GenAI",
-   "co": "Salzgitter Konzern",
-   "loc": "Dortmund, Germany",
-   "country": "",
-   "url": "https://jobs.salzgitter-ag.com/alle/job/Dortmund-AI-Platform-Engineer-%28mwd%29-Azure-&-GenAI-NW/1441420033/",
-   "posted": "2026-09-25",
-   "source": "Career page",
-   "fit": 64,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Data & programming",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "c02a9a7a807f",
-   "firstSeen": "2026-09-26"
   },
   {
    "t": "Entwicklungsingenieur (m/w/d)",
@@ -1515,46 +1401,6 @@
    "french": false,
    "id": "14f4b120b5f7",
    "firstSeen": "2026-11-09"
-  },
-  {
-   "t": "Projektingenieur (m/w/d) für Antriebstechnik",
-   "co": "Menzel Elektromotoren GmbH",
-   "loc": "Hennigsdorf",
-   "country": "DE",
-   "url": "https://www.menzel-motors.com/de/stellenangebot-vertriebsingenieur-antriebstechnik-berlin/",
-   "posted": "2026-09-25",
-   "source": "Indeed",
-   "fit": 47,
-   "tags": [
-    [
-     "LiDAR / sensing / automation",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Process",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "9bfd657c50e0",
-   "firstSeen": "2026-09-26"
   },
   {
    "t": "PMO SPS Process & Digitalization (m/w/d)",
