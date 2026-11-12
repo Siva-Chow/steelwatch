@@ -1,45 +1,30 @@
 {
- "generated": "2026-11-11 13:38 UTC",
- "count": 41,
+ "generated": "2026-11-12 14:41 UTC",
+ "count": 45,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": [
-   "query 'Metallurgie Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoffingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Qualitätsingenieur Metall' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Prozessingenieur Metallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Werkstoff Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'materials engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer metallurgy' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'process engineer steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur matériaux sidérurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'ingénieur procédés métallurgie' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Gießerei Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Walzwerk Ingenieur' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurge' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'R&D Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'Metallurgie Ingenieur Stahl' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]",
-   "query 'metallurgist steel' failed: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/valig~indeed-jobs-scraper/run-sync-get-dataset-items?token=[redacted]"
-  ],
-  "SuccessFactors": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/signalcrawl~successfactors-jobs-api/run-sync-get-dataset-items?token=[redacted]",
-  "Company feeds": "error: 403 Client Error: Forbidden for url: https://api.apify.com/v2/acts/fantastic-jobs~career-site-job-listing-api/run-sync-get-dataset-items?token=[redacted]",
+  "Indeed": "ok (48)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (93)",
-  "Calderys (Imerys)": "ok (98)"
+  "SSAB": "ok (94)",
+  "Calderys (Imerys)": "ok (99)"
  },
  "jobs": [
   {
-   "t": "Prozessingenieur (m/w/d) Gießerei",
-   "co": "Speira GmbH",
-   "loc": "Neuss",
+   "t": "Ingenieur (w/m/d)",
+   "co": "Salzgitter AG",
+   "loc": "Ilsenburg",
    "country": "DE",
-   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
-   "posted": "2026-11-02",
+   "url": "https://www.salzgitter-ag.com/de/jobs-karriere/stellenangebote/details/ingenieur-wmd-technische-auftragsverschluesselung-6075.html",
+   "posted": "2026-10-30",
    "source": "Indeed",
    "fit": 100,
    "tags": [
+    [
+     "Steel",
+     1
+    ],
     [
      "Metallurgy",
      1
@@ -49,20 +34,20 @@
      1
     ],
     [
-     "Process engineering",
+     "R&D / development",
      1
     ],
     [
-     "Casting / foundry",
-     1
+     "Sales / trading (off-target)",
+     0
     ]
    ],
    "cat": "Materials",
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "6ed30a7ec0bf",
-   "firstSeen": "2026-11-02"
+   "id": "4e1b2c5e2221",
+   "firstSeen": "2026-10-31"
   },
   {
    "t": "Betriebsingenieur (m/w/d) Gießerei",
@@ -141,13 +126,47 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "t": "Ingenieur (w/m/d)",
-   "co": "Salzgitter AG",
-   "loc": "Ilsenburg",
+   "t": "Prozessingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
    "country": "DE",
-   "url": "https://www.salzgitter-ag.com/de/jobs-karriere/stellenangebote/details/ingenieur-wmd-technische-auftragsverschluesselung-6075.html",
-   "posted": "2026-10-30",
+   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
+   "posted": "2026-11-02",
    "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6ed30a7ec0bf",
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
    "fit": 100,
    "tags": [
     [
@@ -163,11 +182,11 @@
      1
     ],
     [
-     "R&D / development",
+     "Thermo simulation (FactSage)",
      1
     ],
     [
-     "Sales / trading (off-target)",
+     "Senior / management / executive (off-target)",
      0
     ]
    ],
@@ -175,8 +194,8 @@
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "4e1b2c5e2221",
-   "firstSeen": "2026-10-31"
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
   },
   {
    "t": "Prozessingenieur (m/w/d)",
@@ -217,44 +236,6 @@
    "french": false,
    "id": "395ff67457cc",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur (w/m/d) technische Auftragsverschlüsselung",
@@ -633,42 +614,40 @@
    "firstSeen": "2026-10-28"
   },
   {
-   "t": "Research Engineer - Isostatic Products",
-   "co": "RHI Magnesita",
-   "loc": "",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1373145257/?locale=en_US",
-   "posted": "2026-10-23",
-   "source": "Career page",
-   "fit": 95,
+   "t": "Qualitätsingenieur (m/w/d)",
+   "co": "Howmet Aerospace",
+   "loc": "Bestwig",
+   "country": "DE",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/de/job/120131",
+   "posted": "2026-11-06",
+   "source": "Indeed",
+   "fit": 92,
    "tags": [
     [
-     "Continuous casting",
+     "LiDAR / sensing / automation",
      1
     ],
     [
-     "Steel",
+     "R&D / development",
      1
     ],
     [
-     "Refractories",
+     "Quality engineering",
      1
     ],
     [
-     "Materials",
+     "Production",
      1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
     ]
    ],
-   "cat": "Materials",
-   "note": [],
+   "cat": "Development",
+   "note": [
+    "Asks for fluent German"
+   ],
    "offtype": false,
    "french": false,
-   "id": "c38ce4fd169e",
-   "firstSeen": "2026-09-27"
+   "id": "0ae8f3fe8d90",
+   "firstSeen": "2026-11-12"
   },
   {
    "t": "Product Engineer (m/f/d) - Steel",
@@ -707,6 +686,78 @@
    "french": false,
    "id": "29d325850812",
    "firstSeen": "2026-10-14"
+  },
+  {
+   "t": "(Sr.) Process Engineer (Metallurge Vakuumanlagen) (m/w/d)",
+   "co": "SMS group GmbH",
+   "loc": "Mönchengladbach",
+   "country": "DE",
+   "url": "https://career.sms-group.com/de/jobs/45055/sr-process-engineer-metallurge-vakuumanlagen-mwd",
+   "posted": "2026-11-04",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "8f97d56543b9",
+   "firstSeen": "2026-11-12"
+  },
+  {
+   "t": "Qualitätsingenieur (m/w/d) Partikelemissionsmessungen Wägeraum",
+   "co": "Rolls-Royce",
+   "loc": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Friedrichshafen/Qualittsingenieur--m-w-d--Partikelemissionsmessungen-Wgeraum_JR6161548-2",
+   "posted": "2026-11-10",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3da676e15466",
+   "firstSeen": "2026-11-12"
   },
   {
    "t": "Abteilungsleitung (m,w,d) Batterieentwicklung und -produktion",
@@ -899,6 +950,44 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "t": "Qualitätsingenieur Metall (m/w/d) - zunächst befristet auf 1 Jahr",
+   "co": "",
+   "loc": "Affalterbach",
+   "country": "DE",
+   "url": "https://t.gohiring.com/h/383e5ecf56974e424855e9599cf0a1944f84e98435d35d6a0eea068d3a8216e1?source=Indeed",
+   "posted": "2026-11-12",
+   "source": "Indeed",
+   "fit": 79,
+   "tags": [
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "4db391968c61",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "t": "Mechanical Design Engineer - Industrial Systems",
    "co": "RHI Magnesita",
    "loc": "US",
@@ -973,6 +1062,46 @@
    "french": false,
    "id": "49735d25ba2a",
    "firstSeen": "2026-09-29"
+  },
+  {
+   "t": "Quality Engineer / Qualitätsingenieur:in",
+   "co": "ASML Deutschland",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer--qualitatsingenieurin-j00356402",
+   "posted": "2026-11-08",
+   "source": "Indeed",
+   "fit": 73,
+   "tags": [
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "5834f7a3a39e",
+   "firstSeen": "2026-11-12"
   },
   {
    "t": "QA Engineer",
@@ -1210,7 +1339,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-11-11",
+   "posted": "2026-11-12",
    "source": "Career page",
    "fit": 64,
    "tags": [
