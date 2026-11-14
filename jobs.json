@@ -1,16 +1,164 @@
 {
- "generated": "2026-11-13 13:58 UTC",
- "count": 45,
+ "generated": "2026-11-14 13:00 UTC",
+ "count": 44,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (46)",
-  "SuccessFactors": "ok (86)",
+  "Indeed": "ok (47)",
+  "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (91)",
+  "SSAB": "ok (90)",
   "Calderys (Imerys)": "ok (99)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
+   "co": "Saarstahl AG",
+   "loc": "Völklingen",
+   "country": "DE",
+   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-prozess-und-werkstoffentwicklung-m-w-d/?id=22384",
+   "posted": "2026-11-13",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "989e08329eca",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "t": "Betriebsingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Betriebsingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377655/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "92facaaff1bd",
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "t": "Prozessingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6ed30a7ec0bf",
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-10-20",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
+  },
   {
    "t": "Ingenieur (w/m/d)",
    "co": "Salzgitter AG",
@@ -86,116 +234,6 @@
    "french": false,
    "id": "d999c285a44d",
    "firstSeen": "2026-10-31"
-  },
-  {
-   "t": "Prozessingenieur (m/w/d) Gießerei",
-   "co": "Speira GmbH",
-   "loc": "Neuss",
-   "country": "DE",
-   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
-   "posted": "2026-11-02",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6ed30a7ec0bf",
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "t": "Betriebsingenieur (m/w/d) Gießerei",
-   "co": "Speira GmbH",
-   "loc": "Neuss",
-   "country": "DE",
-   "url": "https://jobs.speira.com/job/Neuss-Betriebsingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377655/",
-   "posted": "2026-11-02",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "92facaaff1bd",
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
   },
   {
    "t": "Prozessingenieur (m/w/d)",
@@ -1026,44 +1064,6 @@
    "firstSeen": "2026-09-30"
   },
   {
-   "t": "Quality Engineer (m/w/d)",
-   "co": "Heraeus",
-   "loc": "Kleinostheim",
-   "country": "DE",
-   "url": "https://jobs.heraeus.com/de/stellenbeschreibung/kleinostheim/quality-engineer-m-w-d/3105/45295362816",
-   "posted": "2026-09-28",
-   "source": "Indeed",
-   "fit": 76,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "49735d25ba2a",
-   "firstSeen": "2026-09-29"
-  },
-  {
    "t": "Quality Engineer / Qualitätsingenieur:in",
    "co": "ASML Deutschland",
    "loc": "Berlin",
@@ -1102,44 +1102,6 @@
    "french": false,
    "id": "5834f7a3a39e",
    "firstSeen": "2026-11-12"
-  },
-  {
-   "t": "QA Engineer",
-   "co": "Cunningham Contracts",
-   "loc": "Skellefteå",
-   "country": "SE",
-   "url": "https://cunninghamcontracts.bamboohr.com/careers/229?source=indeed&src=indeed&postedDate=2026-09-28",
-   "posted": "2026-09-28",
-   "source": "Indeed",
-   "fit": 73,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Rolling / forming",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "4b1d967b60c2",
-   "firstSeen": "2026-09-29"
   },
   {
    "t": "Labormitarbeiter:in im Bereich Werkstoffe, Korrosion und Dauerhaftigkeit (m/w/d)",
@@ -1377,7 +1339,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-11-13",
+   "posted": "2026-11-14",
    "source": "Career page",
    "fit": 64,
    "tags": [
