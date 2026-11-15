@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-14 13:00 UTC",
- "count": 44,
+ "generated": "2026-11-15 13:29 UTC",
+ "count": 42,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (45)",
+  "SuccessFactors": "ok (86)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "ok (4)",
   "SSAB": "ok (90)",
@@ -50,6 +50,40 @@
    "firstSeen": "2026-11-14"
   },
   {
+   "t": "Prozessingenieur (m/w/d) Gießerei",
+   "co": "Speira GmbH",
+   "loc": "Neuss",
+   "country": "DE",
+   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
+   "posted": "2026-11-02",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "6ed30a7ec0bf",
+   "firstSeen": "2026-11-02"
+  },
+  {
    "t": "Betriebsingenieur (m/w/d) Gießerei",
    "co": "Speira GmbH",
    "loc": "Neuss",
@@ -85,40 +119,6 @@
    "offtype": false,
    "french": false,
    "id": "92facaaff1bd",
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "t": "Prozessingenieur (m/w/d) Gießerei",
-   "co": "Speira GmbH",
-   "loc": "Neuss",
-   "country": "DE",
-   "url": "https://jobs.speira.com/job/Neuss-Prozessingenieur-%28mwd%29-Gie%C3%9Ferei-41468/1375377155/",
-   "posted": "2026-11-02",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "6ed30a7ec0bf",
    "firstSeen": "2026-11-02"
   },
   {
@@ -874,44 +874,6 @@
    "firstSeen": "2026-10-12"
   },
   {
-   "t": "Ingenieur Erhaltung E-Technik / Automatisierungstechnik E-Stahlwerk (w/m/d)",
-   "co": "Salzgitter Konzern",
-   "loc": "Peine, Germany",
-   "country": "",
-   "url": "https://jobs.salzgitter-ag.com/alle/job/Peine-Ingenieur-Erhaltung-E-Technik-Automatisierungstechnik-E-Stahlwerk-%28wmd%29-NI/1442635333/",
-   "posted": "2026-09-30",
-   "source": "Career page",
-   "fit": 86,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "17eb8c3c5995",
-   "firstSeen": "2026-09-30"
-  },
-  {
    "t": "Furnace Systems & Plant Equipment Mechanical Engineer",
    "co": "Outokumpu Careers",
    "loc": "Londonderry, NH, US",
@@ -1024,44 +986,6 @@
    "french": false,
    "id": "4db391968c61",
    "firstSeen": "2026-11-12"
-  },
-  {
-   "t": "Mechanical Design Engineer - Industrial Systems",
-   "co": "RHI Magnesita",
-   "loc": "US",
-   "country": "",
-   "url": "https://careers.rhimagnesita.com/talentcommunity/apply/1373366457/?locale=en_US",
-   "posted": "2026-09-28",
-   "source": "Career page",
-   "fit": 78,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "14ec3905e09f",
-   "firstSeen": "2026-09-30"
   },
   {
    "t": "Quality Engineer / Qualitätsingenieur:in",
@@ -1339,7 +1263,7 @@
    "loc": "Hamborn",
    "country": "DE",
    "url": "https://steeleurope.wd3.myworkdayjobs.com/en-US/Job_Board/job/Hamborn/Ingenieur-in-Elektrische-Instandhaltung-Infrastruktur-und-Krananlagen--m-w-d-_JR0000013988",
-   "posted": "2026-11-14",
+   "posted": "2026-11-15",
    "source": "Career page",
    "fit": 64,
    "tags": [
