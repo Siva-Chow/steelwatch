@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-15 13:29 UTC",
- "count": 42,
+ "generated": "2026-11-16 14:54 UTC",
+ "count": 41,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
-  "SuccessFactors": "ok (86)",
+  "Indeed": "ok (42)",
+  "SuccessFactors": "ok (96)",
   "Company feeds": "ok (1)",
-  "thyssenkrupp Steel Europe": "ok (4)",
-  "SSAB": "ok (90)",
-  "Calderys (Imerys)": "ok (99)"
+  "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
+  "SSAB": "ok (94)",
+  "Calderys (Imerys)": "ok (97)"
  },
  "jobs": [
   {
@@ -544,74 +544,6 @@
    "french": false,
    "id": "cb4eae3beca8",
    "firstSeen": "2026-10-12"
-  },
-  {
-   "t": "Junior Prozessingenieur (m/w/d) Metall",
-   "co": "EOS of North America Inc.",
-   "loc": "Krailling",
-   "country": "DE",
-   "url": "https://eosgroup.wd3.myworkdayjobs.com/en-US/eos/job/Krailling/Junior-Prozessingenieur--m-w-d--Metall_JR102382",
-   "posted": "2026-09-30",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "79ace8de21d3",
-   "firstSeen": "2026-10-01"
-  },
-  {
-   "t": "Junior Prozessingenieur (m/w/d) Metall",
-   "co": "EOS GmbH",
-   "loc": "Krailling",
-   "country": "DE",
-   "url": "https://eosgroup.wd3.myworkdayjobs.com/de-DE/eos/job/Krailling/Junior-Prozessingenieur--m-w-d--Metall_JR102382",
-   "posted": "2026-09-30",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Inclusions / clean steel",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "532d825f71cb",
-   "firstSeen": "2026-10-01"
   },
   {
    "t": "Junior Verfahrens-/Prozessingenieur (m/w/d) / Bereich Prozesstechnik",
@@ -1432,6 +1364,28 @@
    "french": false,
    "id": "83beaa5cc59e",
    "firstSeen": "2026-10-22"
+  },
+  {
+   "t": "Automation Engineer",
+   "co": "SSAB",
+   "loc": "Finspång, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/3449",
+   "posted": "2026-11-13",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "48ab40290bfe",
+   "firstSeen": "2026-11-16"
   },
   {
    "t": "Laboratorieingenjör",
