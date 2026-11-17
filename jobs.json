@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-16 14:54 UTC",
+ "generated": "2026-11-17 15:33 UTC",
  "count": 41,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (42)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "Indeed": "ok (43)",
+  "SuccessFactors": "error: HTTPSConnectionPool(host='api.apify.com', port=443): Read timed out. (read timeout=280)",
+  "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (94)",
-  "Calderys (Imerys)": "ok (97)"
+  "SSAB": "ok (93)",
+  "Calderys (Imerys)": "ok (99)"
  },
  "jobs": [
   {
@@ -1366,28 +1366,6 @@
    "firstSeen": "2026-10-22"
   },
   {
-   "t": "Automation Engineer",
-   "co": "SSAB",
-   "loc": "Finspång, Sweden",
-   "country": "SE",
-   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/3449",
-   "posted": "2026-11-13",
-   "source": "Career page",
-   "fit": 48,
-   "tags": [
-    [
-     "Other",
-     1
-    ]
-   ],
-   "cat": "Other",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "48ab40290bfe",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "t": "Laboratorieingenjör",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -1408,6 +1386,28 @@
    "french": false,
    "id": "14f4b120b5f7",
    "firstSeen": "2026-11-09"
+  },
+  {
+   "t": "Automation Engineer",
+   "co": "SSAB",
+   "loc": "Finspång, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/3449",
+   "posted": "2026-11-13",
+   "source": "Career page",
+   "fit": 48,
+   "tags": [
+    [
+     "Other",
+     1
+    ]
+   ],
+   "cat": "Other",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "48ab40290bfe",
+   "firstSeen": "2026-11-16"
   },
   {
    "t": "Qualitätsingenieur (m/w/d)",
