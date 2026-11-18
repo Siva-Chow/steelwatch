@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-17 15:33 UTC",
- "count": 41,
+ "generated": "2026-11-18 15:10 UTC",
+ "count": 43,
  "status": {
   "Seed": "ok (16)",
   "Indeed": "ok (43)",
-  "SuccessFactors": "error: HTTPSConnectionPool(host='api.apify.com', port=443): Read timed out. (read timeout=280)",
+  "SuccessFactors": "ok (96)",
   "Company feeds": "ok (0)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (93)",
-  "Calderys (Imerys)": "ok (99)"
+  "SSAB": "ok (94)",
+  "Calderys (Imerys)": "ok (95)"
  },
  "jobs": [
   {
@@ -48,6 +48,44 @@
    "french": false,
    "id": "989e08329eca",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "t": "Research Engineer (Londonderry, NH)",
+   "co": "Outokumpu Careers",
+   "loc": "Londonderry, NH, US",
+   "country": "NH",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
+   "posted": "2026-11-18",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Thermo simulation (FactSage)",
+     1
+    ],
+    [
+     "Senior / management / executive (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "260e838fd164",
+   "firstSeen": "2026-10-21"
   },
   {
    "t": "Prozessingenieur (m/w/d) Gießerei",
@@ -120,44 +158,6 @@
    "french": false,
    "id": "92facaaff1bd",
    "firstSeen": "2026-11-02"
-  },
-  {
-   "t": "Research Engineer (Londonderry, NH)",
-   "co": "Outokumpu Careers",
-   "loc": "Londonderry, NH, US",
-   "country": "NH",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1449507233/?locale=en_US",
-   "posted": "2026-10-20",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Thermo simulation (FactSage)",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "260e838fd164",
-   "firstSeen": "2026-10-21"
   },
   {
    "t": "Ingenieur (w/m/d)",
@@ -658,6 +658,40 @@
    "firstSeen": "2026-10-14"
   },
   {
+   "t": "Qualitätsingenieur (m/w/d) Partikelemissionsmessungen Wägeraum",
+   "co": "Rolls-Royce",
+   "loc": "Friedrichshafen",
+   "country": "DE",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Friedrichshafen/Qualittsingenieur--m-w-d--Partikelemissionsmessungen-Wgeraum_JR6161548-2",
+   "posted": "2026-11-10",
+   "source": "Indeed",
+   "fit": 91,
+   "tags": [
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Mechanical engineering base",
+     1
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "3da676e15466",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "t": "(Sr.) Process Engineer (Metallurge Vakuumanlagen) (m/w/d)",
    "co": "SMS group GmbH",
    "loc": "Mönchengladbach",
@@ -693,40 +727,6 @@
    "offtype": false,
    "french": false,
    "id": "8f97d56543b9",
-   "firstSeen": "2026-11-12"
-  },
-  {
-   "t": "Qualitätsingenieur (m/w/d) Partikelemissionsmessungen Wägeraum",
-   "co": "Rolls-Royce",
-   "loc": "Friedrichshafen",
-   "country": "DE",
-   "url": "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional/job/Friedrichshafen/Qualittsingenieur--m-w-d--Partikelemissionsmessungen-Wgeraum_JR6161548-2",
-   "posted": "2026-11-10",
-   "source": "Indeed",
-   "fit": 91,
-   "tags": [
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3da676e15466",
    "firstSeen": "2026-11-12"
   },
   {
@@ -811,7 +811,7 @@
    "loc": "Londonderry, NH, US",
    "country": "NH",
    "url": "https://careers.outokumpu.com/talentcommunity/apply/1449618533/?locale=en_US",
-   "posted": "2026-10-20",
+   "posted": "2026-11-18",
    "source": "Career page",
    "fit": 85,
    "tags": [
@@ -880,6 +880,44 @@
    "french": false,
    "id": "fae2345d3d36",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "t": "Ingenieur Werkstofftechnik (w/m/d)",
+   "co": "Siemens Energy",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Ingenieur-Werkstofftechnik-w-m-d-/306731",
+   "posted": "2026-11-17",
+   "source": "Indeed",
+   "fit": 83,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "ce2af931ec29",
+   "firstSeen": "2026-11-18"
   },
   {
    "t": "Qualitätsingenieur Metall (m/w/d) - zunächst befristet auf 1 Jahr",
@@ -1486,6 +1524,40 @@
    "french": false,
    "id": "b2adef5c07f1",
    "firstSeen": "2026-10-22"
+  },
+  {
+   "t": "Manufacturing Electrical Engineer",
+   "co": "Outokumpu Careers",
+   "loc": "Calvert, AL, US",
+   "country": "AL",
+   "url": "https://careers.outokumpu.com/talentcommunity/apply/1384202633/?locale=en_US",
+   "posted": "2026-11-04",
+   "source": "Career page",
+   "fit": 32,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "c6e1b8a6911b",
+   "firstSeen": "2026-11-18"
   },
   {
    "t": "Betriebsingenieur mit VEFK (m/w/d)",
