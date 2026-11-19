@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-18 15:10 UTC",
- "count": 43,
+ "generated": "2026-11-19 15:18 UTC",
+ "count": 46,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (43)",
+  "Indeed": "ok (44)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (0)",
+  "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (94)",
-  "Calderys (Imerys)": "ok (95)"
+  "SSAB": "ok (95)",
+  "Calderys (Imerys)": "ok (96)"
  },
  "jobs": [
   {
@@ -1404,6 +1404,46 @@
    "firstSeen": "2026-10-22"
   },
   {
+   "t": "Quality Engineer High‑Tech Manufacturing / Qualitätsingenieur:in High-Tech Fertigung",
+   "co": "ASML Deutschland",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://www.asml.com/de-de/karriere/stellenangebote/quality-engineer-hightech-manufacturing--qualitatsingenieurin-high-tech-fertigung-j00357946",
+   "posted": "2026-11-19",
+   "source": "Indeed",
+   "fit": 52,
+   "tags": [
+    [
+     "Inclusions / clean steel",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Production",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [
+    "Asks for fluent German"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "f29e579e8416",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "t": "Laboratorieingenjör",
    "co": "SSAB",
    "loc": "Luleå, Sweden",
@@ -1488,6 +1528,28 @@
    "firstSeen": "2026-10-12"
   },
   {
+   "t": "Skiftesgående processoperatör Råjärn (vikariat)",
+   "co": "SSAB",
+   "loc": "Luleå, Sweden",
+   "country": "SE",
+   "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/job/3140",
+   "posted": "2026-11-19",
+   "source": "Career page",
+   "fit": 42,
+   "tags": [
+    [
+     "Process",
+     1
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "49186a7c4935",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "t": "Projektingenieur (m/w/d)",
    "co": "",
    "loc": "Velbert",
@@ -1558,6 +1620,38 @@
    "french": false,
    "id": "c6e1b8a6911b",
    "firstSeen": "2026-11-18"
+  },
+  {
+   "t": "Junior NOC Engineer Job Details | Outokumpu Careers",
+   "co": "careers",
+   "loc": "",
+   "country": "",
+   "url": "https://www.outokumpu.com/en/careers/how-to-apply",
+   "posted": "",
+   "source": "Career page",
+   "fit": 21,
+   "tags": [
+    [
+     "Entry-level friendly",
+     1
+    ],
+    [
+     "English-speaking role",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [
+    "Asks for Swedish"
+   ],
+   "offtype": false,
+   "french": false,
+   "id": "af75b50e1f5f",
+   "firstSeen": "2026-11-19"
   },
   {
    "t": "Betriebsingenieur mit VEFK (m/w/d)",
