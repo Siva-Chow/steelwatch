@@ -1,16 +1,54 @@
 {
- "generated": "2026-11-19 15:18 UTC",
- "count": 46,
+ "generated": "2026-11-20 14:56 UTC",
+ "count": 47,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (44)",
-  "SuccessFactors": "ok (96)",
+  "Indeed": "ok (45)",
+  "SuccessFactors": "ok (68)",
   "Company feeds": "ok (1)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
   "SSAB": "ok (95)",
   "Calderys (Imerys)": "ok (96)"
  },
  "jobs": [
+  {
+   "t": "Masterarbeit zur Optimierung der freien Öffnungsrate von Gießpfannen im Stahlwerk",
+   "co": "GMH Gruppe",
+   "loc": "Bous",
+   "country": "DE",
+   "url": "https://jobs.gmh-gruppe.de/de/jobs/931/masterarbeit-zur-optimierung-der-freien-offnungsrate-von-giepfannen-im-stahlwerk",
+   "posted": "2026-11-19",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Secondary metallurgy / ladle",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": true,
+   "french": false,
+   "id": "8552e8566a6a",
+   "firstSeen": "2026-11-20"
+  },
   {
    "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
    "co": "Saarstahl AG",
