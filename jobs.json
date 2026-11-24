@@ -1,16 +1,54 @@
 {
- "generated": "2026-11-23 17:29 UTC",
- "count": 46,
+ "generated": "2026-11-24 17:00 UTC",
+ "count": 50,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (45)",
+  "Indeed": "ok (47)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (1)",
+  "Company feeds": "ok (3)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (91)",
-  "Calderys (Imerys)": "ok (97)"
+  "SSAB": "ok (94)",
+  "Calderys (Imerys)": "ok (94)"
  },
  "jobs": [
+  {
+   "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
+   "co": "Saarstahl AG",
+   "loc": "Völklingen",
+   "country": "DE",
+   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-prozess-und-werkstoffentwicklung-m-w-d/?id=22384",
+   "posted": "2026-11-13",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "989e08329eca",
+   "firstSeen": "2026-11-14"
+  },
   {
    "t": "Masterarbeit zur Optimierung der freien Öffnungsrate von Gießpfannen im Stahlwerk",
    "co": "GMH Gruppe",
@@ -50,13 +88,13 @@
    "firstSeen": "2026-11-20"
   },
   {
-   "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
-   "co": "Saarstahl AG",
-   "loc": "Völklingen",
-   "country": "DE",
-   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-prozess-und-werkstoffentwicklung-m-w-d/?id=22384",
-   "posted": "2026-11-13",
-   "source": "Indeed",
+   "t": "Betriebsingenieur / Ingenieur Verfahrenstechnik  Stahlwerk (w/m/d)",
+   "co": "Salzgitter Konzern",
+   "loc": "Peine, Germany",
+   "country": "",
+   "url": "https://jobs.salzgitter-ag.com/intern/job/Peine-Betriebsingenieur-Ingenieur-Verfahrenstechnik-Stahlwerk-%28wmd%29-NI/1460142433/",
+   "posted": "2026-11-24",
+   "source": "Career page",
    "fit": 100,
    "tags": [
     [
@@ -72,7 +110,7 @@
      1
     ],
     [
-     "R&D / development",
+     "Process engineering",
      1
     ],
     [
@@ -84,8 +122,46 @@
    "note": [],
    "offtype": false,
    "french": false,
-   "id": "989e08329eca",
-   "firstSeen": "2026-11-14"
+   "id": "f7d15bcea5da",
+   "firstSeen": "2026-11-24"
+  },
+  {
+   "t": "FLUIDS ENGINEER (M/W/*)",
+   "co": "Primetals Technologies",
+   "loc": "Linz, Austria",
+   "country": "",
+   "url": "https://careers.primetals.com/global/en/job/8575/FLUIDS-ENGINEER-M-W",
+   "posted": "2026-11-23",
+   "source": "Career page",
+   "fit": 100,
+   "tags": [
+    [
+     "Continuous casting",
+     1
+    ],
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Casting / foundry",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Development",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "369098140afd",
+   "firstSeen": "2026-11-24"
   },
   {
    "t": "Research Engineer (Londonderry, NH)",
@@ -622,6 +698,44 @@
    "firstSeen": "2026-10-28"
   },
   {
+   "t": "Lean Consultant (m/w/d) ((Prozessingenieur (m/w/d))",
+   "co": "Hirschvogel Group",
+   "loc": "Schongau",
+   "country": "DE",
+   "url": "https://jobs.hirschvogel.com/job/Lean-Consultant-%28mwd%29-%28%28Prozessingenieur-%28mwd%29%29/1459777433/",
+   "posted": "2026-11-23",
+   "source": "Indeed",
+   "fit": 94,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "LiDAR / sensing / automation",
+     1
+    ],
+    [
+     "Process engineering",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Internship / apprenticeship / student role (off-target)",
+     0
+    ]
+   ],
+   "cat": "Process",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "625651211f47",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "t": "Qualitätsingenieur (m/w/d)",
    "co": "Howmet Aerospace",
    "loc": "Bestwig",
@@ -994,6 +1108,44 @@
    "french": false,
    "id": "4db391968c61",
    "firstSeen": "2026-11-12"
+  },
+  {
+   "t": "Mitarbeiter:in Forschung & Entwicklung Lagertechnik",
+   "co": "voestalpine",
+   "loc": "Krems an der Donau",
+   "country": "AT",
+   "url": "https://jobs.voestalpine.com/index.php?ac=jobad&id=22160",
+   "posted": "2026-11-24",
+   "source": "Indeed",
+   "fit": 73,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Quality engineering",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "356e359458fb",
+   "firstSeen": "2026-11-24"
   },
   {
    "t": "Quality Engineer / Qualitätsingenieur:in",
