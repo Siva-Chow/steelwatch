@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-24 17:00 UTC",
- "count": 50,
+ "generated": "2026-11-25 16:51 UTC",
+ "count": 52,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (47)",
-  "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (3)",
+  "Indeed": "ok (50)",
+  "SuccessFactors": "ok (86)",
+  "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (94)",
-  "Calderys (Imerys)": "ok (94)"
+  "SSAB": "ok (98)",
+  "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
   {
@@ -48,6 +48,44 @@
    "french": false,
    "id": "989e08329eca",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "t": "Ingenieur:in Feuerfest (m/w/d)",
+   "co": "thyssenkrupp",
+   "loc": "Duisburg",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/Job_Board/job/Hamborn/Ingenieur-in-Feuerfest--m-w-d-_JR0000014170-1",
+   "posted": "2026-11-18",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "af455c5094f2",
+   "firstSeen": "2026-11-25"
   },
   {
    "t": "Masterarbeit zur Optimierung der freien Öffnungsrate von Gießpfannen im Stahlwerk",
@@ -1032,6 +1070,44 @@
    "french": false,
    "id": "fae2345d3d36",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "t": "Ingenieur Werkstofftechnik (w/m/d)",
+   "co": "Omterra",
+   "loc": "Berlin",
+   "country": "DE",
+   "url": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Ingenieur-Werkstofftechnik-w-m-d-/306731",
+   "posted": "2026-11-17",
+   "source": "Indeed",
+   "fit": 83,
+   "tags": [
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Digitalization / Industry 4.0",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "a4d09258241c",
+   "firstSeen": "2026-11-25"
   },
   {
    "t": "Ingenieur Werkstofftechnik (w/m/d)",
