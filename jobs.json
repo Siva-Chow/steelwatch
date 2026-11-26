@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-25 16:51 UTC",
+ "generated": "2026-11-26 16:27 UTC",
  "count": 52,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (50)",
-  "SuccessFactors": "ok (86)",
-  "Company feeds": "ok (5)",
+  "Indeed": "ok (46)",
+  "SuccessFactors": "ok (96)",
+  "Company feeds": "ok (4)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
-  "SSAB": "ok (98)",
+  "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
