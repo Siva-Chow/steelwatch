@@ -1,92 +1,16 @@
 {
- "generated": "2026-11-26 16:27 UTC",
- "count": 52,
+ "generated": "2026-11-27 16:13 UTC",
+ "count": 44,
  "status": {
   "Seed": "ok (16)",
-  "Indeed": "ok (46)",
+  "Indeed": "ok (45)",
   "SuccessFactors": "ok (96)",
-  "Company feeds": "ok (4)",
+  "Company feeds": "ok (5)",
   "thyssenkrupp Steel Europe": "error: 429 Client Error: Too Many Requests for url: https://steeleurope.wd3.myworkdayjobs.com/wday/cxs/steeleurope/Job_Board/jobs",
   "SSAB": "ok (100)",
   "Calderys (Imerys)": "ok (93)"
  },
  "jobs": [
-  {
-   "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
-   "co": "Saarstahl AG",
-   "loc": "Völklingen",
-   "country": "DE",
-   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-prozess-und-werkstoffentwicklung-m-w-d/?id=22384",
-   "posted": "2026-11-13",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "989e08329eca",
-   "firstSeen": "2026-11-14"
-  },
-  {
-   "t": "Ingenieur:in Feuerfest (m/w/d)",
-   "co": "thyssenkrupp",
-   "loc": "Duisburg",
-   "country": "DE",
-   "url": "https://steeleurope.wd3.myworkdayjobs.com/Job_Board/job/Hamborn/Ingenieur-in-Feuerfest--m-w-d-_JR0000014170-1",
-   "posted": "2026-11-18",
-   "source": "Indeed",
-   "fit": 100,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Refractories",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "af455c5094f2",
-   "firstSeen": "2026-11-25"
-  },
   {
    "t": "Masterarbeit zur Optimierung der freien Öffnungsrate von Gießpfannen im Stahlwerk",
    "co": "GMH Gruppe",
@@ -200,6 +124,82 @@
    "french": false,
    "id": "369098140afd",
    "firstSeen": "2026-11-24"
+  },
+  {
+   "t": "Ingenieur Prozess- und Werkstoffentwicklung (m/w/d)",
+   "co": "Saarstahl AG",
+   "loc": "Völklingen",
+   "country": "DE",
+   "url": "https://www.saarstahl.com/karriere/stellenportal/ingenieur-prozess-und-werkstoffentwicklung-m-w-d/?id=22384",
+   "posted": "2026-11-13",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "R&D / development",
+     1
+    ],
+    [
+     "Non-engineering / worker / admin (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "989e08329eca",
+   "firstSeen": "2026-11-14"
+  },
+  {
+   "t": "Ingenieur:in Feuerfest (m/w/d)",
+   "co": "thyssenkrupp",
+   "loc": "Duisburg",
+   "country": "DE",
+   "url": "https://steeleurope.wd3.myworkdayjobs.com/Job_Board/job/Hamborn/Ingenieur-in-Feuerfest--m-w-d-_JR0000014170-1",
+   "posted": "2026-11-18",
+   "source": "Indeed",
+   "fit": 100,
+   "tags": [
+    [
+     "Steel",
+     1
+    ],
+    [
+     "Metallurgy",
+     1
+    ],
+    [
+     "Refractories",
+     1
+    ],
+    [
+     "Materials",
+     1
+    ],
+    [
+     "Sales / trading (off-target)",
+     0
+    ]
+   ],
+   "cat": "Materials",
+   "note": [],
+   "offtype": false,
+   "french": false,
+   "id": "af455c5094f2",
+   "firstSeen": "2026-11-25"
   },
   {
    "t": "Research Engineer (Londonderry, NH)",
@@ -658,46 +658,6 @@
    "firstSeen": "2026-10-14"
   },
   {
-   "t": "Industrial Digitalization Engineer  (m/f/*)",
-   "co": "Primetals Technologies",
-   "loc": "Linz, Austria",
-   "country": "",
-   "url": "https://careers.primetals.com/global/en/job/8301/Industrial-Digitalization-Engineer-m-f",
-   "posted": "2026-10-05",
-   "source": "Career page",
-   "fit": 100,
-   "tags": [
-    [
-     "Continuous casting",
-     1
-    ],
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Sales / trading (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "cb4eae3beca8",
-   "firstSeen": "2026-10-12"
-  },
-  {
    "t": "Junior Verfahrens-/Prozessingenieur (m/w/d) / Bereich Prozesstechnik",
    "co": "AUMUND Fördertechnik GmbH",
    "loc": "Rheinberg",
@@ -956,44 +916,6 @@
    "french": false,
    "id": "88d83d2fbc7a",
    "firstSeen": "2026-10-27"
-  },
-  {
-   "t": "Fachreferent/-in für Metallurgie/ Rohstoffgewinnung/ Rezyklate (m/w/d)",
-   "co": "Berufsgenossenschaft Holz und Metall",
-   "loc": "Mainz",
-   "country": "DE",
-   "url": "https://www.bghm.de/karriereportal/stellenangebote/3869297-hzp",
-   "posted": "2026-10-12",
-   "source": "Indeed",
-   "fit": 90,
-   "tags": [
-    [
-     "Metallurgy",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Process engineering",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "b84ff71a116f",
-   "firstSeen": "2026-10-12"
   },
   {
    "t": "Furnace Systems & Plant Equipment Mechanical Engineer",
@@ -1264,46 +1186,6 @@
    "firstSeen": "2026-11-12"
   },
   {
-   "t": "Labormitarbeiter:in im Bereich Werkstoffe, Korrosion und Dauerhaftigkeit (m/w/d)",
-   "co": "ETH Zurich",
-   "loc": "Zürich",
-   "country": "CH",
-   "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_xoycY0syftRiptDI1A",
-   "posted": "2026-10-01",
-   "source": "Indeed",
-   "fit": 72,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "SEM / EDX characterization",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "7f4e337f6203",
-   "firstSeen": "2026-10-12"
-  },
-  {
    "t": "Quality Control Tech - 2nd Shift",
    "co": "RHI Magnesita",
    "loc": "",
@@ -1340,44 +1222,6 @@
    "french": false,
    "id": "1d13593b5bc4",
    "firstSeen": "2026-11-13"
-  },
-  {
-   "t": "Product Engineer",
-   "co": "Alleima",
-   "loc": "Stutensee, Germany",
-   "country": "",
-   "url": "https://alleima.wd3.myworkdayjobs.com/alleima-jobs/job/Stutensee/Product-Engineer_R0040733-1",
-   "posted": "2026-09-07",
-   "source": "Career page",
-   "fit": 69,
-   "tags": [
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Mechanical engineering base",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Development",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "3091f414a992",
-   "firstSeen": "2026-10-12"
   },
   {
    "t": "Mechanical engineer",
@@ -1458,116 +1302,6 @@
    "french": false,
    "id": "3bc119f58908",
    "firstSeen": "2026-10-14"
-  },
-  {
-   "t": "L. Six Sigma Black Belt Engineer",
-   "co": "Outokumpu Careers",
-   "loc": "Calvert, AL, US",
-   "country": "AL",
-   "url": "https://careers.outokumpu.com/talentcommunity/apply/1444439133/?locale=en_US",
-   "posted": "2026-11-03",
-   "source": "Career page",
-   "fit": 65,
-   "tags": [
-    [
-     "Steel",
-     1
-    ],
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Senior / management / executive (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "737ac331abc3",
-   "firstSeen": "2026-10-12"
-  },
-  {
-   "t": "Entwicklungsingenieur (m/w/d)",
-   "co": "sHW",
-   "loc": "Neuhausen",
-   "country": "DE",
-   "url": "https://www.shw.de/job-detail?id=2026-455",
-   "posted": "2026-10-08",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "e8599d64cf80",
-   "firstSeen": "2026-10-12"
-  },
-  {
-   "t": "Entwicklungsingenieur (m/w/d)",
-   "co": "Pankl",
-   "loc": "Neuhausen ob Eck",
-   "country": "DE",
-   "url": "https://www.shw.de/job-detail?id=2026-455",
-   "posted": "2026-10-08",
-   "source": "Indeed",
-   "fit": 62,
-   "tags": [
-    [
-     "Materials",
-     1
-    ],
-    [
-     "Casting / foundry",
-     1
-    ],
-    [
-     "R&D / development",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "Non-engineering / worker / admin (off-target)",
-     0
-    ]
-   ],
-   "cat": "Materials",
-   "note": [],
-   "offtype": false,
-   "french": false,
-   "id": "a13dc47395a4",
-   "firstSeen": "2026-10-12"
   },
   {
    "t": "Entwicklungsingenieur / R&D Engineer (m/w/d) - Fluid Connectors",
@@ -1730,46 +1464,6 @@
    "french": false,
    "id": "48ab40290bfe",
    "firstSeen": "2026-11-16"
-  },
-  {
-   "t": "Qualitätsingenieur (m/w/d)",
-   "co": "PMX GmbH",
-   "loc": "Heilbronn",
-   "country": "DE",
-   "url": "https://t.gohiring.com/h/e215a81d77edfade5f49f8812e0055bcacc12b84c90d5a8bbd8e59abcaa2dba5?source=Indeed",
-   "posted": "2026-10-08",
-   "source": "Indeed",
-   "fit": 45,
-   "tags": [
-    [
-     "Quality engineering",
-     1
-    ],
-    [
-     "Digitalization / Industry 4.0",
-     1
-    ],
-    [
-     "Production",
-     1
-    ],
-    [
-     "English-speaking role",
-     1
-    ],
-    [
-     "Internship / apprenticeship / student role (off-target)",
-     0
-    ]
-   ],
-   "cat": "Quality",
-   "note": [
-    "Asks for fluent German"
-   ],
-   "offtype": false,
-   "french": false,
-   "id": "65eb43f8800b",
-   "firstSeen": "2026-10-12"
   },
   {
    "t": "Skiftesgående processoperatör Råjärn (vikariat)",
